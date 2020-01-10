@@ -3,7 +3,9 @@ package com.dominikazb.medicalproducts.engine;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import org.codehaus.jackson.JsonParseException;
 import org.codehaus.jackson.map.JsonMappingException;
@@ -16,8 +18,7 @@ public class ReadJSon {
 	Map<MedicalProduct, ArrayList<Object>> outputMap = new HashMap<>();
 	
 	@SuppressWarnings("unchecked")
-	public void readJSonFile() throws JsonParseException, JsonMappingException, IOException {
-		
+	public Map<MedicalProduct, ArrayList<Object>> readJSonFile() throws JsonParseException, JsonMappingException, IOException {	
 		ObjectMapper mapper = new ObjectMapper(); 
 		mapper.configure(org.codehaus.jackson.map.DeserializationConfig.Feature.FAIL_ON_UNKNOWN_PROPERTIES, false); //ignore fields that are not formatted properly
 		TypeReference<HashMap<Object,Object>> typeRef = new TypeReference<HashMap<Object,Object>>() {};
@@ -32,13 +33,33 @@ public class ReadJSon {
 			String productsName = (String) newMap.get("name");
 			
 			MedicalProduct medicalProduct = new MedicalProduct(uniqueID, medicalID, productsName);
-			System.out.println("Medical product: " + medicalProduct);
 			ArrayList<Object> listOfDoctorsArrayList = (ArrayList<Object>) newMap.get("doctor");
-			for(Object c : listOfDoctorsArrayList) {
-				String doctorsSpecialty = c.toString();
-				System.out.println(doctorsSpecialty);
-			}
-			System.out.println("***********");
+			outputMap.put(medicalProduct, listOfDoctorsArrayList);
 		}
+		return outputMap;
 	}
+	
+	public ArrayList<String> getListOfMedicalProducts(Map<MedicalProduct, ArrayList<Object>> inputMap) {
+		//sort the list
+		List<MedicalProduct> medicalProductsList = new ArrayList<>();
+		for(Map.Entry<MedicalProduct, ArrayList<Object>> entry : inputMap.entrySet()) {
+			medicalProductsList.add(entry.getKey());
+		}	
+		Collections.sort(medicalProductsList, (left, right) -> left.getUniqueID() - right.getUniqueID());
+		
+		ArrayList<String> listOfMedicalProducts = new ArrayList<>();
+		for(int i=0; i < medicalProductsList.size(); i++) {
+			listOfMedicalProducts.add(medicalProductsList.get(i).getMedicalID() + "  " + medicalProductsList.get(i).getName());
+		}
+		return listOfMedicalProducts;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }

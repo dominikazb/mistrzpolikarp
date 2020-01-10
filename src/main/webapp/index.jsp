@@ -1,4 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 
@@ -8,11 +9,12 @@
 <meta charset="UTF-8">
 
 <title>MistrzPolikarp - Wyszukiwarka</title>
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
+<link
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"
+	rel="stylesheet">
 
 
 <style>
-
 .jumbotron {
 	background-color: white;
 }
@@ -34,7 +36,6 @@
 	margin-top: -80px;
 }
 
-
 input[type='text'] {
 	font-size: 15px;
 	height: 40px;
@@ -49,44 +50,75 @@ input[type='text'] {
 
 </head>
 <body>
-  
 
 
-<div class="container">
-	<div class="jumbotron">
-		<div class="topCaption1">
-			<div class="topCaption2">
-				<h4>Witaj na MistrzPolikarp</h4>
+
+	<div class="container">
+		<div class="jumbotron">
+			<div class="topCaption1">
+				<div class="topCaption2">
+					<h4>Witaj na MistrzPolikarp</h4>
+				</div>
 			</div>
-		</div>
-		<hr class="my-4">
-	</div>
-</div>
-
-
-<div class="container">
-	<div class="jumbotron">
-		<div class="row vertical-align">
-			<div class="col-xs-6">
-
-
-<form action="/read" method="post">
-<input type="submit">
-</form>
-
-
-
-			</div>
-			<div class="col-xs-6">
-<form action="/read" method="post">
-<input type="submit">
-</form>
-
-
-			</div>
+			<hr class="my-4">
 		</div>
 	</div>
-</div>
+
+
+	<div class="container">
+		<div class="jumbotron">
+			<div class="row vertical-align">
+				<div class="col-xs-6">
+
+
+					<form action="/read" method="post">
+						<input type="submit">
+					</form>
+
+
+
+				</div>
+				<div class="col-xs-6">
+					<form action="/read" method="post">
+						<input type="submit">
+					</form>
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="container">
+
+		<div class="jumbotron">
+
+			<table class="table table-striped">
+				<thead>
+					<tr>
+						<th>List</th>
+
+
+					</tr>
+				</thead>
+
+
+				<tbody>
+					<c:forEach items="${listOfMedicalProducts}" var="elem">
+						<tr>
+							<td><c:out value="${elem}" /></td>
+						</tr>
+					</c:forEach>
+				</tbody>
+			</table>
+
+
+
+
+		</div>
+	</div>
 
 
 
@@ -94,9 +126,9 @@ input[type='text'] {
 
 
 
-
-
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script
+		src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script
+		src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 </body>
 </html>
