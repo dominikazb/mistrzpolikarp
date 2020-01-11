@@ -5,16 +5,44 @@
 
 <html>
 <head>
+
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"
+	rel="stylesheet">
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
+
+
+
 <%@ page isELIgnored="false"%>
 <meta charset="UTF-8">
 
 <title>MistrzPolikarp - Wyszukiwarka</title>
-<link
-	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"
-	rel="stylesheet">
+
 
 
 <style>
+html {
+	height: 100%;
+}
+
+body {
+	background: -webkit-linear-gradient(90deg, #EC6F66 10%, #F3A183 90%);
+	/* Chrome 10+, Saf5.1+ */
+	background: -moz-linear-gradient(90deg, #EC6F66 10%, #F3A183 90%);
+	/* FF3.6+ */
+	background: -ms-linear-gradient(90deg, #EC6F66 10%, #F3A183 90%);
+	/* IE10 */
+	background: -o-linear-gradient(90deg, #EC6F66 10%, #F3A183 90%);
+	/* Opera 11.10+ */
+	background: linear-gradient(90deg, #EC6F66 10%, #F3A183 90%); /* W3C */
+	font-size: 20px;
+}
+
 .jumbotron {
 	background-color: white;
 }
@@ -60,53 +88,46 @@ select {
 <body>
 
 
-
 	<div class="container">
 		<div class="jumbotron">
-			<div class="topCaption1">
-				<div class="topCaption2">
-					<h4>Witaj na MistrzPolikarp</h4>
-				</div>
-			</div>
-			<hr class="my-4">
+			<h1>List of medical products</h1>
 		</div>
 	</div>
 
 
-	<div class="container">
-		<div class="jumbotron">
-			<div class="row vertical-align">
-				<div class="col-xs-6">
+
+	<div class="row">
+		<div class="col-xs-2 border col-xs-offset-4">
+
+			<p class="lead">Wyszukaj produkt:</p>
+			<form action="/read" method="POST">
+				<input list="medicalProductsList">
+				<datalist id="medicalProductsList">
+					<c:forEach items="${listOfMedicalProducts}" var="element">
+						<option
+							${listOfMedicalProducts.contains(element) ? 'selected' : ''}>${element}</option>
+					</c:forEach>
+				</datalist>
+			</form>
 
 
-					<select name="medicalProductsList">
-						<c:forEach items="${listOfMedicalProducts}" var="element">
-							<option
-								${listOfMedicalProducts.contains(element) ? 'selected' : ''}>${element}</option>
-						</c:forEach>
-					</select>
+
+		</div>
+		<div class="col-xs-2 border">
+
+
+			<p class="lead">Wyszukaj lekarza:</p>
+			<form action="/read" method="POST">
+				<input list="medicalDoctorsList">
+				<datalist id="medicalDoctorsList">
+					<c:forEach items="${listOfMedicalDoctors}" var="doctor">
+						<option ${listOfMedicalDoctors.contains(doctor) ? 'selected' : ''}>${doctor}</option>
+					</c:forEach>
+				</datalist>
+			</form>
 
 
 
-				</div>
-				<div class="col-xs-6">
-
-					<form action="/read" method="post">
-
-						<input type="submit">
-					</form>
-
-
-					<select name="medicalDoctorsList">
-						<c:forEach items="${listOfMedicalDoctors}" var="doctor">
-							<option
-								${listOfMedicalDoctors.contains(doctor) ? 'selected' : ''}>${doctor}</option>
-						</c:forEach>
-					</select>
-
-
-				</div>
-			</div>
 		</div>
 	</div>
 
@@ -117,9 +138,6 @@ select {
 
 
 
-	<script
-		src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<script
-		src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
 </body>
 </html>
