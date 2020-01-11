@@ -45,6 +45,14 @@ input[type='text'] {
 	font-size: 15px;
 	height: 40px;
 }
+
+select {
+	width: 400px;
+	overflow: hidden;
+	white-space: pre;
+	text-overflow: ellipsis;
+	-webkit-appearance: none;
+}
 </style>
 
 
@@ -71,17 +79,30 @@ input[type='text'] {
 				<div class="col-xs-6">
 
 
-					<form action="/read" method="post">
-						<input type="submit">
-					</form>
+					<select name="medicalProductsList">
+						<c:forEach items="${listOfMedicalProducts}" var="element">
+							<option
+								${listOfMedicalProducts.contains(element) ? 'selected' : ''}>${element}</option>
+						</c:forEach>
+					</select>
 
 
 
 				</div>
 				<div class="col-xs-6">
+
 					<form action="/read" method="post">
+
 						<input type="submit">
 					</form>
+
+
+					<select name="medicalDoctorsList">
+						<c:forEach items="${listOfMedicalDoctors}" var="doctor">
+							<option
+								${listOfMedicalDoctors.contains(doctor) ? 'selected' : ''}>${doctor}</option>
+						</c:forEach>
+					</select>
 
 
 				</div>
@@ -89,36 +110,6 @@ input[type='text'] {
 		</div>
 	</div>
 
-
-
-	<div class="container">
-
-		<div class="jumbotron">
-
-			<table class="table table-striped">
-				<thead>
-					<tr>
-						<th>List</th>
-
-
-					</tr>
-				</thead>
-
-
-				<tbody>
-					<c:forEach items="${listOfMedicalProducts}" var="elem">
-						<tr>
-							<td><c:out value="${elem}" /></td>
-						</tr>
-					</c:forEach>
-				</tbody>
-			</table>
-
-
-
-
-		</div>
-	</div>
 
 
 

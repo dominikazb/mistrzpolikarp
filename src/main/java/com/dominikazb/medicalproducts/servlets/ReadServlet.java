@@ -3,33 +3,38 @@ package com.dominikazb.medicalproducts.servlets;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Map;
+import java.util.TreeMap;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import javax.servlet.http.HttpSession;
-
 import com.dominikazb.medicalproducts.engine.MedicalProduct;
-import com.dominikazb.medicalproducts.engine.ReadJSon;
 
 
 @WebServlet("/read")
 public class ReadServlet extends HttpServlet {
+	
 	private static final long serialVersionUID = 1L;
-       
-	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		
-		HttpSession session = request.getSession();
-		ReadJSon readJson = new ReadJSon();	
-		Map<MedicalProduct, ArrayList<Object>> medicalProductsDoctorsMap = readJson.readJSonFile();
-		ArrayList<String> listOfMedicalProducts = readJson.getListOfMedicalProducts(medicalProductsDoctorsMap);
-		session.setAttribute("listOfMedicalProducts", listOfMedicalProducts);
+	
+	
+	@SuppressWarnings("unchecked")
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+//		Map<MedicalProduct, ArrayList<Object>> medicalProductsDoctorsMap = (Map<MedicalProduct, ArrayList<Object>>) getServletContext().getAttribute("medicalProductsDoctorsMap");
+
 
 		
+		request.getRequestDispatcher("/earthquakesList.jsp").forward(request, response);
+	}
+	   
+	@SuppressWarnings("unchecked")
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
+
+//		ArrayList<String> resultsListOfMedicalProductsForParticularSpecialty = printLists.getListOfMedicalProductsForParticularSpecialty(medicalProductsDoctorsMap, "Lekarz okulistyki");
 		request.getRequestDispatcher("/index.jsp").forward(request, response);
 		
 	}
-
+	
 }

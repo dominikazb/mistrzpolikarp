@@ -2,11 +2,15 @@ package com.dominikazb.medicalproducts.engine;
 
 import java.io.IOException;
 import java.net.URL;
+import java.text.Collator;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Locale;
 import java.util.Map;
+import java.util.stream.Collectors;
+
 import org.codehaus.jackson.JsonParseException;
 import org.codehaus.jackson.map.JsonMappingException;
 import org.codehaus.jackson.map.ObjectMapper;
@@ -40,6 +44,7 @@ public class ReadJSon {
 	}
 	
 	public ArrayList<String> getListOfMedicalProducts(Map<MedicalProduct, ArrayList<Object>> inputMap) {
+		ArrayList<String> listOfMedicalProducts = new ArrayList<>();
 		//sort the list
 		List<MedicalProduct> medicalProductsList = new ArrayList<>();
 		for(Map.Entry<MedicalProduct, ArrayList<Object>> entry : inputMap.entrySet()) {
@@ -47,17 +52,24 @@ public class ReadJSon {
 		}	
 		Collections.sort(medicalProductsList, (left, right) -> left.getUniqueID() - right.getUniqueID());
 		
-		ArrayList<String> listOfMedicalProducts = new ArrayList<>();
 		for(int i=0; i < medicalProductsList.size(); i++) {
-			listOfMedicalProducts.add(medicalProductsList.get(i).getMedicalID() + "  " + medicalProductsList.get(i).getName());
+			listOfMedicalProducts.add(medicalProductsList.get(i).getMedicalID() + " - " + medicalProductsList.get(i).getName());
 		}
 		return listOfMedicalProducts;
 	}
 	
-	
-	
-	
-	
+	public ArrayList<String> getListOfMedicalDoctors(Map<MedicalProduct, ArrayList<Object>> inputMap) {
+		ArrayList<String> listOfMedicalDoctors = new ArrayList<>();
+		for(Map.Entry<MedicalProduct, ArrayList<Object>> entry : inputMap.entrySet()) {
+			for(Object medicalDoctorObject : entry.getValue()) {
+				String medicalDoctor = medicalDoctorObject.toString();
+				listOfMedicalDoctors.add(medicalDoctor);
+			}
+		}
+		ArrayList<String> listWithoutDuplicates = (ArrayList<String>) listOfMedicalDoctors.stream().distinct().collect(Collectors.toList());
+		Collections.sort(listWithoutDuplicates, Collator.getInstance(new Locale("pl", "PL")));
+		return listWithoutDuplicates;
+	}
 	
 	
 	

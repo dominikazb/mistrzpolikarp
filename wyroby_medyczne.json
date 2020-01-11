@@ -1,0 +1,3020 @@
+{
+  "products" : [
+    {
+      "uniqueID" : "1",
+      "group" : "A",
+      "medicalID" : "A.1",
+      "name" : "Protezowa wkładka do buta uzupełniająca stopę - do zwykłego obuwia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "2",
+      "group" : "A",
+      "medicalID" : "A.2",
+      "name" : "Proteza uzupełniająca stopę",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+    {
+      "uniqueID" : "3",
+      "group" : "A",
+      "medicalID" : "A.3",
+      "name" : "Proteza ostateczna w obrębie stawu skokowego z kikutem oporowym",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "4",
+      "group" : "B",
+      "medicalID" : "B.4",
+      "name" : "Proteza tymczasowa podudzia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "5",
+      "group" : "B",
+      "medicalID" : "B.5",
+      "name" : "Proteza ostateczna skorupowa podudzia z tuleją udową i połączeniem w obrębie stawu kolanowego",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "6",
+      "group" : "B",
+      "medicalID" : "B.6",
+      "name" : "Proteza ostateczna modularna podudzia z tuleją udową i połączeniem w obrębie stawu kolanowego",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "7",
+      "group" : "B",
+      "medicalID" : "B.7",
+      "name" : "Proteza ostateczna skorupowa podudzia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "8",
+      "group" : "B",
+      "medicalID" : "B.8",
+      "name" : "Proteza ostateczna modularna podudzia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+    {
+      "uniqueID" : "9",
+      "group" : "B",
+      "medicalID" : "B.9",
+      "name" : "Wymiana leja w protezie tymczasowej podudzia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "10",
+      "group" : "B",
+      "medicalID" : "B.10",
+      "name" : "Wymiana leja w protezie ostatecznej podudzia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "11",
+      "group" : "B",
+      "medicalID" : "B.11",
+      "name" : "Protezowe wyrównanie skrócenia kończyny dolnej w obrębie podudzia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "12",
+      "group" : "C",
+      "medicalID" : "C.12",
+      "name" : "Proteza tymczasowa w obrębie uda",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "13",
+      "group" : "C",
+      "medicalID" : "C.13",
+      "name" : "Proteza ostateczna skorupowa w obrębie uda",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "14",
+      "group" : "C",
+      "medicalID" : "C.14",
+      "name" : "Proteza ostateczna modularna w obrębie uda",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "15",
+      "group" : "C",
+      "medicalID" : "C.15",
+      "name" : "Protezowe wyrównanie skrócenia kończyny dolnej w obrębie uda",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "16",
+      "group" : "C",
+      "medicalID" : "C.16",
+      "name" : "Wymiana leja w protezie tymczasowej uda",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "17",
+      "group" : "C",
+      "medicalID" : "C.17",
+      "name" : "Wymiana leja w protezie ostatecznej uda",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "18",
+      "group" : "D",
+      "medicalID" : "D.18",
+      "name" : "Proteza ostateczna skorupowa z koszem biodrowym po wyłuszczeniu w stawie biodrowym lub z krótkim k kutem wymagającym zaprotezowania z koszem biodrowym",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+    {
+      "uniqueID" : "19",
+      "group" : "D",
+      "medicalID" : "D.19",
+      "name" : "Proteza ostateczna modularna z koszem biodrowym po wyłuszczeniu w stawie biodrowym lub z krótkim k kutem wymagającym zaprotezowania z koszem biodrowym",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "20",
+      "group" : "D",
+      "medicalID" : "D.20",
+      "name" : "Wymiana kosza biodrowego po wyłuszczeniu w stawie biodrowym",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "21",
+      "group" : "E",
+      "medicalID" : "E.21",
+      "name" : "Proteza kosmetyczna w obrębie ręki",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+    {
+      "uniqueID" : "22",
+      "group" : "F",
+      "medicalID" : "F.22",
+      "name" : "Proteza kosmetyczna w obrębie przedramienia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "23",
+      "group" : "F",
+      "medicalID" : "F.23",
+      "name" : "Proteza robocza z końcówką roboczą w obrębie przedramienia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "24",
+      "group" : "G",
+      "medicalID" : "G.24",
+      "name" : "Proteza kosmetyczna w obrębie ramienia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "25",
+      "group" : "G",
+      "medicalID" : "G.25",
+      "name" : "Proteza robocza z końcówką roboczą w obrębie ramienia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "26",
+      "group" : "G",
+      "medicalID" : "G.26",
+      "name" : "Proteza kosmetyczna całej kończyny górnej po wyłuszczeniu w obrębie stawu barkowego",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "27",
+      "group" : "G",
+      "medicalID" : "G.27",
+      "name" : "Proteza robocza z końcówką roboczą całej kończyny górnej po wyłuszczeniu w obrębie stawu barkowego",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "28",
+      "group" : "H",
+      "medicalID" : "H.28",
+      "name" : "Orteza obejmująca goleń i stopę lub ze strzemieniem (typu AFO)",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "29",
+      "group" : "H",
+      "medicalID" : "H.29",
+      "name" : "Orteza krótka korygująca zaburzenia osiowe w płaszczyźnie czołowej (typu DAFO lub GRAFO)",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "30",
+      "group" : "H",
+      "medicalID" : "H.30",
+      "name" : "Orteza z ujęciem uda, goleni i stopy (typu KAFO)",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "31",
+      "group" : "H",
+      "medicalID" : "H.31",
+      "name" : "Orteza obejmująca obręcz biodrową, uda, golenie i stopy (typu HKAFO)",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "32",
+      "group" : "H",
+      "medicalID" : "H.32",
+      "name" : "Orteza odciążająca kończynę dolną",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "33",
+      "group" : "H",
+      "medicalID" : "H.33",
+      "name" : "Orteza reciprokalna z umożliwieniem ruchu w stawach skokowych i kolanowych",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+    {
+      "uniqueID" : "34",
+      "group" : "I",
+      "medicalID" : "I.34",
+      "name" : "Pas biodrowy z szyną lub szynami",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+    {
+      "uniqueID" : "35",
+      "group" : "I",
+      "medicalID" : "I.35",
+      "name" : "Kosz biodrowy",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+
+        {
+          "uniqueID" : "36",
+          "group" : "J",
+          "medicalID" : "J.36",
+          "name" : "Orteza stabilizująca staw skokowy",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+     	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "37",
+          "group" : "J",
+          "medicalID" : "J.37",
+          "name" : "Orteza sztywna lub półsztywna z tworzywa sztucznego na goleń i stopę",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "38",
+          "group" : "J",
+          "medicalID" : "J.38",
+          "name" : "Orteza stawu kolanowego z ruchomym stawem kolanowym z regulacją kąta zgięcia",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+
+        {
+          "uniqueID" : "39",
+          "group" : "J",
+          "medicalID" : "J.39",
+          "name" : "Orteza stawu kolanowego obejmująca całą goleń i udo, z regulacją zakresu ruchomości",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "40",
+          "group" : "J",
+          "medicalID" : "J.40",
+          "name" : "Orteza jednostronna lub obustronna unieruchamiająca lub stabilizująca staw biodrowy z regulowanym kątem zgięcia lub odwiedzenia",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "41",
+          "group" : "J",
+          "medicalID" : "J.41",
+          "name" : "Szyna typu Saint-Germain",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "42",
+          "group" : "J",
+          "medicalID" : "J.42",
+          "name" : "Szyna Denis-Browna z obuwiem",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "43",
+          "group" : "J",
+          "medicalID" : "J.43",
+          "name" : "Orteza na całą kończynę dolną z ujęciem stopy z regulacją kąta zgięcia w stawie kolanowym",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "44",
+          "group" : "J",
+          "medicalID" : "J.44",
+          "name" : "Orteza odwodząca do leczenia rozwojowej dysplazji stawu biodrowego",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "45",
+          "group" : "K",
+          "medicalID" : "K.45",
+          "name" : "Orteza na rękę i przedramię",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "46",
+          "group" : "K",
+          "medicalID" : "K.46",
+          "name" : "Orteza przedramienno-ramienna z ujęciem ręki",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "47",
+          "group" : "L",
+          "medicalID" : "L.47",
+          "name" : "Orteza ręki stabilizująca lub korygująca (z wyłączeniem aparatu Stacka i Capenera)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "48",
+          "group" : "L",
+          "medicalID" : "L.48",
+          "name" : "Orteza na rękę i przedramię",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "49",
+          "group" : "L",
+          "medicalID" : "L.49",
+          "name" : "Orteza stawu łokciowego z regulacją kąta zgięcia z ujęciem ręki lub bez",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "50",
+          "group" : "L",
+          "medicalID" : "L.50",
+          "name" : "Orteza stawu łokciowego z ujęciem ręki lub bez",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "51",
+          "group" : "L",
+          "medicalID" : "L.51",
+          "name" : "Orteza na ramię i bark (z wyłączeniem temblaków i ortez typu 'Dessault')",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "52",
+          "group" : "L",
+          "medicalID" : "L.52",
+          "name" : "Orteza na ramię i bark typu 'Dessault'",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+
+          ]
+        },
+
+
+
+        {
+          "uniqueID" : "53",
+          "group" : "L",
+          "medicalID" : "L.53",
+          "name" : "Orteza odwodząca stawu barkowego z regulacją kąta odwiedzenia",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+
+        {
+          "uniqueID" : "54",
+          "group" : "Ł",
+          "medicalID" : "Ł.54",
+          "name" : "Gorset odciążająco-stabilizujący (z wyłączeniem gorsetu typu Jewetta)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "55",
+          "group" : "Ł",
+          "medicalID" : "Ł.55",
+          "name" : "Gorset korekcyjny do leczenia skolioz lub kyfoz",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "56",
+          "group" : "Ł",
+          "medicalID" : "Ł.56",
+          "name" : "Orteza tułowia lędźwiowo-krzyżowa",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+
+        {
+          "uniqueID" : "57",
+          "group" : "M",
+          "medicalID" : "M.57",
+          "name" : "Gorset stabilizująco-unieruchamiający",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "58",
+          "group" : "M",
+          "medicalID" : "M.58",
+          "name" : "Pas stabilizujący odcinek lędźwiowo-krzyżowy lub miednicę",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+          ]
+        },
+
+        {
+          "uniqueID" : "59",
+          "group" : "M",
+          "medicalID" : "M.59",
+          "name" : "Orteza (sznurówka) tułowia sztywna wysoka ze stalkami lub fiszbinami",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+          ]
+        },
+
+        {
+          "uniqueID" : "60",
+          "group" : "M",
+          "medicalID" : "M.60",
+          "name" : "Orteza (sznurówka) lędźwiowo-krzyżowa ze stalkami lub fiszbinami",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "61",
+          "group" : "M",
+          "medicalID" : "M.61",
+          "name" : "Kołnierz sztywny",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "62",
+          "group" : "M",
+          "medicalID" : "M.62",
+          "name" : "Kołnierz półsztywny",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "63",
+          "group" : "M",
+          "medicalID" : "M.63",
+          "name" : "Półgorsetowa orteza szyjna",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "64",
+          "group" : "N",
+          "medicalID" : "N.64",
+          "name" : "But na stopę o różnym zniekształceniu",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz diabetologii",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "65",
+          "group" : "N",
+          "medicalID" : "N.65",
+          "name" : "But wyrównujący skrócenie kończyny dolnej",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz diabetologii",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "66",
+          "group" : "N",
+          "medicalID" : "N.66",
+          "name" : "But przy amputacji w obrębie stopy",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz diabetologii",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "67",
+          "group" : "N",
+          "medicalID" : "N.67",
+          "name" : "But do ortezy obejmującej stopę",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz diabetologii",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "68",
+          "group" : "N",
+          "medicalID" : "N.68",
+          "name" : "But do pary przy zaopatrzeniu jednoczesnym na chorą stopę",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz diabetologii",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "69",
+          "group" : "O",
+          "medicalID" : "O.69",
+          "name" : "Rękaw uciskowy płaskodziany z krytym szwem, bez zawartości bawełny, z uciskiem nie mniejszym niż 20 mmHg",
+          "doctor" : [
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz angiologii",
+            "Lekarz chirurgii naczyniowej",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "70",
+          "group" : "O",
+          "medicalID" : "O.70",
+          "name" : "Nogawica uciskowa płaskodziana z krytym szwem, bez zawartości bawełny, z uciskiem nie mniejszym niż 30 mmHg",
+          "doctor" : [
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz angiologii",
+            "Lekarz chirurgii naczyniowej",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+          ]
+        },
+
+
+
+
+
+
+        {
+          "uniqueID" : "71",
+          "group" : "P",
+          "medicalID" : "P.71",
+          "name" : "Soczewka okularowa korekcyjna do bliży",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "72",
+          "group" : "P",
+          "medicalID" : "P.72",
+          "name" : "Soczewka okularowa korekcyjna do dali",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "73",
+          "group" : "P",
+          "medicalID" : "P.73",
+          "name" : "Soczewka okularowa korekcyjna do bliży",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "74",
+          "group" : "P",
+          "medicalID" : "P.74",
+          "name" : "Soczewka okularowa korekcyjna do dali",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "75",
+          "group" : "P",
+          "medicalID" : "P.75",
+          "name" : "Soczewka kontaktowa twarda",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "76",
+          "group" : "P",
+          "medicalID" : "P.76",
+          "name" : "Soczewka kontaktowa miękka",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "77",
+          "group" : "P",
+          "medicalID" : "P.77",
+          "name" : "Epiproteza oka",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "78",
+          "group" : "P",
+          "medicalID" : "P.78",
+          "name" : "Proteza oka",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "79",
+          "group" : "P",
+          "medicalID" : "P.79",
+          "name" : "Lupa",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "80",
+          "group" : "P",
+          "medicalID" : "P.80",
+          "name" : "Monokular",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "81",
+          "group" : "P",
+          "medicalID" : "P.81",
+          "name" : "Okulary lupowe",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "82",
+          "group" : "P",
+          "medicalID" : "P.82",
+          "name" : "Okulary lornetkowe do bliży",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "83",
+          "group" : "P",
+          "medicalID" : "P.83",
+          "name" : "Okulary lornetkowe do dali",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "84",
+          "group" : "P",
+          "medicalID" : "P.84",
+          "name" : "Aparat słuchowy na przewodnictwo powietrzne przy jednostronnym ubytku słuchu albo dwa aparaty słuchowe na przewodnictwo powietrzne przy obustronnym ubytku słuchu",
+          "doctor" : [
+            "Lekarz audiologii i foniatrii",
+            "Lekarz audiologii",
+            "Lekarz otolaryngologii",
+            "Lekarz otolaryngologii dziecięcej",
+            "Lekarz otorynolaryngologii",
+            "Lekarz otorynolaryngologii dziecięcej",
+            "Lekarz laryngologii"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "85",
+          "group" : "P",
+          "medicalID" : "P.85",
+          "name" : "Aparat słuchowy na przewodnictwo kostne przy jednostronnym ubytku słuchu albo dwa aparaty słuchowe na przewodnictwo kostne przy obustronnym ubytku słuchu, z wyłączeniem aparatów słuchowych mocowanych na stałe",
+          "doctor" : [
+            "Lekarz audiologii i foniatrii",
+            "Lekarz audiologii",
+            "Lekarz otolaryngologii",
+            "Lekarz otolaryngologii dziecięcej",
+            "Lekarz otorynolaryngologii",
+            "Lekarz otorynolaryngologii dziecięcej",
+            "Lekarz laryngologii"
+          ]
+        },
+
+        {
+          "uniqueID" : "86",
+          "group" : "P",
+          "medicalID" : "P.86",
+          "name" : "Wkładka uszna wykonana indywidualnie",
+          "doctor" : [
+            "Lekarz audiologii i foniatrii",
+            "Lekarz audiologii",
+            "Lekarz otolaryngologii",
+            "Lekarz otolaryngologii dziecięcej",
+            "Lekarz otorynolaryngologii",
+            "Lekarz otorynolaryngologii dziecięcej",
+            "Lekarz laryngologii"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "87",
+          "group" : "P",
+          "medicalID" : "P.87",
+          "name" : "Systemy wspomagające słyszenie",
+          "doctor" : [
+            "Lekarz audiologii i foniatrii",
+            "Lekarz audiologii",
+            "Lekarz otolaryngologii",
+            "Lekarz otolaryngologii dziecięcej",
+            "Lekarz otorynolaryngologii",
+            "Lekarz otorynolaryngologii dziecięcej",
+            "Lekarz laryngologii"
+          ]
+        },
+
+        {
+          "uniqueID" : "88",
+          "group" : "P",
+          "medicalID" : "P.88",
+          "name" : "Krtań elektroniczna (aparat wspomagający mowę)",
+          "doctor" : [
+            "Lekarz otolaryngologii",
+            "Lekarz laryngologii",
+            "Lekarz otolaryngologii dziecięcej",
+            "Lekarz otorynolaryngologii dziecięcej",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz audiologii i foniatrii",
+            "Lekarz audiologii",
+            "Lekarz foniatrii",
+            "Lekarz otorynolaryngologii"
+          ]
+        },
+
+        {
+          "uniqueID" : "89",
+          "group" : "P",
+          "medicalID" : "P.89",
+          "name" : "Rurka tracheostomijna wraz z zapasowym wkładem",
+          "doctor" : [
+            "Lekarz otolaryngologii",
+            "Lekarz laryngologii",
+            "Lekarz otolaryngologii dziecięcej",
+            "Lekarz otorynolaryngologii dziecięcej",
+            "Lekarz onkologii klinicznej",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+          ]
+        },
+
+        {
+          "uniqueID" : "90",
+          "group" : "P",
+          "medicalID" : "P.90",
+          "name" : "Cewniki jednorazowe do odsysania górnych dróg oddechowych do 180 sztuk",
+          "doctor" : [
+            "Lekarz anestezjologii",
+            "Lekarz neurologii",
+            "Lekarz chorób płuc",
+            "Lekarz chorób płuc dzieci",
+            "Lekarz ftyzjatrii",
+            "Lekarz ftyzjatrii dziecięcej",
+            "Lekarz chirurgii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz laryngologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz anestezjologii i intensywnej terapii",
+            "Lekarz anestezjologii",
+            "Lekarz anestezjologii i reanimacji",
+            "Lekarz anestezjologii i intensywnej terapii",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Kontynuacja zlecenia przez pielęgniarkę lub położną, o której mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, przez okres do 6 miesięcy od dnia określonego w dokumentacji medycznej"
+          ]
+        },
+
+
+
+
+        {
+          "uniqueID" : "91",
+          "group" : "P",
+          "medicalID" : "P.91",
+          "name" : "Zestawy infuzyjne do osobistej pompy insulinowej 10 sztuk (obejmujące wkłucie, łącznik i dren)",
+          "doctor" : [
+            "TO JEST TEN WPIS KTORY TRZEBA PRZEFORMATOWAC"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "92",
+          "group" : "P",
+          "medicalID" : "P.92",
+          "name" : "Proteza piersi",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz ginekologii",
+            "Lekarz ginekologii onkologicznej",
+            "Lekarz radioterapii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+
+        {
+          "uniqueID" : "93",
+          "group" : "P",
+          "medicalID" : "P.93",
+          "name" : "Peruka",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz ginekologii onkologicznej",
+            "Lekarz radioterapii onkologicznej",
+            "Lekarz dermatologii i wenerologii",
+            "Lekarz onkologii i hematologii dziecięcej",
+            "Lekarz hematologii",
+            "Lekarz pulmonologii",
+            "Lekarz chorób płuc",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz dziedzinie pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "94",
+          "group" : "P",
+          "medicalID" : "P.94",
+          "name" : "Cewniki zewnętrzne do 30 sztuk",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz urologii",
+            "Lekarz urologii dziecięcej",
+            "Lekarz geriatrii",
+            "Lekarz położnictwa i ginekologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Kontynuacja zlecenia przez pielęgniarkę lub położną, o której mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, przez okres do 6 miesięcy od dnia określonego w dokumentacji medycznej"
+          ]
+        },
+
+        {
+          "uniqueID" : "95",
+          "group" : "P",
+          "medicalID" : "P.95",
+          "name" : "Cewniki urologiczne do 4 sztuk lub w równowartości ich kosztu cewnik silikonowy",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz geriatrii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz urologii",
+            "Lekarz urologii dziecięcej",
+            "Lekarz położnictwa i ginekologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Kontynuacja zlecenia przez pielęgniarkę lub położną, o której mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, przez okres do 6 miesięcy od dnia określonego w dokumentacji medycznej"
+          ]
+        },
+
+        {
+          "uniqueID" : "96",
+          "group" : "P",
+          "medicalID" : "P.96",
+          "name" : "Cewniki jednorazowe urologiczne do 180 sztuk miesięcznie lub w równowartości ich kosztu jednorazowe hydrofilowe cewniki urologiczne",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz urologii",
+            "Lekarz urologii dziecięcej",
+            "Lekarz położnictwa i ginekologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Kontynuacja zlecenia przez pielęgniarkę lub położną, o której mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, przez okres do 6 miesięcy od dnia określonego w dokumentacji medycznej"
+          ]
+        },
+
+        {
+          "uniqueID" : "97",
+          "group" : "P",
+          "medicalID" : "P.97",
+          "name" : "Worki do zbiórki moczu z odpływem do 12 sztuk",
+          "doctor" : [
+            "Lekarz urologii",
+            "Lekarz urologii dziecięcej",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz położnictwa i ginekologii",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Kontynuacja zlecenia przez pielęgniarkę lub położną, o której mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, przez okres do 6 miesięcy od dnia określonego w dokumentacji medycznej"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "98",
+          "group" : "P",
+          "medicalID" : "P.98",
+          "name" : "Worki do zbiórki moczu w ilości do 12 sztuk w przypadku nefrostomii lub w równowartości ich nabycia inny sprzęt urologiczny (np. cewniki urologiczne, paski mocujące itp.)",
+          "doctor" : [
+            "Lekarz urologii",
+            "Lekarz urologii dziecięcej",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz nefrologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Kontynuacja zlecenia przez pielęgniarkę lub położną, o której mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, przez okres do 6 miesięcy od dnia określonego w dokumentacji medycznej"
+          ]
+        },
+
+        {
+          "uniqueID" : "99",
+          "group" : "P",
+          "medicalID" : "P.99",
+          "name" : "Worki stomijne samoprzylepne jednorazowego użycia w ilości do 90 sztuk w systemie jednoczęściowym lub w równowartości ich kosztu worki i płytki w systemie dwuczęściowym lub inny sprzęt stomijny: zestawy irygacyjne, nocne zbiorniki na mocz, pasty, pudry oraz paski, półpierścienie, pierścienie o właściwościach uszczelniających lub gojących, produkty do usuwania sprzętu stomijnego lub do ochrony skóry wokół stomii",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii klinicznej",
+            "Lekarz onkologii i hematologii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz urologii (w przypadku urostomii)",
+            "Lekarz urologii dzięcej (w przypadku urostomii)",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Kontynuacja zlecenia przez pielęgniarkę lub położną, o której mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, przez okres do 12 miesięcy od dnia określonego w dokumentacji medycznej"
+          ]
+        },
+
+        {
+          "uniqueID" : "100",
+          "group" : "P",
+          "medicalID" : "P.100",
+          "name" : "Pieluchomajtki do 60 sztuk miesięcznie lub zamiennie pieluchy anatomiczne do 60 sztuk miesięcznie lub zamiennie majtki chłonne do 60 sztuk miesięcznie lub zamiennie podkłady do 60 sztuk miesięcznie lub zamiennie wkłady anatomiczne do 60 sztuk miesięcznie",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+            "Lekarz geriatrii",
+            "Lekarz ginekologii onkologicznej",
+            "Lekarz położnictwa i ginekologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz urologii",
+            "Lekarz urologii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Kontynuacja zlecenia przez pielęgniarkę lub położną, o której mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, przez okres do 12 miesięcy od dnia określonego w dokumentacji medycznej"
+          ]
+        },
+
+        {
+          "uniqueID" : "101",
+          "group" : "P",
+          "medicalID" : "P.101",
+          "name" : "Pieluchomajtki do 60 sztuk miesięcznie lub zamiennie pieluchy anatomiczne do 60 sztuk miesięcznie lub zamiennie majtki chłonne do 60 sztuk miesięcznie lub zamiennie podkłady do 60 sztuk miesięcznie lub zamiennie wkłady anatomiczne do 60 sztuk miesięcznie",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+            "Lekarz geriatrii",
+            "Lekarz ginekologii onkologicznej",
+            "Lekarz położnictwa i ginekologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz urologii",
+            "Lekarz urologii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Kontynuacja zlecenia przez pielęgniarkę lub położną, o której mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, przez okres do 12 miesięcy od dnia określonego w dokumentacji medycznej"
+          ]
+        },
+
+        {
+          "uniqueID" : "102",
+          "group" : "P",
+          "medicalID" : "P.102",
+          "name" : "Aparat z maską do leczenia obturacyjnego bezdechu sennego (obejmujący aparat, maskę twarzową lub nosową oraz sprężarkę)",
+          "doctor" : [
+            "Lekarz chorób płuc",
+            "Lekarz chorób płuc dzieci",
+            "Lekarz ftyzjatrii",
+            "Lekarz ftyzjatrii dziecięcej",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz laryngologii"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "103",
+          "group" : "P",
+          "medicalID" : "P.103",
+          "name" : "Nebulizator (generator aerozolu) lub głowica do inhalatora membranowego",
+          "doctor" : [
+            "Lekarz chorób płuc",
+            "Lekarz chorób płuc dzieci",
+            "Lekarz ftyzjatrii",
+            "Lekarz ftyzjatrii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "104",
+          "group" : "P",
+          "medicalID" : "P.104",
+          "name" : "Sprężarka powietrza lub inhalator membranowy",
+          "doctor" : [
+            "Lekarz chorób płuc",
+            "Lekarz chorób płuc dzieci",
+            "Lekarz ftyzjatrii",
+            "Lekarz ftyzjatrii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "105",
+          "group" : "P",
+          "medicalID" : "P.105",
+          "name" : "Sprzęt do indywidualnej fizjoterapii układu oddechowego - urządzenia do drenażu, wytwarzające podwyższone lub zmienne ciśnienie wydechowe",
+          "doctor" : [
+            "Lekarz chorób płuc",
+            "Lekarz chorób płuc dzieci",
+            "Lekarz ftyzjatrii",
+            "Lekarz ftyzjatrii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "106",
+          "group" : "P",
+          "medicalID" : "P.106",
+          "name" : "Pończocha k kutowa - po pełnej amputacji lub w przypadku wrodzonego braku w obrębie stopy do 12 sztuk",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Fizjoterapeuta, o którym mowa w art. 4 ust. 4 pkt 1 i 2 lub art. 35 ust. 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "107",
+          "group" : "P",
+          "medicalID" : "P.107",
+          "name" : "Pończocha k kutowa - po amputacji lub w przypadku wrodzonego braku w obrębie podudzia do 12 sztuk",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Fizjoterapeuta, o którym mowa w art. 4 ust. 4 pkt 1 i 2 lub art. 35 ust. 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "108",
+          "group" : "P",
+          "medicalID" : "P.108",
+          "name" : "Pończocha k kutowa - po amputacji lub w przypadku wrodzonego braku w obrębie uda do 12 sztuk",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Fizjoterapeuta, o którym mowa w art. 4 ust. 4 pkt 1 i 2 lub art. 35 ust. 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "109",
+          "group" : "P",
+          "medicalID" : "P.109",
+          "name" : "Majteczki - po wyłuszczeniu lub w przypadku wrodzonego braku w stawie biodrowym do 12 sztuk",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Fizjoterapeuta, o którym mowa w art. 4 ust. 4 pkt 1 i 2 lub art. 35 ust. 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej"
+          ]
+        },
+
+        {
+          "uniqueID" : "110",
+          "group" : "P",
+          "medicalID" : "P.110",
+          "name" : "Pończocha k kutowa - po amputacji lub w przypadku wrodzonego braku w obrębie przedramienia do 12 sztuk",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Fizjoterapeuta, o którym mowa w art. 4 ust. 4 pkt 1 i 2 lub art. 35 ust. 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej"
+          ]
+        },
+
+        {
+          "uniqueID" : "111",
+          "group" : "P",
+          "medicalID" : "P.111",
+          "name" : "Pończocha k kutowa - po amputacji lub w przypadku wrodzonego braku w obrębie ramienia do 12 sztuk",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Fizjoterapeuta, o którym mowa w art. 4 ust. 4 pkt 1 i 2 lub art. 35 ust. 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej"
+          ]
+        },
+
+        {
+          "uniqueID" : "112",
+          "group" : "P",
+          "medicalID" : "P.112",
+          "name" : "Pończocha k kutowa - po pełnej amputacji lub w przypadku braku kończyny górnej do 12 sztuk",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Fizjoterapeuta, o którym mowa w art. 4 ust. 4 pkt 1 i 2 lub art. 35 ust. 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej"
+          ]
+        },
+
+
+
+
+        {
+          "uniqueID" : "113",
+          "group" : "P",
+          "medicalID" : "P.113",
+          "name" : "Pas przepuklinowy pachwinowy jednostronny",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz położnictwa i ginekologii"
+          ]
+        },
+
+        {
+          "uniqueID" : "114",
+          "group" : "P",
+          "medicalID" : "P.114",
+          "name" : "Pas przepuklinowy pachwinowy obustronny",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz położnictwa i ginekologii"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "115",
+          "group" : "P",
+          "medicalID" : "P.115",
+          "name" : "Pas brzuszny",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz położnictwa i ginekologii"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "116",
+          "group" : "P",
+          "medicalID" : "P.116",
+          "name" : "Poduszka przeciwodleżynowa pneumatyczna",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta, o którym mowa w art. 4 ust. 4 pkt 1 i 2 lub art. 35 ust. 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Lekarz okulistyki (w przypadku lasek dla niewidomych)"
+          ]
+        },
+
+        {
+          "uniqueID" : "117",
+          "group" : "P",
+          "medicalID" : "P.117",
+          "name" : "Materac przeciwodleżynowy (z wyłączeniem materacy piankowych)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta, o którym mowa w art. 4 ust. 4 pkt 1 i 2 lub art. 35 ust. 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Lekarz okulistyki (w przypadku lasek dla niewidomych)"
+          ]
+        },
+
+        {
+          "uniqueID" : "118",
+          "group" : "P",
+          "medicalID" : "P.118",
+          "name" : "Kula łokciowa ze stopniową regulacją",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta, o którym mowa w art. 4 ust. 4 pkt 1 i 2 lub art. 35 ust. 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Lekarz okulistyki (w przypadku lasek dla niewidomych)"
+          ]
+        },
+
+        {
+          "uniqueID" : "119",
+          "group" : "P",
+          "medicalID" : "P.119",
+          "name" : "Kula łokciowa z podparciem na przedramieniu",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta, o którym mowa w art. 4 ust. 4 pkt 1 i 2 lub art. 35 ust. 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Lekarz okulistyki (w przypadku lasek dla niewidomych)"
+          ]
+        },
+
+        {
+          "uniqueID" : "120",
+          "group" : "P",
+          "medicalID" : "P.120",
+          "name" : "Kula pachowa",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta, o którym mowa w art. 4 ust. 4 pkt 1 i 2 lub art. 35 ust. 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Lekarz okulistyki (w przypadku lasek dla niewidomych)"
+          ]
+        },
+
+        {
+          "uniqueID" : "121",
+          "group" : "P",
+          "medicalID" : "P.121",
+          "name" : "Trójnóg albo czwórnóg",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta, o którym mowa w art. 4 ust. 4 pkt 1 i 2 lub art. 35 ust. 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Lekarz okulistyki (w przypadku lasek dla niewidomych)"
+          ]
+        },
+
+        {
+          "uniqueID" : "122",
+          "group" : "P",
+          "medicalID" : "P.122",
+          "name" : "Laska dla niewidomych (biała)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta, o którym mowa w art. 4 ust. 4 pkt 1 i 2 lub art. 35 ust. 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Lekarz okulistyki (w przypadku lasek dla niewidomych)"
+          ]
+        },
+
+        {
+          "uniqueID" : "123",
+          "group" : "P",
+          "medicalID" : "P.123",
+          "name" : "Balkonik albo podpórka ułatwiająca chodzenie",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta, o którym mowa w art. 4 ust. 4 pkt 1 i 2 lub art. 35 ust. 1 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Lekarz okulistyki (w przypadku lasek dla niewidomych)"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "124",
+          "group" : "P",
+          "medicalID" : "P.124",
+          "name" : "Balkonik specjalny dla dzieci z odciążeniem tułowia, umożliwiający przemieszczanie się",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "125",
+          "group" : "P",
+          "medicalID" : "P.125",
+          "name" : "Pionizator",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "126",
+          "group" : "P",
+          "medicalID" : "P.126",
+          "name" : "Urządzenie multifunkcyjne: funkcja pionizacji, stabilizacji w pozycji siedzącej i leżącej z funkcją transportową",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "127",
+          "group" : "P",
+          "medicalID" : "P.127",
+          "name" : "Wózek inwalidzki ręczny",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz neurochirurgii",
+            "Lekarz geriatrii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz reumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz spełniający wymagania do wykonywania świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej, realizowanych w warunkach domowych, o którym mowa w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w zakresie wykonywania tych świadczeń"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "128",
+          "group" : "P",
+          "medicalID" : "P.128",
+          "name" : "Wózek inwalidzki dziecięcy",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz neurochirurgii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz reumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "129",
+          "group" : "P",
+          "medicalID" : "P.129",
+          "name" : "Wózek inwalidzki wykonany ze stopów lekkich z systemem szybkiego demontażu kół, składany, dla osób samodzielnie poruszających się na wózku",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz neurochirurgii",
+            "Lekarz reumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "130",
+          "group" : "P",
+          "medicalID" : "P.130",
+          "name" : "Wózek inwalidzki specjalny (z wyłączeniem wózka inwalidzkiego toaletowego)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz reumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "131",
+          "group" : "P",
+          "medicalID" : "P.131",
+          "name" : "Wózek inwalidzki specjalny dziecięcy (z wyłączeniem wózka inwalidzkiego toaletowego)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz reumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "132",
+          "group" : "P",
+          "medicalID" : "P.132",
+          "name" : "Siedzisko ortopedyczne dla dzieci stabilizujące plecy i głowę",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz pediatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "133",
+          "group" : "P",
+          "medicalID" : "P.133",
+          "name" : "Pełzak do raczkowania",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz pediatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        }
+
+  ]
+}
