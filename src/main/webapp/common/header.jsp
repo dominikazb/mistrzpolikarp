@@ -6,6 +6,9 @@
 <html>
 <head>
 
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/chosen.css">
+
 <script
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <link
