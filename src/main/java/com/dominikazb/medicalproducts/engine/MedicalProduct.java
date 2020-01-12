@@ -1,6 +1,13 @@
 package com.dominikazb.medicalproducts.engine;
 
-public class MedicalProduct {
+import java.io.Serializable;
+import java.util.Comparator;
+
+
+
+public class MedicalProduct implements Serializable, Comparable<MedicalProduct> {
+
+	private static final long serialVersionUID = 1L;
 	
 	private int uniqueID;
 	private String medicalID;
@@ -41,5 +48,11 @@ public class MedicalProduct {
 	public String toString() {
 		return String.format("MedicalProduct [uniqueID=%s, medicalID=%s, name=%s]", uniqueID, medicalID, name);
 	}
+	
+	@Override
+    public int compareTo(MedicalProduct mp){
+        return Comparator.comparing(MedicalProduct::getUniqueID)
+                .compare(this, mp);
+    }
 	
 }

@@ -3,14 +3,13 @@ package com.dominikazb.medicalproducts.engine;
 import java.text.Collator;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.Locale;
 import java.util.Map;
-import java.util.TreeSet;
+import java.util.TreeMap;
 
 public class PrintListsOfSearchedDoctorsAndProducts {
 	
-	public ArrayList<String>  getListOfMedicalDoctorsForParticularProduct(Map<MedicalProduct, ArrayList<Object>> inputMap, String searchedMedicalProduct) {
+	public ArrayList<String>  getListOfMedicalDoctorsForParticularProduct(TreeMap<MedicalProduct, ArrayList<Object>> inputMap, String searchedMedicalProduct) {
 		ArrayList<String> listOfMedicalDoctors = new ArrayList<>();
 		for(Map.Entry<MedicalProduct, ArrayList<Object>> entry : inputMap.entrySet()) {
 			String nameAndMedicalIdOfMedicalProduct = entry.getKey().getMedicalID() + " - " + entry.getKey().getName();
@@ -28,11 +27,29 @@ public class PrintListsOfSearchedDoctorsAndProducts {
 	}
 	
 	
-	public ArrayList<String> getListOfMedicalProductsForParticularSpecialty(Map<MedicalProduct, ArrayList<Object>> inputMap, String medicalDoctor) {
+	public ArrayList<String> getListOfMedicalProductsForParticularSpecialty(TreeMap<MedicalProduct, ArrayList<Object>> inputMap, String searchedMedicalDoctor) {
 		ArrayList<String> listOfMedicalProducts = new ArrayList<>();
+
 		for(Map.Entry<MedicalProduct, ArrayList<Object>> entry : inputMap.entrySet()) {
+			String medicalProduct = entry.getKey().getMedicalID() + " - " + entry.getKey().getName();
+			for(Object object : entry.getValue()) {
+				String medicalDoctor = object.toString();
+				if(searchedMedicalDoctor.equals(medicalDoctor)) {
+					listOfMedicalProducts.add(medicalProduct);	
+				}
+			}
+		}
+		return listOfMedicalProducts;
+	}
+	
+}
+
+
+/*
+
+	for(Map.Entry<MedicalProduct, ArrayList<Object>> entry : inputMap.entrySet()) {
 			MedicalProduct medicalProduct2 = entry.getKey();
-			String nameOfMedicalProduct2 = medicalProduct2.getMedicalID() + " - " + medicalProduct2.getName();
+			String nameOfMedicalProduct2 = medicalProduct2.getUniqueID() + " " + medicalProduct2.getMedicalID() + " - " + medicalProduct2.getName();
 			for(Object object : entry.getValue()) {
 				String product = object.toString();
 				if(medicalDoctor.equals(product)) {
@@ -40,11 +57,8 @@ public class PrintListsOfSearchedDoctorsAndProducts {
 				}
 			}
 		}
-		
 
-		
-		Collections.sort(listOfMedicalProducts, Collator.getInstance(new Locale("pl", "PL")));
-		return listOfMedicalProducts;
-	}
-	
-}
+
+
+
+*/

@@ -6,11 +6,10 @@ import java.text.Collator;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Locale;
 import java.util.Map;
+import java.util.TreeMap;
 import java.util.stream.Collectors;
-
 import org.codehaus.jackson.JsonParseException;
 import org.codehaus.jackson.map.JsonMappingException;
 import org.codehaus.jackson.map.ObjectMapper;
@@ -19,10 +18,11 @@ import com.dominikazb.medicalproducts.engine.MedicalProduct;;
 
 public class ReadJSon {
 	
-	Map<MedicalProduct, ArrayList<Object>> outputMap = new HashMap<>();
+	Map<MedicalProduct, ArrayList<Object>> medicalDoctorsAndProductsMap = new HashMap<>();
+	TreeMap<MedicalProduct, ArrayList<Object>> medicalDoctorsAndProductsMapSorted = new TreeMap<>();
 	
 	@SuppressWarnings("unchecked")
-	public Map<MedicalProduct, ArrayList<Object>> readJSonFile() throws JsonParseException, JsonMappingException, IOException {	
+	public TreeMap<MedicalProduct, ArrayList<Object>> readJSonFile() throws JsonParseException, JsonMappingException, IOException {	
 		ObjectMapper mapper = new ObjectMapper(); 
 		mapper.configure(org.codehaus.jackson.map.DeserializationConfig.Feature.FAIL_ON_UNKNOWN_PROPERTIES, false); //ignore fields that are not formatted properly
 		TypeReference<HashMap<Object,Object>> typeRef = new TypeReference<HashMap<Object,Object>>() {};
@@ -38,27 +38,24 @@ public class ReadJSon {
 			
 			MedicalProduct medicalProduct = new MedicalProduct(uniqueID, medicalID, productsName);
 			ArrayList<Object> listOfDoctorsArrayList = (ArrayList<Object>) newMap.get("doctor");
-			outputMap.put(medicalProduct, listOfDoctorsArrayList);
+			medicalDoctorsAndProductsMap.put(medicalProduct, listOfDoctorsArrayList);
 		}
-		return outputMap;
+		
+		//sor the map by uniqueID field
+		medicalDoctorsAndProductsMapSorted.putAll(medicalDoctorsAndProductsMap);
+		
+		return medicalDoctorsAndProductsMapSorted;
 	}
 	
-	public ArrayList<String> getListOfMedicalProducts(Map<MedicalProduct, ArrayList<Object>> inputMap) {
+	public ArrayList<String> getListOfMedicalProducts(TreeMap<MedicalProduct, ArrayList<Object>> inputMap) {
 		ArrayList<String> listOfMedicalProducts = new ArrayList<>();
-		//sort the list
-		List<MedicalProduct> medicalProductsList = new ArrayList<>();
 		for(Map.Entry<MedicalProduct, ArrayList<Object>> entry : inputMap.entrySet()) {
-			medicalProductsList.add(entry.getKey());
+			listOfMedicalProducts.add(entry.getKey().getMedicalID() + " - " + entry.getKey().getName());
 		}	
-		Collections.sort(medicalProductsList, (left, right) -> left.getUniqueID() - right.getUniqueID());
-		
-		for(int i=0; i < medicalProductsList.size(); i++) {
-			listOfMedicalProducts.add(medicalProductsList.get(i).getMedicalID() + " - " + medicalProductsList.get(i).getName());
-		}
 		return listOfMedicalProducts;
 	}
 	
-	public ArrayList<String> getListOfMedicalDoctors(Map<MedicalProduct, ArrayList<Object>> inputMap) {
+	public ArrayList<String> getListOfMedicalDoctors(TreeMap<MedicalProduct, ArrayList<Object>> inputMap) {
 		ArrayList<String> listOfMedicalDoctors = new ArrayList<>();
 		for(Map.Entry<MedicalProduct, ArrayList<Object>> entry : inputMap.entrySet()) {
 			for(Object medicalDoctorObject : entry.getValue()) {
@@ -71,7 +68,6 @@ public class ReadJSon {
 		return listWithoutDuplicates;
 	}
 	
-	
-	
+
 	
 }

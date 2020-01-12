@@ -2,7 +2,8 @@ package com.dominikazb.medicalproducts.servlets;
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Map;
+import java.util.TreeMap;
+
 import javax.servlet.ServletContext;
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
@@ -17,7 +18,7 @@ public class ContextListenerImpl implements ServletContextListener {
 		ServletContext sc = sce.getServletContext();
 		ReadJSon readJson = new ReadJSon();
 		try {
-			Map<MedicalProduct, ArrayList<Object>> initialMapOfMedicalProductsAndDoctors = readJson.readJSonFile();
+			TreeMap<MedicalProduct, ArrayList<Object>> initialMapOfMedicalProductsAndDoctors = readJson.readJSonFile();
 			ArrayList<String> initialListOfMedicalProducts = readJson.getListOfMedicalProducts(initialMapOfMedicalProductsAndDoctors);
 			ArrayList<String> initialListOfMedicalDoctors = readJson.getListOfMedicalDoctors(initialMapOfMedicalProductsAndDoctors);
 			sc.setAttribute("initialMapOfMedicalProductsAndDoctors", initialMapOfMedicalProductsAndDoctors);
