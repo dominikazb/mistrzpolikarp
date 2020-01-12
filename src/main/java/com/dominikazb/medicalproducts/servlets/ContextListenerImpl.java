@@ -17,14 +17,12 @@ public class ContextListenerImpl implements ServletContextListener {
 		ServletContext sc = sce.getServletContext();
 		ReadJSon readJson = new ReadJSon();
 		try {
-			Map<MedicalProduct, ArrayList<Object>> medicalProductsDoctorsMap = readJson.readJSonFile();
-			ArrayList<String> listOfMedicalDoctors = readJson.getListOfMedicalDoctors(medicalProductsDoctorsMap);
-			ArrayList<String> listOfMedicalProducts = readJson.getListOfMedicalProducts(medicalProductsDoctorsMap);
-			sc.setAttribute("medicalProductsDoctorsMap", medicalProductsDoctorsMap);
-			sc.setAttribute("listOfMedicalDoctors", listOfMedicalDoctors);
-			sc.setAttribute("listOfMedicalProducts", listOfMedicalProducts);
-			
-			
+			Map<MedicalProduct, ArrayList<Object>> initialMapOfMedicalProductsAndDoctors = readJson.readJSonFile();
+			ArrayList<String> initialListOfMedicalProducts = readJson.getListOfMedicalProducts(initialMapOfMedicalProductsAndDoctors);
+			ArrayList<String> initialListOfMedicalDoctors = readJson.getListOfMedicalDoctors(initialMapOfMedicalProductsAndDoctors);
+			sc.setAttribute("initialMapOfMedicalProductsAndDoctors", initialMapOfMedicalProductsAndDoctors);
+			sc.setAttribute("listOfMedicalProducts", initialListOfMedicalProducts);
+			sc.setAttribute("listOfMedicalDoctors", initialListOfMedicalDoctors);
 			System.out.println("this is only read once, right?");
 		} catch (IOException e) {
 			e.printStackTrace();
