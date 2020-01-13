@@ -1,3 +1,13 @@
+<div class="container">
+
+<div class="jumbotron">
+
+this will be the footer
+
+</div>
+
+</div>
+
 
 <script>
 var xhr;

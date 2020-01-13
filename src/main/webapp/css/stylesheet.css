@@ -4,7 +4,6 @@ body {
 	font-family: Helvetica, arial, sans-serif;
 	font-size: 15px;
 	color: #454545;
-	background: #fff url(../images/bg.png);
 	text-shadow: 0 1px 0 rgba(0,0,0,0.02);
 	-webkit-font-smoothing: antialiased;
 }
