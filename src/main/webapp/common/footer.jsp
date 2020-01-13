@@ -8,7 +8,6 @@
 	</div>
 </div>
 
-
 <script>
 	var xhr;
 	$selectMedicalProduct = $('#inputMedicalProduct').selectize({

@@ -11,7 +11,6 @@
 		<listener-class>com.dominikazb.medicalproducts.servlets.ContextListenerImpl</listener-class>
 	</listener>
 
-
 	<jsp-config>
 		<jsp-property-group>
 			<url-pattern>*.jsp</url-pattern>
