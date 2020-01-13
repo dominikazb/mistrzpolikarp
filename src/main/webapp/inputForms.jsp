@@ -1,44 +1,35 @@
 <div class="container">
-<div class="jumbotron">
 
-
-<div class="row">
-	<div class="col-xs-6">
-				<form action="/readMedicalDoctor" method="POST"
-					id="readMedicalDoctorForm">
+		<div class="row">
+			<div class="col-xs-6">
+				<p class="lead">Wyszukaj produkty:</p>
+				<form action="/readMedicalDoctor" id="fedor" method="POST">
 					<div class="control-group">
 						<select id="inputMedicalDoctor" name="inputMedicalDoctor">
-							<option value="">Wybierz specjaliste</option>
+							<option value="">Wybierz specjalistę</option>
 							<c:forEach items="${listOfMedicalDoctors}" var="doctor">
 								<option value="${doctor}">${doctor}</option>
 							</c:forEach>
-						</select>
+						</select> <br>
 						<button type="submit" class="btn btn-info my-4 btn-block">Szukaj</button>
 					</div>
 				</form>
-	</div>
-	<div class="col-xs-6">
+			</div>
 
-
+			<div class="col-xs-6">
+				<p class="lead">Wyszukaj lekarzy:</p>
 				<form action="/readMedicalProduct" method="POST">
+
 					<div class="control-group">
 						<select id="inputMedicalProduct" name="inputMedicalProduct">
-							<option value="">Wybierz wyrob medyczny</option>
+							<option value="">Wybierz wyrób medyczny</option>
 							<c:forEach items="${listOfMedicalProducts}" var="product">
 								<option value="${product}">${product}</option>
 							</c:forEach>
-						</select>
+						</select> <br>
 						<button type="submit" class="btn btn-info my-4 btn-block">Szukaj</button>
 					</div>
 				</form>
 			</div>
 		</div>
-
-
-</div>
-</div>
-
-
-
-
-
+	</div>

@@ -19,4 +19,5 @@ public class ReadMedicalProduct extends HttpServlet {
 		session.setAttribute("inputMedicalProduct", inputMedicalProduct);
 		response.sendRedirect("/listOfMedicalDoctors");
 	}
+	
 }

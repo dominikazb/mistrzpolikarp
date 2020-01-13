@@ -43,22 +43,3 @@ public class PrintListsOfSearchedDoctorsAndProducts {
 	}
 	
 }
-
-
-/*
-
-	for(Map.Entry<MedicalProduct, ArrayList<Object>> entry : inputMap.entrySet()) {
-			MedicalProduct medicalProduct2 = entry.getKey();
-			String nameOfMedicalProduct2 = medicalProduct2.getUniqueID() + " " + medicalProduct2.getMedicalID() + " - " + medicalProduct2.getName();
-			for(Object object : entry.getValue()) {
-				String product = object.toString();
-				if(medicalDoctor.equals(product)) {
-					listOfMedicalProducts.add(nameOfMedicalProduct2);	
-				}
-			}
-		}
-
-
-
-
-*/
