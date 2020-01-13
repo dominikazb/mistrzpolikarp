@@ -6,29 +6,55 @@
 <html>
 <head>
 
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/chosen.css">
+<!-- input form style -->
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/stylesheet.css">
+<script src="js/jquery.min.js"></script>
+<script src="js/selectize.js"></script>
+<script src="js/index.js"></script>
+<!-- input form style -->
+
 
 <script
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <link
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"
 	rel="stylesheet">
-<script
-	src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-
-
-
-
 
 <%@ page isELIgnored="false"%>
 <meta charset="UTF-8">
 
-<title>MistrzPolikarp - Wyszukiwarka</title>
-
-
+<title>Wyroby medyczne - MistrzPolikarp - Wyszukiwarka</title>
 
 <style>
+
+
+		.selectize-control::before {
+
+			-moz-transition: opacity 0.2s;
+			-webkit-transition: opacity 0.2s;
+			transition: opacity 0.2s;
+			content: ' ';
+			z-index: 2;
+			position: absolute;
+			display: block;
+			top: 12px;
+			right: 34px;
+			width: 16px;
+			height: 16px;
+			background: url(images/spinner.gif);
+			background-size: 16px 16px;
+			opacity: 0;
+		}
+		.selectize-control.loading::before {
+			opacity: 0.4;
+		}
+
+
+
+
+
+
 html {
 	height: 100%;
 }

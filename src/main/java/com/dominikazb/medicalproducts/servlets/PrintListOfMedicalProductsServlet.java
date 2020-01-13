@@ -26,12 +26,7 @@ public class PrintListOfMedicalProductsServlet extends HttpServlet {
 		PrintListsOfSearchedDoctorsAndProducts printLists = new PrintListsOfSearchedDoctorsAndProducts();
 		ArrayList<String> listOfMedicalProductsForParticularSpecialty = printLists.getListOfMedicalProductsForParticularSpecialty(initialMapOfMedicalProductsAndDoctors, (String)session.getAttribute("inputMedicalDoctor"));
 		request.setAttribute("listOfMedicalProductsForParticularSpecialty", listOfMedicalProductsForParticularSpecialty);
-		
-
-		
-		
 		request.getRequestDispatcher("/listOfMedicalProducts.jsp").forward(request, response);
 	}
-
 
 }
