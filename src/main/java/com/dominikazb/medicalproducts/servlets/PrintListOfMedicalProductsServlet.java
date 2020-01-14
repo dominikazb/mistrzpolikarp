@@ -14,7 +14,7 @@ import javax.servlet.http.HttpSession;
 import com.dominikazb.medicalproducts.engine.MedicalProduct;
 import com.dominikazb.medicalproducts.engine.PrintListsOfSearchedDoctorsAndProducts;
 
-@WebServlet("/listOfMedicalProducts")
+@WebServlet("/lista-wyrobow-medycznych")
 public class PrintListOfMedicalProductsServlet extends HttpServlet {
 
 	private static final long serialVersionUID = 1L;

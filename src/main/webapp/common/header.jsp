@@ -41,12 +41,13 @@ body {
 
 .footer {
 	text-align: right;
+	margin-top:100px;
 }
-
 
 .flexxible-box {
 	width: 100%;
 	padding: 30px;
+	border-radius: 20px;
 	margin: 10px 5px;
 	overflow-wrap: break-word;
 	color: grey;
@@ -54,7 +55,6 @@ body {
 	box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0
 		rgba(0, 0, 0, 0.19);
 }
-
 
 </style>
 

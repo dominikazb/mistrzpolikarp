@@ -17,7 +17,7 @@ public class ReadMedicalDoctor extends HttpServlet {
 		String inputMedicalDoctor = (String)request.getParameter("inputMedicalDoctor");
 		HttpSession session = request.getSession(false);
 		session.setAttribute("inputMedicalDoctor", inputMedicalDoctor);
-		response.sendRedirect("/listOfMedicalProducts");
+		response.sendRedirect("/lista-wyrobow-medycznych");
 		
 	}
 }
