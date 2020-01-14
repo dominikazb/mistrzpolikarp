@@ -1,8 +1,7 @@
-<div class="how-it-works-container container-fluid">
-    <div class="row">
-        <div class="col-lg-6">
-                    <div class="how-it-works-box">
-  
+<div class="flexxible-container container-fluid">
+	<div class="row">
+		<div class="col-lg-6">
+			<div class="flexxible-box">
 				<p class="lead">Kto przepisuje?</p>
 				<form action="/readMedicalDoctor" method="POST">
 					<select id="md" name="inputMedicalDoctor"
@@ -13,66 +12,14 @@
 						</c:forEach>
 					</select>
 				</form>
-							<script>
-				$('#md').selectize();
-			</script>
+				<script>
+					$('#md').selectize();
+				</script>
 			</div>
-     
-        </div>
-        <div class="col-lg-6">
-        
-        
-            <div class="how-it-works-box">
 
-
-		
-				<p class="lead">Co przepisuje?</p>
-				<form action="/readMedicalProduct" method="POST">
-					<select id="products" name="inputMedicalProduct"
-						placeholder="Wyszukaj produkt medyczny"
-						onchange="this.form.submit()">
-						<option value="">Wyszukaj produkt medyczny</option>
-						<c:forEach items="${listOfMedicalProducts}" var="product">
-							<option value="${product}">${product}</option>
-						</c:forEach>
-					</select>
-				</form>
-
-			<script>
-				$('#products').selectize();
-			</script>
-
-
-
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<%--  
-<div class="container">
-	<div class="row flex-column-reverse flex-md-row">
-		<div class="col-xs-6">
-			<div class="control-group">
-				<p class="lead">Kto przepisuje?</p>
-				<form action="/readMedicalDoctor" method="POST">
-					<select id="md" name="inputMedicalDoctor"
-						placeholder="Wyszukaj specjalistę" onchange="this.form.submit()">
-						<option value="">Wyszukaj specjalistę</option>
-						<c:forEach items="${listOfMedicalDoctors}" var="doctor">
-							<option value="${doctor}">${doctor}</option>
-						</c:forEach>
-					</select>
-				</form>
-			</div>
-			<script>
-				$('#md').selectize();
-			</script>
 		</div>
-
-		<div class="col-xs-6">
-			<div class="control-group">
+		<div class="col-lg-6">
+			<div class="flexxible-box">
 				<p class="lead">Co przepisuje?</p>
 				<form action="/readMedicalProduct" method="POST">
 					<select id="products" name="inputMedicalProduct"
@@ -84,11 +31,10 @@
 						</c:forEach>
 					</select>
 				</form>
-			</div>
-			<script>
+				<script>
 				$('#products').selectize();
 			</script>
+			</div>
 		</div>
 	</div>
 </div>
-  --%>
