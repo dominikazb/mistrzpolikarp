@@ -2250,7 +2250,7 @@
           "uniqueID" : "106",
           "group" : "P",
           "medicalID" : "P.106",
-          "name" : "Pończocha k kutowa - po pełnej amputacji lub w przypadku wrodzonego braku w obrębie stopy do 12 sztuk",
+          "name" : "Pończocha kikutowa - po pełnej amputacji lub w przypadku wrodzonego braku w obrębie stopy do 12 sztuk",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
             "Lekarz chirurgii ortopedycznej",
@@ -2279,7 +2279,7 @@
           "uniqueID" : "107",
           "group" : "P",
           "medicalID" : "P.107",
-          "name" : "Pończocha k kutowa - po amputacji lub w przypadku wrodzonego braku w obrębie podudzia do 12 sztuk",
+          "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie podudzia do 12 sztuk",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
             "Lekarz chirurgii ortopedycznej",
@@ -2308,7 +2308,7 @@
           "uniqueID" : "108",
           "group" : "P",
           "medicalID" : "P.108",
-          "name" : "Pończocha k kutowa - po amputacji lub w przypadku wrodzonego braku w obrębie uda do 12 sztuk",
+          "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie uda do 12 sztuk",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
             "Lekarz chirurgii ortopedycznej",
@@ -2365,7 +2365,7 @@
           "uniqueID" : "110",
           "group" : "P",
           "medicalID" : "P.110",
-          "name" : "Pończocha k kutowa - po amputacji lub w przypadku wrodzonego braku w obrębie przedramienia do 12 sztuk",
+          "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie przedramienia do 12 sztuk",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
             "Lekarz chirurgii ortopedycznej",
@@ -2393,7 +2393,7 @@
           "uniqueID" : "111",
           "group" : "P",
           "medicalID" : "P.111",
-          "name" : "Pończocha k kutowa - po amputacji lub w przypadku wrodzonego braku w obrębie ramienia do 12 sztuk",
+          "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie ramienia do 12 sztuk",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
             "Lekarz chirurgii ortopedycznej",
@@ -2421,7 +2421,7 @@
           "uniqueID" : "112",
           "group" : "P",
           "medicalID" : "P.112",
-          "name" : "Pończocha k kutowa - po pełnej amputacji lub w przypadku braku kończyny górnej do 12 sztuk",
+          "name" : "Pończocha kikutowa - po pełnej amputacji lub w przypadku braku kończyny górnej do 12 sztuk",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
             "Lekarz chirurgii ortopedycznej",

@@ -15,7 +15,6 @@
 <link
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"
 	rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Playfair+Display&display=swap" rel="stylesheet">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <%@ page isELIgnored="false"%>
 <title>Wyszukiwarka wyrobów medycznych - MistrzPolikarp</title>
@@ -23,7 +22,6 @@
 
 <style>
 body {
-	font-family: 'Playfair Display', serif;
 	background: rgb(217, 216, 216);
 	background: linear-gradient(90deg, rgba(217, 216, 216, 1) 0%,
 		rgba(254, 254, 254, 1) 93%, rgba(255, 255, 255, 1) 100%);
