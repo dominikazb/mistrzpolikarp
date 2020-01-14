@@ -24,7 +24,6 @@ public class ContextListenerImpl implements ServletContextListener {
 			sc.setAttribute("initialMapOfMedicalProductsAndDoctors", initialMapOfMedicalProductsAndDoctors);
 			sc.setAttribute("listOfMedicalProducts", initialListOfMedicalProducts);
 			sc.setAttribute("listOfMedicalDoctors", initialListOfMedicalDoctors);
-			System.out.println("this is only read once, right?");
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

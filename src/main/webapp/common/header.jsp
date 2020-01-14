@@ -26,6 +26,7 @@ body {
 		rgba(254, 254, 254, 1) 93%, rgba(255, 255, 255, 1) 100%);
 }
 
+
 .jumbotron {
 	background: none;
 }

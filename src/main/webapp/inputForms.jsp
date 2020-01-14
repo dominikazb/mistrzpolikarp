@@ -1,33 +1,40 @@
 <div class="container">
 	<div class="row">
 		<div class="col-xs-6">
-			<p class="lead">Wyszukaj produkty:</p>
-			<form action="/readMedicalDoctor" id="fedor" method="POST">
-				<div class="control-group">
-					<select id="inputMedicalDoctor" name="inputMedicalDoctor">
-						<option value="">Wybierz specjalistę</option>
+			<div class="control-group">
+				<p class="lead">Kto przepisuje?</p>
+				<form action="/readMedicalDoctor" method="POST">
+					<select id="md" name="inputMedicalDoctor" class="demo-default"
+						placeholder="Select a doctor" onchange="this.form.submit()">
+						<option value="">Wyszukaj specjalistę</option>
 						<c:forEach items="${listOfMedicalDoctors}" var="doctor">
 							<option value="${doctor}">${doctor}</option>
 						</c:forEach>
-					</select> <br>
-					<button type="submit" class="btn btn-info my-4 btn-block">Szukaj</button>
-				</div>
-			</form>
+					</select>
+				</form>
+			</div>
+			<script>
+				$('#md').selectize();
+			</script>
 		</div>
 
 		<div class="col-xs-6">
-			<p class="lead">Wyszukaj lekarzy:</p>
-			<form action="/readMedicalProduct" method="POST">
-				<div class="control-group">
-					<select id="inputMedicalProduct" name="inputMedicalProduct">
-						<option value="">Wybierz wyrób medyczny</option>
+			<div class="control-group">
+				<p class="lead">Co przepisuje?</p>
+				<form action="/readMedicalProduct" method="POST">
+					<select id="products" name="inputMedicalProduct"
+						class="demo-default" placeholder="Select a product"
+						onchange="this.form.submit()">
+						<option value="">Select a product</option>
 						<c:forEach items="${listOfMedicalProducts}" var="product">
 							<option value="${product}">${product}</option>
 						</c:forEach>
-					</select> <br>
-					<button type="submit" class="btn btn-info my-4 btn-block">Szukaj</button>
-				</div>
-			</form>
+					</select>
+				</form>
+			</div>
+			<script>
+				$('#products').selectize();
+			</script>
 		</div>
 	</div>
 </div>
