@@ -1,4 +1,4 @@
-<div class="flexxible-container container-fluid">
+<div class="container">
 	<div class="row">
 		<div class="col-lg-6">
 			<div class="flexxible-box">

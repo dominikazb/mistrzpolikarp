@@ -15,6 +15,7 @@
 <link
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"
 	rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <%@ page isELIgnored="false"%>
 <title>Wyroby medyczne - MistrzPolikarp - Wyszukiwarka</title>
 
@@ -42,22 +43,19 @@ body {
 	text-align: right;
 }
 
-.flexxible-container {
-	padding: 20px;
-	font-family: 'Montserrat', sans-serif;
-	text-align: justify;
-}
 
 .flexxible-box {
 	width: 100%;
 	padding: 30px;
-	margin: 20px 5px;
+	margin: 10px 5px;
 	overflow-wrap: break-word;
 	color: grey;
 	display: inline-block;
 	box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0
 		rgba(0, 0, 0, 0.19);
 }
+
+
 </style>
 
 </head>
