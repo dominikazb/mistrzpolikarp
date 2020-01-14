@@ -42,6 +42,25 @@ body {
 .footer {
 	text-align: right;
 }
+
+
+.how-it-works-container{
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+
+    text-align: justify;
+}
+
+.how-it-works-box{
+    width: 100%;
+    padding: 30px;
+    margin: 20px 5px;
+    overflow-wrap: break-word;
+    color: grey;
+    display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 </style>
 
 
