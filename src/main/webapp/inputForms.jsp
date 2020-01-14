@@ -1,3 +1,14 @@
+
+
+
+
+
+
+
+
+
+
+
 <div class="container">
 	<div class="row">
 		<div class="col-lg-6">
@@ -7,7 +18,7 @@
 					<select id="md" name="inputMedicalDoctor"
 						placeholder="Wyszukaj specjalistę" onchange="this.form.submit()">
 						<option value="">Wyszukaj specjalistę</option>
-						<c:forEach items="${listOfMedicalDoctors}" var="doctor">
+ 						<c:forEach items="${listOfMedicalDoctors}" var="doctor">
 							<option value="${doctor}">${doctor}</option>
 						</c:forEach>
 					</select>
