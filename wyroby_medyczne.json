@@ -1896,21 +1896,56 @@
         },
 
 
-
-
         {
           "uniqueID" : "91",
           "group" : "P",
           "medicalID" : "P.91",
-          "name" : "Zestawy infuzyjne do osobistej pompy insulinowej 10 sztuk (obejmujące wkłucie, łącznik i dren)",
+          "name" : "Zestawy infuzyjne do osobistej pompy insulinowej 10 sztuk (obejmujące wkłucie, łącznik i dren) (0%, do 26. roku życia)",
           "doctor" : [
-            "TO JEST TEN WPIS KTORY TRZEBA PRZEFORMATOWAC"
+            "Lekarz diabetologii",
+        		"Lekarz pediatrii",
+        		"Lekarz endokrynologii i diabetologii dziecięcej",
+        		"Lekarz endokrynologii",
+        		"Lekarz perinatologii",
+        		"Lekarz chorób wewnętrznych",
+        		"Lekarz podstawowej opieki zdrowotnej",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Kontynuacja zlecenia przez pielęgniarkę lub położną, o której mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, przez okres do 6 miesięcy od dnia określonego w dokumentacji medycznej"
           ]
         },
 
-
         {
           "uniqueID" : "92",
+          "group" : "P",
+          "medicalID" : "P.91",
+          "name" : "Zestawy infuzyjne do osobistej pompy insulinowej 10 sztuk (obejmujące wkłucie, łącznik i dren) (30%, powyżej 26. roku życia)",
+          "doctor" : [
+            "Lekarz diabetologii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz endokrynologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Kontynuacja zlecenia przez pielęgniarkę lub położną, o której mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, przez okres do 6 miesięcy od dnia określonego w dokumentacji medycznej"
+          ]
+        },
+
+        {
+          "uniqueID" : "93",
+          "group" : "P",
+          "medicalID" : "P.91",
+          "name" : "Zestawy infuzyjne do osobistej pompy insulinowej 10 sztuk (obejmujące wkłucie, łącznik i dren) (0%, kobiety ciężarne)",
+          "doctor" : [
+            "Lekarz diabetologii",
+        		"Lekarz położnictwa i ginekologii",
+        		"Lekarz endokrynologii ginekologicznej i rozrodczości",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Pielęgniarka lub położna, o której mowa w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej",
+            "Kontynuacja zlecenia przez pielęgniarkę lub położną, o której mowa w art. 15a ust. 1 i 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, przez okres do 6 miesięcy od dnia określonego w dokumentacji medycznej"
+          ]
+        },
+
+        {
+          "uniqueID" : "94",
           "group" : "P",
           "medicalID" : "P.92",
           "name" : "Proteza piersi",
@@ -1933,7 +1968,7 @@
 
 
         {
-          "uniqueID" : "93",
+          "uniqueID" : "95",
           "group" : "P",
           "medicalID" : "P.93",
           "name" : "Peruka",
@@ -1960,7 +1995,7 @@
 
 
         {
-          "uniqueID" : "94",
+          "uniqueID" : "96",
           "group" : "P",
           "medicalID" : "P.94",
           "name" : "Cewniki zewnętrzne do 30 sztuk",
@@ -1986,7 +2021,7 @@
         },
 
         {
-          "uniqueID" : "95",
+          "uniqueID" : "97",
           "group" : "P",
           "medicalID" : "P.95",
           "name" : "Cewniki urologiczne do 4 sztuk lub w równowartości ich kosztu cewnik silikonowy",
@@ -2012,7 +2047,7 @@
         },
 
         {
-          "uniqueID" : "96",
+          "uniqueID" : "98",
           "group" : "P",
           "medicalID" : "P.96",
           "name" : "Cewniki jednorazowe urologiczne do 180 sztuk miesięcznie lub w równowartości ich kosztu jednorazowe hydrofilowe cewniki urologiczne",
@@ -2037,7 +2072,7 @@
         },
 
         {
-          "uniqueID" : "97",
+          "uniqueID" : "99",
           "group" : "P",
           "medicalID" : "P.97",
           "name" : "Worki do zbiórki moczu z odpływem do 12 sztuk",
@@ -2062,7 +2097,7 @@
 
 
         {
-          "uniqueID" : "98",
+          "uniqueID" : "100",
           "group" : "P",
           "medicalID" : "P.98",
           "name" : "Worki do zbiórki moczu w ilości do 12 sztuk w przypadku nefrostomii lub w równowartości ich nabycia inny sprzęt urologiczny (np. cewniki urologiczne, paski mocujące itp.)",
@@ -2086,7 +2121,7 @@
         },
 
         {
-          "uniqueID" : "99",
+          "uniqueID" : "101",
           "group" : "P",
           "medicalID" : "P.99",
           "name" : "Worki stomijne samoprzylepne jednorazowego użycia w ilości do 90 sztuk w systemie jednoczęściowym lub w równowartości ich kosztu worki i płytki w systemie dwuczęściowym lub inny sprzęt stomijny: zestawy irygacyjne, nocne zbiorniki na mocz, pasty, pudry oraz paski, półpierścienie, pierścienie o właściwościach uszczelniających lub gojących, produkty do usuwania sprzętu stomijnego lub do ochrony skóry wokół stomii",
@@ -2111,7 +2146,7 @@
         },
 
         {
-          "uniqueID" : "100",
+          "uniqueID" : "102",
           "group" : "P",
           "medicalID" : "P.100",
           "name" : "Pieluchomajtki do 60 sztuk miesięcznie lub zamiennie pieluchy anatomiczne do 60 sztuk miesięcznie lub zamiennie majtki chłonne do 60 sztuk miesięcznie lub zamiennie podkłady do 60 sztuk miesięcznie lub zamiennie wkłady anatomiczne do 60 sztuk miesięcznie",
@@ -2141,7 +2176,7 @@
         },
 
         {
-          "uniqueID" : "101",
+          "uniqueID" : "103",
           "group" : "P",
           "medicalID" : "P.101",
           "name" : "Pieluchomajtki do 60 sztuk miesięcznie lub zamiennie pieluchy anatomiczne do 60 sztuk miesięcznie lub zamiennie majtki chłonne do 60 sztuk miesięcznie lub zamiennie podkłady do 60 sztuk miesięcznie lub zamiennie wkłady anatomiczne do 60 sztuk miesięcznie",
@@ -2171,7 +2206,7 @@
         },
 
         {
-          "uniqueID" : "102",
+          "uniqueID" : "104",
           "group" : "P",
           "medicalID" : "P.102",
           "name" : "Aparat z maską do leczenia obturacyjnego bezdechu sennego (obejmujący aparat, maskę twarzową lub nosową oraz sprężarkę)",
@@ -2187,7 +2222,7 @@
 
 
         {
-          "uniqueID" : "103",
+          "uniqueID" : "105",
           "group" : "P",
           "medicalID" : "P.103",
           "name" : "Nebulizator (generator aerozolu) lub głowica do inhalatora membranowego",
@@ -2207,7 +2242,7 @@
 
 
         {
-          "uniqueID" : "104",
+          "uniqueID" : "106",
           "group" : "P",
           "medicalID" : "P.104",
           "name" : "Sprężarka powietrza lub inhalator membranowy",
@@ -2227,7 +2262,7 @@
 
 
         {
-          "uniqueID" : "105",
+          "uniqueID" : "107",
           "group" : "P",
           "medicalID" : "P.105",
           "name" : "Sprzęt do indywidualnej fizjoterapii układu oddechowego - urządzenia do drenażu, wytwarzające podwyższone lub zmienne ciśnienie wydechowe",
@@ -2247,7 +2282,7 @@
 
 
         {
-          "uniqueID" : "106",
+          "uniqueID" : "108",
           "group" : "P",
           "medicalID" : "P.106",
           "name" : "Pończocha kikutowa - po pełnej amputacji lub w przypadku wrodzonego braku w obrębie stopy do 12 sztuk",
@@ -2276,7 +2311,7 @@
 
 
         {
-          "uniqueID" : "107",
+          "uniqueID" : "109",
           "group" : "P",
           "medicalID" : "P.107",
           "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie podudzia do 12 sztuk",
@@ -2305,7 +2340,7 @@
 
 
         {
-          "uniqueID" : "108",
+          "uniqueID" : "110",
           "group" : "P",
           "medicalID" : "P.108",
           "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie uda do 12 sztuk",
@@ -2334,7 +2369,7 @@
 
 
         {
-          "uniqueID" : "109",
+          "uniqueID" : "111",
           "group" : "P",
           "medicalID" : "P.109",
           "name" : "Majteczki - po wyłuszczeniu lub w przypadku wrodzonego braku w stawie biodrowym do 12 sztuk",
@@ -2362,7 +2397,7 @@
         },
 
         {
-          "uniqueID" : "110",
+          "uniqueID" : "112",
           "group" : "P",
           "medicalID" : "P.110",
           "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie przedramienia do 12 sztuk",
@@ -2390,7 +2425,7 @@
         },
 
         {
-          "uniqueID" : "111",
+          "uniqueID" : "113",
           "group" : "P",
           "medicalID" : "P.111",
           "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie ramienia do 12 sztuk",
@@ -2418,7 +2453,7 @@
         },
 
         {
-          "uniqueID" : "112",
+          "uniqueID" : "114",
           "group" : "P",
           "medicalID" : "P.112",
           "name" : "Pończocha kikutowa - po pełnej amputacji lub w przypadku braku kończyny górnej do 12 sztuk",
@@ -2449,7 +2484,7 @@
 
 
         {
-          "uniqueID" : "113",
+          "uniqueID" : "115",
           "group" : "P",
           "medicalID" : "P.113",
           "name" : "Pas przepuklinowy pachwinowy jednostronny",
@@ -2462,7 +2497,7 @@
         },
 
         {
-          "uniqueID" : "114",
+          "uniqueID" : "116",
           "group" : "P",
           "medicalID" : "P.114",
           "name" : "Pas przepuklinowy pachwinowy obustronny",
@@ -2476,7 +2511,7 @@
 
 
         {
-          "uniqueID" : "115",
+          "uniqueID" : "117",
           "group" : "P",
           "medicalID" : "P.115",
           "name" : "Pas brzuszny",
@@ -2490,7 +2525,7 @@
 
 
         {
-          "uniqueID" : "116",
+          "uniqueID" : "118",
           "group" : "P",
           "medicalID" : "P.116",
           "name" : "Poduszka przeciwodleżynowa pneumatyczna",
@@ -2525,7 +2560,7 @@
         },
 
         {
-          "uniqueID" : "117",
+          "uniqueID" : "119",
           "group" : "P",
           "medicalID" : "P.117",
           "name" : "Materac przeciwodleżynowy (z wyłączeniem materacy piankowych)",
@@ -2560,7 +2595,7 @@
         },
 
         {
-          "uniqueID" : "118",
+          "uniqueID" : "120",
           "group" : "P",
           "medicalID" : "P.118",
           "name" : "Kula łokciowa ze stopniową regulacją",
@@ -2595,7 +2630,7 @@
         },
 
         {
-          "uniqueID" : "119",
+          "uniqueID" : "121",
           "group" : "P",
           "medicalID" : "P.119",
           "name" : "Kula łokciowa z podparciem na przedramieniu",
@@ -2630,7 +2665,7 @@
         },
 
         {
-          "uniqueID" : "120",
+          "uniqueID" : "122",
           "group" : "P",
           "medicalID" : "P.120",
           "name" : "Kula pachowa",
@@ -2665,7 +2700,7 @@
         },
 
         {
-          "uniqueID" : "121",
+          "uniqueID" : "123",
           "group" : "P",
           "medicalID" : "P.121",
           "name" : "Trójnóg albo czwórnóg",
@@ -2700,7 +2735,7 @@
         },
 
         {
-          "uniqueID" : "122",
+          "uniqueID" : "124",
           "group" : "P",
           "medicalID" : "P.122",
           "name" : "Laska dla niewidomych (biała)",
@@ -2735,7 +2770,7 @@
         },
 
         {
-          "uniqueID" : "123",
+          "uniqueID" : "125",
           "group" : "P",
           "medicalID" : "P.123",
           "name" : "Balkonik albo podpórka ułatwiająca chodzenie",
@@ -2771,7 +2806,7 @@
 
 
         {
-          "uniqueID" : "124",
+          "uniqueID" : "126",
           "group" : "P",
           "medicalID" : "P.124",
           "name" : "Balkonik specjalny dla dzieci z odciążeniem tułowia, umożliwiający przemieszczanie się",
@@ -2790,7 +2825,7 @@
         },
 
         {
-          "uniqueID" : "125",
+          "uniqueID" : "127",
           "group" : "P",
           "medicalID" : "P.125",
           "name" : "Pionizator",
@@ -2811,7 +2846,7 @@
 
 
         {
-          "uniqueID" : "126",
+          "uniqueID" : "128",
           "group" : "P",
           "medicalID" : "P.126",
           "name" : "Urządzenie multifunkcyjne: funkcja pionizacji, stabilizacji w pozycji siedzącej i leżącej z funkcją transportową",
@@ -2832,7 +2867,7 @@
 
 
         {
-          "uniqueID" : "127",
+          "uniqueID" : "129",
           "group" : "P",
           "medicalID" : "P.127",
           "name" : "Wózek inwalidzki ręczny",
@@ -2863,7 +2898,7 @@
 
 
         {
-          "uniqueID" : "128",
+          "uniqueID" : "130",
           "group" : "P",
           "medicalID" : "P.128",
           "name" : "Wózek inwalidzki dziecięcy",
@@ -2892,7 +2927,7 @@
 
 
         {
-          "uniqueID" : "129",
+          "uniqueID" : "131",
           "group" : "P",
           "medicalID" : "P.129",
           "name" : "Wózek inwalidzki wykonany ze stopów lekkich z systemem szybkiego demontażu kół, składany, dla osób samodzielnie poruszających się na wózku",
@@ -2918,7 +2953,7 @@
 
 
         {
-          "uniqueID" : "130",
+          "uniqueID" : "132",
           "group" : "P",
           "medicalID" : "P.130",
           "name" : "Wózek inwalidzki specjalny (z wyłączeniem wózka inwalidzkiego toaletowego)",
@@ -2943,7 +2978,7 @@
 
 
         {
-          "uniqueID" : "131",
+          "uniqueID" : "133",
           "group" : "P",
           "medicalID" : "P.131",
           "name" : "Wózek inwalidzki specjalny dziecięcy (z wyłączeniem wózka inwalidzkiego toaletowego)",
@@ -2968,7 +3003,7 @@
 
 
         {
-          "uniqueID" : "132",
+          "uniqueID" : "134",
           "group" : "P",
           "medicalID" : "P.132",
           "name" : "Siedzisko ortopedyczne dla dzieci stabilizujące plecy i głowę",
@@ -2992,7 +3027,7 @@
 
 
         {
-          "uniqueID" : "133",
+          "uniqueID" : "135",
           "group" : "P",
           "medicalID" : "P.133",
           "name" : "Pełzak do raczkowania",
