@@ -8,5 +8,14 @@
 	</div>
 </div>
 
+<div class="container">
+	<div class="jumbotron">
+		<div class="footer2">
+			<a href="http://medutools.pl" target="_blank">&#169 Wydawnictwo Interaktywne Medutools</a>
+		</div>
+	</div>
+</div>
+
+
 </body>
 </html>

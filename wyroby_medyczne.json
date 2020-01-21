@@ -4,6 +4,9 @@
       "uniqueID" : "1",
       "group" : "A",
       "medicalID" : "A.1",
+      "timeOfUse" : "na 2 lata",
+      "limitForFunding" : "200",
+      "patientsShares" : "0",
       "name" : "Protezowa wkładka do buta uzupełniająca stopę - do zwykłego obuwia",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -25,6 +28,9 @@
       "uniqueID" : "2",
       "group" : "A",
       "medicalID" : "A.2",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza uzupełniająca stopę",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -45,6 +51,9 @@
       "uniqueID" : "3",
       "group" : "A",
       "medicalID" : "A.3",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza ostateczna w obrębie stawu skokowego z kikutem oporowym",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -66,6 +75,9 @@
       "uniqueID" : "4",
       "group" : "B",
       "medicalID" : "B.4",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza tymczasowa podudzia",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -87,6 +99,9 @@
       "uniqueID" : "5",
       "group" : "B",
       "medicalID" : "B.5",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza ostateczna skorupowa podudzia z tuleją udową i połączeniem w obrębie stawu kolanowego",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -108,6 +123,9 @@
       "uniqueID" : "6",
       "group" : "B",
       "medicalID" : "B.6",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza ostateczna modularna podudzia z tuleją udową i połączeniem w obrębie stawu kolanowego",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -129,6 +147,9 @@
       "uniqueID" : "7",
       "group" : "B",
       "medicalID" : "B.7",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza ostateczna skorupowa podudzia",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -150,6 +171,9 @@
       "uniqueID" : "8",
       "group" : "B",
       "medicalID" : "B.8",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza ostateczna modularna podudzia",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -172,6 +196,9 @@
       "uniqueID" : "9",
       "group" : "B",
       "medicalID" : "B.9",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Wymiana leja w protezie tymczasowej podudzia",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -193,6 +220,9 @@
       "uniqueID" : "10",
       "group" : "B",
       "medicalID" : "B.10",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Wymiana leja w protezie ostatecznej podudzia",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -214,6 +244,9 @@
       "uniqueID" : "11",
       "group" : "B",
       "medicalID" : "B.11",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Protezowe wyrównanie skrócenia kończyny dolnej w obrębie podudzia",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -235,6 +268,9 @@
       "uniqueID" : "12",
       "group" : "C",
       "medicalID" : "C.12",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza tymczasowa w obrębie uda",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -256,6 +292,9 @@
       "uniqueID" : "13",
       "group" : "C",
       "medicalID" : "C.13",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza ostateczna skorupowa w obrębie uda",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -277,6 +316,9 @@
       "uniqueID" : "14",
       "group" : "C",
       "medicalID" : "C.14",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza ostateczna modularna w obrębie uda",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -298,6 +340,9 @@
       "uniqueID" : "15",
       "group" : "C",
       "medicalID" : "C.15",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Protezowe wyrównanie skrócenia kończyny dolnej w obrębie uda",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -319,6 +364,9 @@
       "uniqueID" : "16",
       "group" : "C",
       "medicalID" : "C.16",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Wymiana leja w protezie tymczasowej uda",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -340,6 +388,9 @@
       "uniqueID" : "17",
       "group" : "C",
       "medicalID" : "C.17",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Wymiana leja w protezie ostatecznej uda",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -361,6 +412,9 @@
       "uniqueID" : "18",
       "group" : "D",
       "medicalID" : "D.18",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza ostateczna skorupowa z koszem biodrowym po wyłuszczeniu w stawie biodrowym lub z krótkim k kutem wymagającym zaprotezowania z koszem biodrowym",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -383,6 +437,9 @@
       "uniqueID" : "19",
       "group" : "D",
       "medicalID" : "D.19",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza ostateczna modularna z koszem biodrowym po wyłuszczeniu w stawie biodrowym lub z krótkim k kutem wymagającym zaprotezowania z koszem biodrowym",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -404,6 +461,9 @@
       "uniqueID" : "20",
       "group" : "D",
       "medicalID" : "D.20",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Wymiana kosza biodrowego po wyłuszczeniu w stawie biodrowym",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -425,6 +485,9 @@
       "uniqueID" : "21",
       "group" : "E",
       "medicalID" : "E.21",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza kosmetyczna w obrębie ręki",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -447,6 +510,9 @@
       "uniqueID" : "22",
       "group" : "F",
       "medicalID" : "F.22",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza kosmetyczna w obrębie przedramienia",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -468,6 +534,9 @@
       "uniqueID" : "23",
       "group" : "F",
       "medicalID" : "F.23",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza robocza z końcówką roboczą w obrębie przedramienia",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -489,6 +558,9 @@
       "uniqueID" : "24",
       "group" : "G",
       "medicalID" : "G.24",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza kosmetyczna w obrębie ramienia",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -510,6 +582,9 @@
       "uniqueID" : "25",
       "group" : "G",
       "medicalID" : "G.25",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza robocza z końcówką roboczą w obrębie ramienia",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -531,6 +606,9 @@
       "uniqueID" : "26",
       "group" : "G",
       "medicalID" : "G.26",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza kosmetyczna całej kończyny górnej po wyłuszczeniu w obrębie stawu barkowego",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -552,6 +630,9 @@
       "uniqueID" : "27",
       "group" : "G",
       "medicalID" : "G.27",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Proteza robocza z końcówką roboczą całej kończyny górnej po wyłuszczeniu w obrębie stawu barkowego",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -573,7 +654,10 @@
       "uniqueID" : "28",
       "group" : "H",
       "medicalID" : "H.28",
-      "name" : "Orteza obejmująca goleń i stopę lub ze strzemieniem (typu AFO)",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "400",
+      "patientsShares" : "0",
+      "name" : "Orteza obejmująca goleń i stopę lub ze strzemieniem (typu AFO) (dzieci do ukończenia 18. roku życia)",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
         "Lekarz chirurgii ortopedycznej",
@@ -592,10 +676,42 @@
       ]
     },
 
+
+    {
+      "uniqueID" : "29",
+      "group" : "H",
+      "medicalID" : "H.28",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "400",
+      "patientsShares" : "10",
+      "name" : "Orteza obejmująca goleń i stopę lub ze strzemieniem (typu AFO) (dorośli)",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+
     {
       "uniqueID" : "29",
       "group" : "H",
       "medicalID" : "H.29",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Orteza krótka korygująca zaburzenia osiowe w płaszczyźnie czołowej (typu DAFO lub GRAFO)",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -619,6 +735,9 @@
       "uniqueID" : "30",
       "group" : "H",
       "medicalID" : "H.30",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Orteza z ujęciem uda, goleni i stopy (typu KAFO)",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -642,6 +761,9 @@
       "uniqueID" : "31",
       "group" : "H",
       "medicalID" : "H.31",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Orteza obejmująca obręcz biodrową, uda, golenie i stopy (typu HKAFO)",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -665,6 +787,9 @@
       "uniqueID" : "32",
       "group" : "H",
       "medicalID" : "H.32",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Orteza odciążająca kończynę dolną",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -688,6 +813,9 @@
       "uniqueID" : "33",
       "group" : "H",
       "medicalID" : "H.33",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Orteza reciprokalna z umożliwieniem ruchu w stawach skokowych i kolanowych",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -712,6 +840,9 @@
       "uniqueID" : "34",
       "group" : "I",
       "medicalID" : "I.34",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Pas biodrowy z szyną lub szynami",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -736,6 +867,9 @@
       "uniqueID" : "35",
       "group" : "I",
       "medicalID" : "I.35",
+      "timeOfUse" : "",
+      "limitForFunding" : "",
+      "patientsShares" : "",
       "name" : "Kosz biodrowy",
       "doctor" : [
         "Lekarz ortopedii i traumatologii",
@@ -761,6 +895,9 @@
           "uniqueID" : "36",
           "group" : "J",
           "medicalID" : "J.36",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza stabilizująca staw skokowy",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -785,6 +922,9 @@
           "uniqueID" : "37",
           "group" : "J",
           "medicalID" : "J.37",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza sztywna lub półsztywna z tworzywa sztucznego na goleń i stopę",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -808,6 +948,9 @@
           "uniqueID" : "38",
           "group" : "J",
           "medicalID" : "J.38",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza stawu kolanowego z ruchomym stawem kolanowym z regulacją kąta zgięcia",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -833,6 +976,9 @@
           "uniqueID" : "39",
           "group" : "J",
           "medicalID" : "J.39",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza stawu kolanowego obejmująca całą goleń i udo, z regulacją zakresu ruchomości",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -857,6 +1003,9 @@
           "uniqueID" : "40",
           "group" : "J",
           "medicalID" : "J.40",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza jednostronna lub obustronna unieruchamiająca lub stabilizująca staw biodrowy z regulowanym kątem zgięcia lub odwiedzenia",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -880,6 +1029,9 @@
           "uniqueID" : "41",
           "group" : "J",
           "medicalID" : "J.41",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Szyna typu Saint-Germain",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -903,6 +1055,9 @@
           "uniqueID" : "42",
           "group" : "J",
           "medicalID" : "J.42",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Szyna Denis-Browna z obuwiem",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -926,6 +1081,9 @@
           "uniqueID" : "43",
           "group" : "J",
           "medicalID" : "J.43",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza na całą kończynę dolną z ujęciem stopy z regulacją kąta zgięcia w stawie kolanowym",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -949,6 +1107,9 @@
           "uniqueID" : "44",
           "group" : "J",
           "medicalID" : "J.44",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza odwodząca do leczenia rozwojowej dysplazji stawu biodrowego",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -973,6 +1134,9 @@
           "uniqueID" : "45",
           "group" : "K",
           "medicalID" : "K.45",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza na rękę i przedramię",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -997,6 +1161,9 @@
           "uniqueID" : "46",
           "group" : "K",
           "medicalID" : "K.46",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza przedramienno-ramienna z ujęciem ręki",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1021,6 +1188,9 @@
           "uniqueID" : "47",
           "group" : "L",
           "medicalID" : "L.47",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza ręki stabilizująca lub korygująca (z wyłączeniem aparatu Stacka i Capenera)",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1045,6 +1215,9 @@
           "uniqueID" : "48",
           "group" : "L",
           "medicalID" : "L.48",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza na rękę i przedramię",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1069,6 +1242,9 @@
           "uniqueID" : "49",
           "group" : "L",
           "medicalID" : "L.49",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza stawu łokciowego z regulacją kąta zgięcia z ujęciem ręki lub bez",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1092,6 +1268,9 @@
           "uniqueID" : "50",
           "group" : "L",
           "medicalID" : "L.50",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza stawu łokciowego z ujęciem ręki lub bez",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1116,6 +1295,9 @@
           "uniqueID" : "51",
           "group" : "L",
           "medicalID" : "L.51",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza na ramię i bark (z wyłączeniem temblaków i ortez typu 'Dessault')",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1141,6 +1323,9 @@
           "uniqueID" : "52",
           "group" : "L",
           "medicalID" : "L.52",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza na ramię i bark typu 'Dessault'",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1168,6 +1353,9 @@
           "uniqueID" : "53",
           "group" : "L",
           "medicalID" : "L.53",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza odwodząca stawu barkowego z regulacją kąta odwiedzenia",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1193,6 +1381,9 @@
           "uniqueID" : "54",
           "group" : "Ł",
           "medicalID" : "Ł.54",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Gorset odciążająco-stabilizujący (z wyłączeniem gorsetu typu Jewetta)",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1219,6 +1410,9 @@
           "uniqueID" : "55",
           "group" : "Ł",
           "medicalID" : "Ł.55",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Gorset korekcyjny do leczenia skolioz lub kyfoz",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1238,6 +1432,9 @@
           "uniqueID" : "56",
           "group" : "Ł",
           "medicalID" : "Ł.56",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza tułowia lędźwiowo-krzyżowa",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1263,6 +1460,9 @@
           "uniqueID" : "57",
           "group" : "M",
           "medicalID" : "M.57",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Gorset stabilizująco-unieruchamiający",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1293,6 +1493,9 @@
           "uniqueID" : "58",
           "group" : "M",
           "medicalID" : "M.58",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Pas stabilizujący odcinek lędźwiowo-krzyżowy lub miednicę",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1322,6 +1525,9 @@
           "uniqueID" : "59",
           "group" : "M",
           "medicalID" : "M.59",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza (sznurówka) tułowia sztywna wysoka ze stalkami lub fiszbinami",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1351,6 +1557,9 @@
           "uniqueID" : "60",
           "group" : "M",
           "medicalID" : "M.60",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Orteza (sznurówka) lędźwiowo-krzyżowa ze stalkami lub fiszbinami",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1381,6 +1590,9 @@
           "uniqueID" : "61",
           "group" : "M",
           "medicalID" : "M.61",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Kołnierz sztywny",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1411,6 +1623,9 @@
           "uniqueID" : "62",
           "group" : "M",
           "medicalID" : "M.62",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Kołnierz półsztywny",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1441,6 +1656,9 @@
           "uniqueID" : "63",
           "group" : "M",
           "medicalID" : "M.63",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Półgorsetowa orteza szyjna",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1471,6 +1689,9 @@
           "uniqueID" : "64",
           "group" : "N",
           "medicalID" : "N.64",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "But na stopę o różnym zniekształceniu",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1495,6 +1716,9 @@
           "uniqueID" : "65",
           "group" : "N",
           "medicalID" : "N.65",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "But wyrównujący skrócenie kończyny dolnej",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1519,6 +1743,9 @@
           "uniqueID" : "66",
           "group" : "N",
           "medicalID" : "N.66",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "But przy amputacji w obrębie stopy",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1543,6 +1770,9 @@
           "uniqueID" : "67",
           "group" : "N",
           "medicalID" : "N.67",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "But do ortezy obejmującej stopę",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1568,6 +1798,9 @@
           "uniqueID" : "68",
           "group" : "N",
           "medicalID" : "N.68",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "But do pary przy zaopatrzeniu jednoczesnym na chorą stopę",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -1593,6 +1826,9 @@
           "uniqueID" : "69",
           "group" : "O",
           "medicalID" : "O.69",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Rękaw uciskowy płaskodziany z krytym szwem, bez zawartości bawełny, z uciskiem nie mniejszym niż 20 mmHg",
           "doctor" : [
             "Lekarz rehabilitacji",
@@ -1610,6 +1846,9 @@
           "uniqueID" : "70",
           "group" : "O",
           "medicalID" : "O.70",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Nogawica uciskowa płaskodziana z krytym szwem, bez zawartości bawełny, z uciskiem nie mniejszym niż 30 mmHg",
           "doctor" : [
             "Lekarz rehabilitacji",
@@ -1631,6 +1870,9 @@
           "uniqueID" : "71",
           "group" : "P",
           "medicalID" : "P.71",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Soczewka okularowa korekcyjna do bliży",
           "doctor" : [
             "Lekarz okulistyki"
@@ -1641,6 +1883,9 @@
           "uniqueID" : "72",
           "group" : "P",
           "medicalID" : "P.72",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Soczewka okularowa korekcyjna do dali",
           "doctor" : [
             "Lekarz okulistyki"
@@ -1651,6 +1896,9 @@
           "uniqueID" : "73",
           "group" : "P",
           "medicalID" : "P.73",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Soczewka okularowa korekcyjna do bliży",
           "doctor" : [
             "Lekarz okulistyki"
@@ -1661,6 +1909,9 @@
           "uniqueID" : "74",
           "group" : "P",
           "medicalID" : "P.74",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Soczewka okularowa korekcyjna do dali",
           "doctor" : [
             "Lekarz okulistyki"
@@ -1671,6 +1922,9 @@
           "uniqueID" : "75",
           "group" : "P",
           "medicalID" : "P.75",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Soczewka kontaktowa twarda",
           "doctor" : [
             "Lekarz okulistyki"
@@ -1681,6 +1935,9 @@
           "uniqueID" : "76",
           "group" : "P",
           "medicalID" : "P.76",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Soczewka kontaktowa miękka",
           "doctor" : [
             "Lekarz okulistyki"
@@ -1692,6 +1949,9 @@
           "uniqueID" : "77",
           "group" : "P",
           "medicalID" : "P.77",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Epiproteza oka",
           "doctor" : [
             "Lekarz okulistyki"
@@ -1702,6 +1962,9 @@
           "uniqueID" : "78",
           "group" : "P",
           "medicalID" : "P.78",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Proteza oka",
           "doctor" : [
             "Lekarz okulistyki"
@@ -1712,6 +1975,9 @@
           "uniqueID" : "79",
           "group" : "P",
           "medicalID" : "P.79",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Lupa",
           "doctor" : [
             "Lekarz okulistyki"
@@ -1722,6 +1988,9 @@
           "uniqueID" : "80",
           "group" : "P",
           "medicalID" : "P.80",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Monokular",
           "doctor" : [
             "Lekarz okulistyki"
@@ -1732,6 +2001,9 @@
           "uniqueID" : "81",
           "group" : "P",
           "medicalID" : "P.81",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Okulary lupowe",
           "doctor" : [
             "Lekarz okulistyki"
@@ -1742,6 +2014,9 @@
           "uniqueID" : "82",
           "group" : "P",
           "medicalID" : "P.82",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Okulary lornetkowe do bliży",
           "doctor" : [
             "Lekarz okulistyki"
@@ -1752,6 +2027,9 @@
           "uniqueID" : "83",
           "group" : "P",
           "medicalID" : "P.83",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Okulary lornetkowe do dali",
           "doctor" : [
             "Lekarz okulistyki"
@@ -1763,6 +2041,9 @@
           "uniqueID" : "84",
           "group" : "P",
           "medicalID" : "P.84",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Aparat słuchowy na przewodnictwo powietrzne przy jednostronnym ubytku słuchu albo dwa aparaty słuchowe na przewodnictwo powietrzne przy obustronnym ubytku słuchu",
           "doctor" : [
             "Lekarz audiologii i foniatrii",
@@ -1780,6 +2061,9 @@
           "uniqueID" : "85",
           "group" : "P",
           "medicalID" : "P.85",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Aparat słuchowy na przewodnictwo kostne przy jednostronnym ubytku słuchu albo dwa aparaty słuchowe na przewodnictwo kostne przy obustronnym ubytku słuchu, z wyłączeniem aparatów słuchowych mocowanych na stałe",
           "doctor" : [
             "Lekarz audiologii i foniatrii",
@@ -1796,6 +2080,9 @@
           "uniqueID" : "86",
           "group" : "P",
           "medicalID" : "P.86",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Wkładka uszna wykonana indywidualnie",
           "doctor" : [
             "Lekarz audiologii i foniatrii",
@@ -1813,6 +2100,9 @@
           "uniqueID" : "87",
           "group" : "P",
           "medicalID" : "P.87",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Systemy wspomagające słyszenie",
           "doctor" : [
             "Lekarz audiologii i foniatrii",
@@ -1829,6 +2119,9 @@
           "uniqueID" : "88",
           "group" : "P",
           "medicalID" : "P.88",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Krtań elektroniczna (aparat wspomagający mowę)",
           "doctor" : [
             "Lekarz otolaryngologii",
@@ -1850,6 +2143,9 @@
           "uniqueID" : "89",
           "group" : "P",
           "medicalID" : "P.89",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Rurka tracheostomijna wraz z zapasowym wkładem",
           "doctor" : [
             "Lekarz otolaryngologii",
@@ -1870,6 +2166,9 @@
           "uniqueID" : "90",
           "group" : "P",
           "medicalID" : "P.90",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Cewniki jednorazowe do odsysania górnych dróg oddechowych do 180 sztuk",
           "doctor" : [
             "Lekarz neurologii",
@@ -1900,6 +2199,9 @@
           "uniqueID" : "91",
           "group" : "P",
           "medicalID" : "P.91",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Zestawy infuzyjne do osobistej pompy insulinowej 10 sztuk (obejmujące wkłucie, łącznik i dren) (0%, do 26. roku życia)",
           "doctor" : [
             "Lekarz diabetologii",
@@ -1918,6 +2220,9 @@
           "uniqueID" : "92",
           "group" : "P",
           "medicalID" : "P.91",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Zestawy infuzyjne do osobistej pompy insulinowej 10 sztuk (obejmujące wkłucie, łącznik i dren) (30%, powyżej 26. roku życia)",
           "doctor" : [
             "Lekarz diabetologii",
@@ -1933,6 +2238,9 @@
           "uniqueID" : "93",
           "group" : "P",
           "medicalID" : "P.91",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Zestawy infuzyjne do osobistej pompy insulinowej 10 sztuk (obejmujące wkłucie, łącznik i dren) (0%, kobiety ciężarne)",
           "doctor" : [
             "Lekarz diabetologii",
@@ -1948,6 +2256,9 @@
           "uniqueID" : "94",
           "group" : "P",
           "medicalID" : "P.92",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Proteza piersi",
           "doctor" : [
        	    "Lekarz chirurgii ogólnej",
@@ -1971,6 +2282,9 @@
           "uniqueID" : "95",
           "group" : "P",
           "medicalID" : "P.93",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Peruka",
           "doctor" : [
        	    "Lekarz chirurgii ogólnej",
@@ -1998,6 +2312,9 @@
           "uniqueID" : "96",
           "group" : "P",
           "medicalID" : "P.94",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Cewniki zewnętrzne do 30 sztuk",
           "doctor" : [
        	    "Lekarz chirurgii ogólnej",
@@ -2024,6 +2341,9 @@
           "uniqueID" : "97",
           "group" : "P",
           "medicalID" : "P.95",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Cewniki urologiczne do 4 sztuk lub w równowartości ich kosztu cewnik silikonowy",
           "doctor" : [
        	    "Lekarz chirurgii ogólnej",
@@ -2050,6 +2370,9 @@
           "uniqueID" : "98",
           "group" : "P",
           "medicalID" : "P.96",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Cewniki jednorazowe urologiczne do 180 sztuk miesięcznie lub w równowartości ich kosztu jednorazowe hydrofilowe cewniki urologiczne",
           "doctor" : [
        	    "Lekarz chirurgii ogólnej",
@@ -2075,6 +2398,9 @@
           "uniqueID" : "99",
           "group" : "P",
           "medicalID" : "P.97",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Worki do zbiórki moczu z odpływem do 12 sztuk",
           "doctor" : [
             "Lekarz urologii",
@@ -2100,6 +2426,9 @@
           "uniqueID" : "100",
           "group" : "P",
           "medicalID" : "P.98",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Worki do zbiórki moczu w ilości do 12 sztuk w przypadku nefrostomii lub w równowartości ich nabycia inny sprzęt urologiczny (np. cewniki urologiczne, paski mocujące itp.)",
           "doctor" : [
             "Lekarz urologii",
@@ -2124,6 +2453,9 @@
           "uniqueID" : "101",
           "group" : "P",
           "medicalID" : "P.99",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Worki stomijne samoprzylepne jednorazowego użycia w ilości do 90 sztuk w systemie jednoczęściowym lub w równowartości ich kosztu worki i płytki w systemie dwuczęściowym lub inny sprzęt stomijny: zestawy irygacyjne, nocne zbiorniki na mocz, pasty, pudry oraz paski, półpierścienie, pierścienie o właściwościach uszczelniających lub gojących, produkty do usuwania sprzętu stomijnego lub do ochrony skóry wokół stomii",
           "doctor" : [
        	    "Lekarz chirurgii ogólnej",
@@ -2149,6 +2481,9 @@
           "uniqueID" : "102",
           "group" : "P",
           "medicalID" : "P.100",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Pieluchomajtki do 60 sztuk miesięcznie lub zamiennie pieluchy anatomiczne do 60 sztuk miesięcznie lub zamiennie majtki chłonne do 60 sztuk miesięcznie lub zamiennie podkłady do 60 sztuk miesięcznie lub zamiennie wkłady anatomiczne do 60 sztuk miesięcznie",
           "doctor" : [
        	    "Lekarz chirurgii ogólnej",
@@ -2179,6 +2514,9 @@
           "uniqueID" : "103",
           "group" : "P",
           "medicalID" : "P.101",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Pieluchomajtki do 60 sztuk miesięcznie lub zamiennie pieluchy anatomiczne do 60 sztuk miesięcznie lub zamiennie majtki chłonne do 60 sztuk miesięcznie lub zamiennie podkłady do 60 sztuk miesięcznie lub zamiennie wkłady anatomiczne do 60 sztuk miesięcznie",
           "doctor" : [
        	    "Lekarz chirurgii ogólnej",
@@ -2209,6 +2547,9 @@
           "uniqueID" : "104",
           "group" : "P",
           "medicalID" : "P.102",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Aparat z maską do leczenia obturacyjnego bezdechu sennego (obejmujący aparat, maskę twarzową lub nosową oraz sprężarkę)",
           "doctor" : [
             "Lekarz chorób płuc",
@@ -2225,6 +2566,9 @@
           "uniqueID" : "105",
           "group" : "P",
           "medicalID" : "P.103",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Nebulizator (generator aerozolu) lub głowica do inhalatora membranowego",
           "doctor" : [
             "Lekarz chorób płuc",
@@ -2245,6 +2589,9 @@
           "uniqueID" : "106",
           "group" : "P",
           "medicalID" : "P.104",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Sprężarka powietrza lub inhalator membranowy",
           "doctor" : [
             "Lekarz chorób płuc",
@@ -2265,6 +2612,9 @@
           "uniqueID" : "107",
           "group" : "P",
           "medicalID" : "P.105",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Sprzęt do indywidualnej fizjoterapii układu oddechowego - urządzenia do drenażu, wytwarzające podwyższone lub zmienne ciśnienie wydechowe",
           "doctor" : [
             "Lekarz chorób płuc",
@@ -2285,6 +2635,9 @@
           "uniqueID" : "108",
           "group" : "P",
           "medicalID" : "P.106",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Pończocha kikutowa - po pełnej amputacji lub w przypadku wrodzonego braku w obrębie stopy do 12 sztuk",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2314,6 +2667,9 @@
           "uniqueID" : "109",
           "group" : "P",
           "medicalID" : "P.107",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie podudzia do 12 sztuk",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2343,6 +2699,9 @@
           "uniqueID" : "110",
           "group" : "P",
           "medicalID" : "P.108",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie uda do 12 sztuk",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2372,6 +2731,9 @@
           "uniqueID" : "111",
           "group" : "P",
           "medicalID" : "P.109",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Majteczki - po wyłuszczeniu lub w przypadku wrodzonego braku w stawie biodrowym do 12 sztuk",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2400,6 +2762,9 @@
           "uniqueID" : "112",
           "group" : "P",
           "medicalID" : "P.110",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie przedramienia do 12 sztuk",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2428,6 +2793,9 @@
           "uniqueID" : "113",
           "group" : "P",
           "medicalID" : "P.111",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie ramienia do 12 sztuk",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2456,6 +2824,9 @@
           "uniqueID" : "114",
           "group" : "P",
           "medicalID" : "P.112",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Pończocha kikutowa - po pełnej amputacji lub w przypadku braku kończyny górnej do 12 sztuk",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2487,6 +2858,9 @@
           "uniqueID" : "115",
           "group" : "P",
           "medicalID" : "P.113",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Pas przepuklinowy pachwinowy jednostronny",
           "doctor" : [
        	    "Lekarz chirurgii ogólnej",
@@ -2500,6 +2874,9 @@
           "uniqueID" : "116",
           "group" : "P",
           "medicalID" : "P.114",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Pas przepuklinowy pachwinowy obustronny",
           "doctor" : [
        	    "Lekarz chirurgii ogólnej",
@@ -2514,6 +2891,9 @@
           "uniqueID" : "117",
           "group" : "P",
           "medicalID" : "P.115",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Pas brzuszny",
           "doctor" : [
        	    "Lekarz chirurgii ogólnej",
@@ -2528,6 +2908,9 @@
           "uniqueID" : "118",
           "group" : "P",
           "medicalID" : "P.116",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Poduszka przeciwodleżynowa pneumatyczna",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2563,6 +2946,9 @@
           "uniqueID" : "119",
           "group" : "P",
           "medicalID" : "P.117",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Materac przeciwodleżynowy (z wyłączeniem materacy piankowych)",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2598,6 +2984,9 @@
           "uniqueID" : "120",
           "group" : "P",
           "medicalID" : "P.118",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Kula łokciowa ze stopniową regulacją",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2633,6 +3022,9 @@
           "uniqueID" : "121",
           "group" : "P",
           "medicalID" : "P.119",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Kula łokciowa z podparciem na przedramieniu",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2668,6 +3060,9 @@
           "uniqueID" : "122",
           "group" : "P",
           "medicalID" : "P.120",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Kula pachowa",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2703,6 +3098,9 @@
           "uniqueID" : "123",
           "group" : "P",
           "medicalID" : "P.121",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Trójnóg albo czwórnóg",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2738,6 +3136,9 @@
           "uniqueID" : "124",
           "group" : "P",
           "medicalID" : "P.122",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Laska dla niewidomych (biała)",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2773,6 +3174,9 @@
           "uniqueID" : "125",
           "group" : "P",
           "medicalID" : "P.123",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Balkonik albo podpórka ułatwiająca chodzenie",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2809,6 +3213,9 @@
           "uniqueID" : "126",
           "group" : "P",
           "medicalID" : "P.124",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Balkonik specjalny dla dzieci z odciążeniem tułowia, umożliwiający przemieszczanie się",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2828,6 +3235,9 @@
           "uniqueID" : "127",
           "group" : "P",
           "medicalID" : "P.125",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Pionizator",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2849,6 +3259,9 @@
           "uniqueID" : "128",
           "group" : "P",
           "medicalID" : "P.126",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Urządzenie multifunkcyjne: funkcja pionizacji, stabilizacji w pozycji siedzącej i leżącej z funkcją transportową",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2870,6 +3283,9 @@
           "uniqueID" : "129",
           "group" : "P",
           "medicalID" : "P.127",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Wózek inwalidzki ręczny",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2901,6 +3317,9 @@
           "uniqueID" : "130",
           "group" : "P",
           "medicalID" : "P.128",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Wózek inwalidzki dziecięcy",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2930,6 +3349,9 @@
           "uniqueID" : "131",
           "group" : "P",
           "medicalID" : "P.129",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Wózek inwalidzki wykonany ze stopów lekkich z systemem szybkiego demontażu kół, składany, dla osób samodzielnie poruszających się na wózku",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2956,6 +3378,9 @@
           "uniqueID" : "132",
           "group" : "P",
           "medicalID" : "P.130",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Wózek inwalidzki specjalny (z wyłączeniem wózka inwalidzkiego toaletowego)",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -2981,6 +3406,9 @@
           "uniqueID" : "133",
           "group" : "P",
           "medicalID" : "P.131",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Wózek inwalidzki specjalny dziecięcy (z wyłączeniem wózka inwalidzkiego toaletowego)",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -3006,6 +3434,9 @@
           "uniqueID" : "134",
           "group" : "P",
           "medicalID" : "P.132",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Siedzisko ortopedyczne dla dzieci stabilizujące plecy i głowę",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",
@@ -3030,6 +3461,9 @@
           "uniqueID" : "135",
           "group" : "P",
           "medicalID" : "P.133",
+          "timeOfUse" : "",
+          "limitForFunding" : "",
+          "patientsShares" : "",
           "name" : "Pełzak do raczkowania",
           "doctor" : [
             "Lekarz ortopedii i traumatologii",

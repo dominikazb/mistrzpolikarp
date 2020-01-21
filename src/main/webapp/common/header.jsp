@@ -41,8 +41,20 @@ body {
 
 .footer {
 	text-align: right;
-	margin-top: 50px;
+	margin-top: 30px;
 }
+
+.footer2 {
+    position: fixed;
+    bottom: 20px;
+	text-align: left;
+
+}
+
+.footer2 a:link { color: #f9f9f9; }
+.footer2 a:visited { color: #f9f9f9; }
+.footer2 a:hover { color: #f9f9f9; }
+.footer2 a:active { color: #f9f9f9; }
 
 .flexxible-box {
 	width: 100%;
