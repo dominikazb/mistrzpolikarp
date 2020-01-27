@@ -1,6 +1,6 @@
 <div class="container">
 	<div class="jumbotron">
-		<div class="footer">
+		<div class="linkDiv">
 			<a
 				href="https://mistrzpolikarp.pl/wyroby-medyczne-jak-uzyskac-refundacje/">Przeczytaj
 				jak uzyskać refundację na wyroby medyczne &raquo;</a>
@@ -10,7 +10,7 @@
 
 <div class="container">
 	<div class="jumbotron">
-		<div class="footer2">
+		<div class="footer">
 			<a href="http://medutools.pl" target="_blank">&#169 Wydawnictwo Interaktywne Medutools</a>
 		</div>
 	</div>

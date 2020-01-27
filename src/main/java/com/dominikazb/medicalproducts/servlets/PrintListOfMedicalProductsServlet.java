@@ -24,7 +24,7 @@ public class PrintListOfMedicalProductsServlet extends HttpServlet {
 		TreeMap<MedicalProduct, ArrayList<Object>> initialMapOfMedicalProductsAndDoctors = (TreeMap<MedicalProduct, ArrayList<Object>>) getServletContext().getAttribute("initialMapOfMedicalProductsAndDoctors");
 		HttpSession session = request.getSession(false);
 		PrintListsOfSearchedDoctorsAndProducts printLists = new PrintListsOfSearchedDoctorsAndProducts();
-		ArrayList<String> listOfMedicalProductsForParticularSpecialty = printLists.getListOfMedicalProductsForParticularSpecialty(initialMapOfMedicalProductsAndDoctors, (String)session.getAttribute("inputMedicalDoctor"));
+		ArrayList<MedicalProduct> listOfMedicalProductsForParticularSpecialty = printLists.getListOfMedicalProductsForParticularSpecialty(initialMapOfMedicalProductsAndDoctors, (String)session.getAttribute("inputMedicalDoctor"));
 		request.setAttribute("listOfMedicalProductsForParticularSpecialty", listOfMedicalProductsForParticularSpecialty);
 		request.getRequestDispatcher("/listOfMedicalProducts.jsp").forward(request, response);
 	}

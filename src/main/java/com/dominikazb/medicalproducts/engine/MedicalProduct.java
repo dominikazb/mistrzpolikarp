@@ -12,12 +12,19 @@ public class MedicalProduct implements Serializable, Comparable<MedicalProduct> 
 	private int uniqueID;
 	private String medicalID;
 	private String name;
+	private String timeOfUse;
+	private String limitForFunding;
+	private String patientsShares;
 	
-	public MedicalProduct(int uniqueID, String medicalID, String name) {
+	public MedicalProduct(int uniqueID, String medicalID, String name, String timeOfUse, String limitForFunding, String patientsShares) {
 		super();
 		this.uniqueID = uniqueID;
 		this.medicalID = medicalID;
 		this.name = name;
+		this.timeOfUse = timeOfUse;
+		this.limitForFunding = limitForFunding;
+		this.patientsShares = patientsShares;
+		
 	}
 
 	public int getUniqueID() {
@@ -44,11 +51,37 @@ public class MedicalProduct implements Serializable, Comparable<MedicalProduct> 
 		this.name = name;
 	}
 
-	@Override
-	public String toString() {
-		return String.format("MedicalProduct [uniqueID=%s, medicalID=%s, name=%s]", uniqueID, medicalID, name);
+	public String getTimeOfUse() {
+		return timeOfUse;
+	}
+
+	public void setTimeOfUse(String timeOfUse) {
+		this.timeOfUse = timeOfUse;
+	}
+
+	public String getLimitForFunding() {
+		return limitForFunding;
+	}
+
+	public void setLimitForFunding(String limitForFunding) {
+		this.limitForFunding = limitForFunding;
+	}
+
+	public String getPatientsShares() {
+		return patientsShares;
+	}
+
+	public void setPatientsShares(String patientsShares) {
+		this.patientsShares = patientsShares;
 	}
 	
+	@Override
+	public String toString() {
+		return String.format(
+				"MedicalProduct [uniqueID=%s, medicalID=%s, name=%s, timeOfUse=%s, limitForFunding=%s, patientsShares=%s]",
+				uniqueID, medicalID, name, timeOfUse, limitForFunding, patientsShares);
+	}
+
 	@Override
     public int compareTo(MedicalProduct mp){
         return Comparator.comparing(MedicalProduct::getUniqueID)

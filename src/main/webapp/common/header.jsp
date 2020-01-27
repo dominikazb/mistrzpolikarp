@@ -39,22 +39,20 @@ body {
 	display: inline-block;
 }
 
-.footer {
+.linkDiv {
 	text-align: right;
 	margin-top: 30px;
 }
 
-.footer2 {
-    position: fixed;
-    bottom: 20px;
+.footer {
 	text-align: left;
 
 }
 
-.footer2 a:link { color: #f9f9f9; }
-.footer2 a:visited { color: #f9f9f9; }
-.footer2 a:hover { color: #f9f9f9; }
-.footer2 a:active { color: #f9f9f9; }
+.footer a:link { color: #8b8b8b; }
+.footer a:visited { color: #8b8b8b; }
+.footer a:hover { color: #8b8b8b; }
+.footer a:active { color: #8b8b8b; }
 
 .flexxible-box {
 	width: 100%;

@@ -6,14 +6,22 @@
 		<table class="table table-striped">
 			<thead>
 				<tr>
-					<th>${inputMedicalDoctor}</th>
+					<th>Lp.</th>
+					<th>Nazwa produktu</th>
+					<th>Okres użytkowania</th>
+					<th>Limit finansowania</th>
+					<th>Udział własny</th>
 				</tr>
 			</thead>
 			<tbody>
-				<c:forEach items="${listOfMedicalProductsForParticularSpecialty}"
-					var="product">
+				<c:forEach var="medicalproduct"
+					items="${listOfMedicalProductsForParticularSpecialty}">
 					<tr>
-						<td><c:out value="${product}" /></td>
+						<td><c:out value="${medicalproduct.medicalID}" /></td>
+						<td><c:out value="${medicalproduct.name}" /></td>
+						<td>raz <c:out value="${medicalproduct.timeOfUse}" /></td>
+						<td><c:out value="${medicalproduct.limitForFunding}" /> zł</td>
+						<td><c:out value="${medicalproduct.patientsShares}" />%</td>
 					</tr>
 				</c:forEach>
 			</tbody>

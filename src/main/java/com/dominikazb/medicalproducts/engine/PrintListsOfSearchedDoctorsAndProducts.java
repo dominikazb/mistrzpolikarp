@@ -9,7 +9,7 @@ import java.util.TreeMap;
 
 public class PrintListsOfSearchedDoctorsAndProducts {
 	
-	public ArrayList<String>  getListOfMedicalDoctorsForParticularProduct(TreeMap<MedicalProduct, ArrayList<Object>> inputMap, String searchedMedicalProduct) {
+	public ArrayList<String> getListOfMedicalDoctorsForParticularProduct(TreeMap<MedicalProduct, ArrayList<Object>> inputMap, String searchedMedicalProduct) {
 		ArrayList<String> listOfMedicalDoctors = new ArrayList<>();
 		for(Map.Entry<MedicalProduct, ArrayList<Object>> entry : inputMap.entrySet()) {
 			String nameAndMedicalIdOfMedicalProduct = entry.getKey().getMedicalID() + " - " + entry.getKey().getName();
@@ -27,11 +27,11 @@ public class PrintListsOfSearchedDoctorsAndProducts {
 	}
 	
 	
-	public ArrayList<String> getListOfMedicalProductsForParticularSpecialty(TreeMap<MedicalProduct, ArrayList<Object>> inputMap, String searchedMedicalDoctor) {
-		ArrayList<String> listOfMedicalProducts = new ArrayList<>();
+	public ArrayList<MedicalProduct> getListOfMedicalProductsForParticularSpecialty(TreeMap<MedicalProduct, ArrayList<Object>> inputMap, String searchedMedicalDoctor) {
+		ArrayList<MedicalProduct> listOfMedicalProducts = new ArrayList<>();
 
 		for(Map.Entry<MedicalProduct, ArrayList<Object>> entry : inputMap.entrySet()) {
-			String medicalProduct = entry.getKey().getMedicalID() + " - " + entry.getKey().getName();
+			MedicalProduct medicalProduct = entry.getKey();
 			for(Object object : entry.getValue()) {
 				String medicalDoctor = object.toString();
 				if(searchedMedicalDoctor.equals(medicalDoctor)) {
@@ -42,4 +42,5 @@ public class PrintListsOfSearchedDoctorsAndProducts {
 		return listOfMedicalProducts;
 	}
 	
+
 }

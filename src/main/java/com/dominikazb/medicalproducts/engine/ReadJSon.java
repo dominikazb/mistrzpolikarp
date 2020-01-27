@@ -35,13 +35,16 @@ public class ReadJSon {
 			int uniqueID = Integer.parseInt(uniqueIDString);
 			String medicalID = (String) newMap.get("medicalID");
 			String productsName = (String) newMap.get("name");
+			String timeOfUse = (String) newMap.get("timeOfUse");
+			String limitForFunding = (String) newMap.get("limitForFunding");
+			String patientsShares = (String) newMap.get("patientsShares");
 			
-			MedicalProduct medicalProduct = new MedicalProduct(uniqueID, medicalID, productsName);
+			MedicalProduct medicalProduct = new MedicalProduct(uniqueID, medicalID, productsName, timeOfUse, limitForFunding, patientsShares);
 			ArrayList<Object> listOfDoctorsArrayList = (ArrayList<Object>) newMap.get("doctor");
 			medicalDoctorsAndProductsMap.put(medicalProduct, listOfDoctorsArrayList);
 		}
 		
-		//sor the map by uniqueID field
+		//sort the map by uniqueID field
 		medicalDoctorsAndProductsMapSorted.putAll(medicalDoctorsAndProductsMap);
 		
 		return medicalDoctorsAndProductsMapSorted;
