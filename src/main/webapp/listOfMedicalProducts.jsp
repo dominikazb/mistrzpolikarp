@@ -1,22 +1,20 @@
 <%@ include file="common/header.jsp"%>
 <%@ include file="inputForms.jsp"%>
-
-
-
-
 <div class="container">
 	<div class="jumbotron">
+		<h4>${inputMedicalDoctor}</h4>
+
 		<table class="table">
 			<thead>
-				<tr>
+				<%-- 				<tr>
 					<th colspan="5">${inputMedicalDoctor}</th>
-				</tr>
+				</tr> --%>
 				<tr>
-					<th scope="col">Lp.</th>
-					<th scope="col">Nazwa produktu</th>
-					<th scope="col">Okres użytkowania</th>
-					<th scope="col">Limit finansowania</th>
-					<th scope="col">Udział własny</th>
+					<th scope="col">Kod</th>
+					<th scope="col">Nazwa wyrobu</th>
+					<th scope="col">Okres</th>
+					<th scope="col">Limit</th>
+					<th scope="col">Udział</th>
 				</tr>
 			</thead>
 			<tbody>

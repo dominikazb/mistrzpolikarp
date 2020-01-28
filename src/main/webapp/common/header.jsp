@@ -41,13 +41,19 @@ body {
 	display: inline-block;
 }
 
+.img-fluid {
+ max-width:100%;
+}
+
 .linkDiv {
+	width:100%;
 	text-align: right;
 	margin-top: 30px;
 }
 
 .footer {
 	text-align: left;
+	color: #8b8b8b;
 }
 
 .footer a:link {
@@ -78,6 +84,7 @@ body {
 		rgba(0, 0, 0, 0.19);
 }
 
+
 <!--TABLES ON MOBILE DEVICES-->
 
 table {
@@ -107,11 +114,13 @@ td, th {
 	table, thead, tbody, th, td, tr {
 		display: block;
 	}
+	
 	thead tr {
 		position: absolute;
 		top: -9999px;
 		left: -9999px;
 	}
+	
 	tr {
 		border: 1px solid #ccc;
 	}
@@ -121,6 +130,7 @@ td, th {
 		position: relative;
 		padding-left: 50%;
 	}
+	
 	td:before {
 		position: absolute;
 		top: 6px;
@@ -129,24 +139,29 @@ td, th {
 		padding-right: 10px;
 		white-space: nowrap;
 	}
+	
 	td:before {
 		position: static !important;
 		color: grey;
 	}
+	
 	td:nth-of-type(1):before {
-		content: "Kod produktu:";
+		content: "Kod:";
 	}
+	
 	td:nth-of-type(2):before {
-		content: "Nazwa produktu:";
+		content: "Nazwa:";
 	}
 	td:nth-of-type(3):before {
 		content: "Okres:";
 	}
+	
 	td:nth-of-type(4):before {
-		content: "Limit finansowania:";
+		content: "Limit:";
 	}
+	
 	td:nth-of-type(5):before {
-		content: "Udział własny:";
+		content: "Udział:";
 	}
 	
 	td.doctor:nth-of-type(1):before {
@@ -163,7 +178,7 @@ td, th {
 		<div class="jumbotron">
 			<div class="mistrzPolikarpPNG1">
 				<div class="mistrzPolikarpPNG2">
-					<a href="http://mistrzpolikarp.pl"><img
+					<a href="http://mistrzpolikarp.pl"><img class="img-fluid"
 						src="common/mistrzpolikarp_no_background.png" width="330"
 						height="125"></a>
 				</div>

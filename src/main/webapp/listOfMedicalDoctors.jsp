@@ -3,12 +3,8 @@
 
 <div class="container">
 	<div class="jumbotron">
+	<h4>${inputMedicalProduct}</h4>
 		<table class="table table-striped">
-			<thead>
-				<tr>
-					<th>${inputMedicalProduct}</th>
-				</tr>
-			</thead>
 			<tbody>
 				<c:forEach
 					items="${listOfMedicalDoctorsThatCanPrescribeParticularProduct}"
