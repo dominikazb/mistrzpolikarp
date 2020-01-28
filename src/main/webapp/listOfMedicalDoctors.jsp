@@ -10,6 +10,9 @@
 		Udział pacjenta: <c:out value="${chosenMedicalProduct.patientsShares}" />%</h6>
 		<table class="table table-striped">
 			<tbody>
+			
+				<tr><th scope="col">Mogą wypisać:</th></tr>
+				
 				<c:forEach
 					items="${listOfMedicalDoctorsThatCanPrescribeParticularProduct}"
 					var="medicalDoctor">
