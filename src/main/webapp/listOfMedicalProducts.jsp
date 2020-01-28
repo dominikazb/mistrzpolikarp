@@ -1,5 +1,6 @@
 <%@ include file="common/header.jsp"%>
 <%@ include file="inputForms.jsp"%>
+
 <div class="container">
 	<div class="jumbotron">
 		<h4>${inputMedicalDoctor}</h4>

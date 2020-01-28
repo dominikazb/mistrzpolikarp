@@ -3,7 +3,7 @@
 		<div class="col-lg-6">
 			<div class="flexxible-box">
 				<p class="lead">Kto przepisuje?</p>
-				<form action="/readMedicalDoctor" method="POST">
+ 				<form action="/readMedicalDoctor" method="POST">
 					<select id="md" name="inputMedicalDoctor"
 						placeholder="Wyszukaj specjalistę" onchange="this.form.submit()">
 						<option value="">Wyszukaj specjalistę</option>
@@ -13,18 +13,16 @@
 					</select>
 				</form>
 				<script>
-					$('#md').selectize();
-					
- 	/* 				$( '#md').selectize( {    
-					    plugins: [ 'preserve_on_blur' ]
-					}); */					
+					$('#md').selectize();				
 				</script>
+				${inputMedicalDoctor}
 			</div>
 
 		</div>
 		<div class="col-lg-6">
 			<div class="flexxible-box">
 				<p class="lead">Co przepisuje?</p>
+
 				<form action="/readMedicalProduct" method="POST">
 					<select id="products" name="inputMedicalProduct"
 						placeholder="Wyszukaj produkt medyczny"
@@ -38,8 +36,12 @@
 				<script>
 					$('#products').selectize();
 				</script>
+				${inputMedicalProduct}
 			</div>
 			
 		</div>
 	</div>
 </div>
+
+
+	

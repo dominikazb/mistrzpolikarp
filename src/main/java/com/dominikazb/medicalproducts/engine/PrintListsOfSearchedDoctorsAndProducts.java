@@ -41,5 +41,23 @@ public class PrintListsOfSearchedDoctorsAndProducts {
 		}
 		return listOfMedicalProducts;
 	}
-
+	
+	public MedicalProduct getSelectedMedicalProductFeatures(TreeMap<MedicalProduct, ArrayList<Object>> inputMap, String searchedMedicalProduct) {
+		MedicalProduct medicalProduct = new MedicalProduct();
+		for(Map.Entry<MedicalProduct, ArrayList<Object>> entry : inputMap.entrySet()) {	
+			
+			int uniqueID = entry.getKey().getUniqueID();
+			String medicalID = entry.getKey().getMedicalID();
+			String productName = entry.getKey().getName();
+			String productTime = entry.getKey().getTimeOfUse();
+			String productLimit = entry.getKey().getLimitForFunding();
+			String productShares = entry.getKey().getPatientsShares();
+			String nameAndMedicalIdOfMedicalProduct = medicalID + " - " + productName;
+			if(searchedMedicalProduct.equals(nameAndMedicalIdOfMedicalProduct)) {
+				medicalProduct = new MedicalProduct(uniqueID, medicalID, productName, productTime, productLimit, productShares);
+				
+			}
+		}
+		return medicalProduct;
+	}
 }

@@ -10,9 +10,7 @@ import javax.servlet.http.HttpSession;
 
 @WebServlet("/readMedicalProduct")
 public class ReadMedicalProduct extends HttpServlet {
-	
 	private static final long serialVersionUID = 1L;
-
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		String inputMedicalProduct = (String)request.getParameter("inputMedicalProduct");
 		HttpSession session = request.getSession();

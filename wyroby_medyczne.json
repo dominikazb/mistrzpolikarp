@@ -3616,7 +3616,7 @@
           "timeOfUse" : "na miesiąc",
           "limitForFunding" : "77",
           "patientsShares" : "0",
-          "name" : "Pieluchomajtki lub zamiennik do 90 sztuk miesięcznie (ze wskazań nowotworowych)",
+          "name" : "Pieluchomajtki/pampersy/podkłady lub zamiennik do 90 sztuk miesięcznie (ze wskazań nowotworowych)",
           "doctor" : [
        	    "Lekarz chirurgii ogólnej",
             "Lekarz chirurgii dziecięcej",
@@ -3648,7 +3648,7 @@
           "timeOfUse" : "na miesiąc",
           "limitForFunding" : "90",
           "patientsShares" : "30",
-          "name" : "Pieluchomajtki lub zamiennik do 90 sztuk miesięcznie (ze wskazań nienowotworowych)",
+          "name" : "Pieluchomajtki/pampersy/podkłady lub zamiennik do 90 sztuk miesięcznie (ze wskazań nienowotworowych)",
           "doctor" : [
        	    "Lekarz chirurgii ogólnej",
             "Lekarz chirurgii dziecięcej",

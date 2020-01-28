@@ -16,6 +16,8 @@ public class MedicalProduct implements Serializable, Comparable<MedicalProduct> 
 	private String limitForFunding;
 	private String patientsShares;
 	
+	public MedicalProduct() {}
+	
 	public MedicalProduct(int uniqueID, String medicalID, String name, String timeOfUse, String limitForFunding, String patientsShares) {
 		super();
 		this.uniqueID = uniqueID;
