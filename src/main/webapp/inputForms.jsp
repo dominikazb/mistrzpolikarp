@@ -15,7 +15,8 @@
 				<script>
 					$('#md').selectize();				
 				</script>
-				${inputMedicalDoctor}
+				<c:if test="${!empty(inputMedicalDoctor)}">
+				${inputMedicalDoctor} &#8595;</c:if>
 			</div>
 
 		</div>
@@ -35,7 +36,8 @@
 				<script>
 					$('#products').selectize();
 				</script>
-				${inputMedicalProduct}
+				<c:if test="${!empty(inputMedicalProduct)}">
+				${inputMedicalProduct} &#8595;</c:if>
 			</div>
 		</div>
 	</div>
