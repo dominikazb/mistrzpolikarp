@@ -14,12 +14,13 @@
 					items="${listOfMedicalDoctorsThatCanPrescribeParticularProduct}"
 					var="medicalDoctor">
 					<tr>
-						<td><c:out value="${medicalDoctor}" /></td>
+						<td class="doctor"><c:out value="${medicalDoctor}" /></td>
 					</tr>
 				</c:forEach>
 			</tbody>
 		</table>
 	</div>
-	</div>
+</div>
+
 
 <%@ include file="common/footer.jsp"%>

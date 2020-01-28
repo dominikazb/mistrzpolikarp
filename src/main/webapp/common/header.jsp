@@ -3,11 +3,12 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 
-<html>
+<!DOCTYPE HTML>
 <head>
 <script src="js/jquery.min.js"></script>
 <script src="js/selectize.js"></script>
 <script src="js/index.js"></script>
+<script type="text/javascript" src="js/preserve_on_blur.js"></script>
 
 <meta charset="UTF-8">
 <script
@@ -15,7 +16,8 @@
 <link
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"
 	rel="stylesheet">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport"
+	content="width=device-width,height=device-height,initial-scale=1.0" />
 <%@ page isELIgnored="false"%>
 <title>Wyszukiwarka wyrobów medycznych - MistrzPolikarp</title>
 
@@ -46,13 +48,23 @@ body {
 
 .footer {
 	text-align: left;
-
 }
 
-.footer a:link { color: #8b8b8b; }
-.footer a:visited { color: #8b8b8b; }
-.footer a:hover { color: #8b8b8b; }
-.footer a:active { color: #8b8b8b; }
+.footer a:link {
+	color: #8b8b8b;
+}
+
+.footer a:visited {
+	color: #8b8b8b;
+}
+
+.footer a:hover {
+	color: #8b8b8b;
+}
+
+.footer a:active {
+	color: #8b8b8b;
+}
 
 .flexxible-box {
 	width: 100%;
@@ -66,6 +78,82 @@ body {
 		rgba(0, 0, 0, 0.19);
 }
 
+<!--TABLES ON MOBILE DEVICES-->
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+tr:nth-of-type(odd) {
+	background: #eee;
+}
+
+th {
+	background: lightgrey;
+	color: #606060;
+	font-weight: normal;
+}
+
+td, th {
+	padding: 6px;
+	border: 1px solid #ccc;
+	text-align: left;
+}
+
+@media only screen and (max-width: 760px) , ( min-device-width : 768px)
+	and (max-device-width: 1024px) {
+
+	table, thead, tbody, th, td, tr {
+		display: block;
+	}
+	thead tr {
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	tr {
+		border: 1px solid #ccc;
+	}
+	td {
+		border: none;
+		border-bottom: 1px solid #eee;
+		position: relative;
+		padding-left: 50%;
+	}
+	td:before {
+		position: absolute;
+		top: 6px;
+		left: 6px;
+		width: 45%;
+		padding-right: 10px;
+		white-space: nowrap;
+	}
+	td:before {
+		position: static !important;
+		color: grey;
+	}
+	td:nth-of-type(1):before {
+		content: "Kod produktu:";
+	}
+	td:nth-of-type(2):before {
+		content: "Nazwa produktu:";
+	}
+	td:nth-of-type(3):before {
+		content: "Okres:";
+	}
+	td:nth-of-type(4):before {
+		content: "Limit finansowania:";
+	}
+	td:nth-of-type(5):before {
+		content: "Udział własny:";
+	}
+	
+	td.doctor:nth-of-type(1):before {
+		content: "";
+	}
+	
+}
 </style>
 
 </head>

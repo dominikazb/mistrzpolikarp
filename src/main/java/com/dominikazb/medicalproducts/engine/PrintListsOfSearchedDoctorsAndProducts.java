@@ -41,6 +41,5 @@ public class PrintListsOfSearchedDoctorsAndProducts {
 		}
 		return listOfMedicalProducts;
 	}
-	
 
 }

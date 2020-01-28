@@ -1,16 +1,22 @@
 <%@ include file="common/header.jsp"%>
 <%@ include file="inputForms.jsp"%>
 
+
+
+
 <div class="container">
 	<div class="jumbotron">
-		<table class="table table-striped">
+		<table class="table">
 			<thead>
 				<tr>
-					<th>Lp.</th>
-					<th>Nazwa produktu</th>
-					<th>Okres użytkowania</th>
-					<th>Limit finansowania</th>
-					<th>Udział własny</th>
+					<th colspan="5">${inputMedicalDoctor}</th>
+				</tr>
+				<tr>
+					<th scope="col">Lp.</th>
+					<th scope="col">Nazwa produktu</th>
+					<th scope="col">Okres użytkowania</th>
+					<th scope="col">Limit finansowania</th>
+					<th scope="col">Udział własny</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -28,5 +34,9 @@
 		</table>
 	</div>
 </div>
+
+
+
+
 
 <%@ include file="common/footer.jsp"%>

@@ -14,6 +14,10 @@
 				</form>
 				<script>
 					$('#md').selectize();
+					
+ 	/* 				$( '#md').selectize( {    
+					    plugins: [ 'preserve_on_blur' ]
+					}); */					
 				</script>
 			</div>
 
@@ -32,9 +36,10 @@
 					</select>
 				</form>
 				<script>
-				$('#products').selectize();
-			</script>
+					$('#products').selectize();
+				</script>
 			</div>
+			
 		</div>
 	</div>
 </div>
