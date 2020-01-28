@@ -4,12 +4,8 @@
 <div class="container">
 	<div class="jumbotron">
 		<h4>${inputMedicalDoctor}</h4>
-
 		<table class="table">
 			<thead>
-				<%-- 				<tr>
-					<th colspan="5">${inputMedicalDoctor}</th>
-				</tr> --%>
 				<tr>
 					<th scope="col">Kod</th>
 					<th scope="col">Nazwa wyrobu</th>
@@ -33,9 +29,5 @@
 		</table>
 	</div>
 </div>
-
-
-
-
 
 <%@ include file="common/footer.jsp"%>

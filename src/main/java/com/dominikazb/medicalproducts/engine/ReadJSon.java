@@ -71,6 +71,4 @@ public class ReadJSon {
 		return listWithoutDuplicates;
 	}
 	
-
-	
 }

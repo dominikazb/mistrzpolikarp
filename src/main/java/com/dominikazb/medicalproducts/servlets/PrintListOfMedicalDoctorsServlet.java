@@ -29,7 +29,7 @@ public class PrintListOfMedicalDoctorsServlet extends HttpServlet {
 		request.setAttribute("chosenMedicalProduct", chosenMedicalProduct);
 		request.setAttribute("listOfMedicalDoctorsThatCanPrescribeParticularProduct", listOfMedicalDoctorsThatCanPrescribeParticularProduct);
 		session.removeAttribute("inputMedicalDoctor");
-		request.getServletContext().getRequestDispatcher("/listOfMedicalDoctors.jsp").forward(request, response);
+		request.getRequestDispatcher("/listOfMedicalDoctors.jsp").forward(request, response);
 	}
 
 }

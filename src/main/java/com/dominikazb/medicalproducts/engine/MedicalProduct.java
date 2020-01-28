@@ -4,7 +4,6 @@ import java.io.Serializable;
 import java.util.Comparator;
 
 
-
 public class MedicalProduct implements Serializable, Comparable<MedicalProduct> {
 
 	private static final long serialVersionUID = 1L;

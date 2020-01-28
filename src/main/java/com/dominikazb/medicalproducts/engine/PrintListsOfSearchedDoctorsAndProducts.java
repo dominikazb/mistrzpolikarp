@@ -60,4 +60,5 @@ public class PrintListsOfSearchedDoctorsAndProducts {
 		}
 		return medicalProduct;
 	}
+	
 }

@@ -18,6 +18,6 @@ public class ReadMedicalDoctor extends HttpServlet {
 		HttpSession session = request.getSession(false);
 		session.setAttribute("inputMedicalDoctor", inputMedicalDoctor);
 		response.sendRedirect("/lista-wyrobow-medycznych");
-		
 	}
+	
 }
