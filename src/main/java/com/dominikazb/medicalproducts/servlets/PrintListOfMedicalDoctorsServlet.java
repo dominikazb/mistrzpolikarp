@@ -24,7 +24,9 @@ public class PrintListOfMedicalDoctorsServlet extends HttpServlet {
 		TreeMap<MedicalProduct, ArrayList<Object>> initialMapOfMedicalProductsAndDoctors = (TreeMap<MedicalProduct, ArrayList<Object>>) getServletContext().getAttribute("initialMapOfMedicalProductsAndDoctors");
 		HttpSession session = request.getSession(false);
 		PrintListsOfSearchedDoctorsAndProducts printLists = new PrintListsOfSearchedDoctorsAndProducts();
-		ArrayList<String> listOfMedicalDoctorsThatCanPrescribeParticularProduct = printLists.getListOfMedicalDoctorsForParticularProduct(initialMapOfMedicalProductsAndDoctors, (String)session.getAttribute("inputMedicalProduct"));
+		String inputMedicalProductT = (String)session.getAttribute("inputMedicalProduct");
+		request.setAttribute("inputMedicalProductT", inputMedicalProductT);
+		ArrayList<String> listOfMedicalDoctorsThatCanPrescribeParticularProduct = printLists.getListOfMedicalDoctorsForParticularProduct(initialMapOfMedicalProductsAndDoctors, inputMedicalProductT);
 		MedicalProduct chosenMedicalProduct = printLists.getSelectedMedicalProductFeatures(initialMapOfMedicalProductsAndDoctors, (String)session.getAttribute("inputMedicalProduct"));
 		request.setAttribute("chosenMedicalProduct", chosenMedicalProduct);
 		request.setAttribute("listOfMedicalDoctorsThatCanPrescribeParticularProduct", listOfMedicalDoctorsThatCanPrescribeParticularProduct);
