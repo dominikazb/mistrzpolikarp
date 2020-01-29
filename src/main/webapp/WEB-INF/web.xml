@@ -12,7 +12,7 @@
 	</listener>
 
 	<session-config>
-		<session-timeout>15</session-timeout>
+		<session-timeout>40</session-timeout>
 	</session-config>
 	
 

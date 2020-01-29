@@ -5,7 +5,8 @@
 				<p class="lead">Kto przepisuje?</p>
 				<form action="/readMedicalDoctor" method="POST">
 					<select id="md" name="inputMedicalDoctor"
-						placeholder="Wyszukaj specjalistę" onchange="this.form.submit()">
+						placeholder="Wyszukaj specjalistę"
+						onchange="this.form.submit()">
 						<option value="">Wyszukaj specjalistę</option>
 						<c:forEach items="${listOfMedicalDoctors}" var="doctor">
 							<option value="${doctor}">${doctor}</option>
@@ -13,7 +14,7 @@
 					</select>
 				</form>
 				<script>
-					$('#md').selectize();				
+	 				$('#md').selectize();			
 				</script>
 				<c:if test="${!empty(inputMedicalDoctorT)}">${inputMedicalDoctorT} &#8595;</c:if>
 			</div>
@@ -33,7 +34,7 @@
 					</select>
 				</form>
 				<script>
-					$('#products').selectize();
+ 					$('#products').selectize();
 				</script>
 				<c:if test="${!empty(inputMedicalProductT)}">${inputMedicalProductT} &#8595;</c:if>
 			</div>
