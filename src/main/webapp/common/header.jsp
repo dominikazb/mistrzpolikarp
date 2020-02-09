@@ -11,6 +11,9 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
 <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0" />
+<meta name="description" content="Wyszukiwarka wyrobów medycznych. Łatwo sprawdzisz kto i jakie wyroby medyczne może zapisać. Co może wypisać Twój lekarz, jak często i w jakiej ilości?">
+<meta name=”keywords” content=”wyroby, medyczne, zaopatrzenie, wyszukiwarka, szukanie, szukaj, wyrób, sprzęt, lista, pieluchy, pieluchomajtki, wózek, chodzi, balkonik, orteza, proteza, lekarz, lekarze, wypisywanie, zlecanie, NFZ, narodowy, fundusz, zdrowia, ministerstwo, rozporządzenie”>
+<meta name=”author” content=”mistrzpolikarp.pl”>
 <%@ page isELIgnored="false"%>
 
 <title>Wyszukiwarka wyrobów medycznych - MistrzPolikarp</title>

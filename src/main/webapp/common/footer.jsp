@@ -30,6 +30,25 @@
   gtag('config', 'UA-115662735-2');
 </script>
 
+<script>
+$(function () {
+    var _redirectTimeout = 10 * 60 * 1000; // ten hours timeout - test with 10 * 1000 for ten seconds :)
+    var _redirectUrl = ''; // login URL
+
+    var _redirectHandle = null;
+
+    function resetRedirect() {
+        if (_redirectHandle) clearTimeout(_redirectHandle);
+        _redirectHandle = setTimeout(function () {
+            window.location.href = _redirectUrl;
+        }, _redirectTimeout);
+    }
+
+    $.ajaxSetup({ complete: function () { resetRedirect(); } }); // reset idle redirect when an AJAX request completes
+
+    resetRedirect(); // start idle redirect timer initially.
+});</script>
+
 
 </body>
 </html>
