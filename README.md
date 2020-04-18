@@ -17,7 +17,8 @@ Application written in #java using #javaee framework, medical data stored in #js
 Project realised for Wydawnictwo Interaktywne Medutools Sp. z o.o.
 
 
-<b>Screenshots</b>
+<b>Screenshots:</b>
+
 
 <img src="https://github.com/dominikazb/mistrzpolikarp/blob/master/screenshots/mistrzpolikarp1.jpg" alt="Italian Trulli">
 <br>
