@@ -21,8 +21,3 @@ Search engine, where the user can choose a medical product and see which medical
 <br>
 
 <img src="https://github.com/dominikazb/mistrzpolikarp/blob/master/screenshots/mistrzpolikarp4.jpg" alt="Italian Trulli">
-
-
-
-
-See the application: 
