@@ -1,14 +1,14 @@
-<!DOCTYPE HTML>
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
-<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
-<% response.setStatus(404); %>
+<%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 
+<!DOCTYPE HTML>
 <head>
 <script src="js/jquery.min.js"></script>
 <script src="js/selectize.js"></script>
 <script src="js/index.js"></script>
 <meta charset="UTF-8">
+<!--===============================================================================================-->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
 <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0" />
@@ -37,7 +37,14 @@ body {
 
 </style>
 
+	<script>
+		window.onload = function() {
+		    window.location.href = "/";
+		}
+	</script>
+
 </head>
+
 <body>
 
 	<div class="container">
@@ -50,6 +57,8 @@ body {
 		</div>
 
 	</div>
+	
+
 
 
 </body>

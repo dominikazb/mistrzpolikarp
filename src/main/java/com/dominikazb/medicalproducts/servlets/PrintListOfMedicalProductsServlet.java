@@ -21,15 +21,20 @@ public class PrintListOfMedicalProductsServlet extends HttpServlet {
        
 	@SuppressWarnings("unchecked")
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		TreeMap<MedicalProduct, ArrayList<Object>> initialMapOfMedicalProductsAndDoctors = (TreeMap<MedicalProduct, ArrayList<Object>>) getServletContext().getAttribute("initialMapOfMedicalProductsAndDoctors");
-		HttpSession session = request.getSession(false);
-		PrintListsOfSearchedDoctorsAndProducts printLists = new PrintListsOfSearchedDoctorsAndProducts();
-		String inputMedicalDoctorT = (String)session.getAttribute("inputMedicalDoctor");
-		request.setAttribute("inputMedicalDoctorT", inputMedicalDoctorT);
-		ArrayList<MedicalProduct> listOfMedicalProductsForParticularSpecialty = printLists.getListOfMedicalProductsForParticularSpecialty(initialMapOfMedicalProductsAndDoctors, inputMedicalDoctorT);
-		request.setAttribute("listOfMedicalProductsForParticularSpecialty", listOfMedicalProductsForParticularSpecialty);
-		session.removeAttribute("inputMedicalProduct");
-		request.getRequestDispatcher("/listOfMedicalProducts.jsp").forward(request, response);;
+		try {
+			TreeMap<MedicalProduct, ArrayList<Object>> initialMapOfMedicalProductsAndDoctors = (TreeMap<MedicalProduct, ArrayList<Object>>) getServletContext().getAttribute("initialMapOfMedicalProductsAndDoctors");
+			HttpSession session = request.getSession(false);
+			PrintListsOfSearchedDoctorsAndProducts printLists = new PrintListsOfSearchedDoctorsAndProducts();
+			String inputMedicalDoctorT = (String)session.getAttribute("inputMedicalDoctor");
+			request.setAttribute("inputMedicalDoctorT", inputMedicalDoctorT);
+			ArrayList<MedicalProduct> listOfMedicalProductsForParticularSpecialty = printLists.getListOfMedicalProductsForParticularSpecialty(initialMapOfMedicalProductsAndDoctors, inputMedicalDoctorT);
+			request.setAttribute("listOfMedicalProductsForParticularSpecialty", listOfMedicalProductsForParticularSpecialty);
+			session.removeAttribute("inputMedicalProduct");
+			request.getRequestDispatcher("/listOfMedicalProducts.jsp").forward(request, response);
+		} catch (NullPointerException e) {
+			request.getRequestDispatcher("/index.jsp").forward(request, response);
+		}
+		
 	}
 
 }
