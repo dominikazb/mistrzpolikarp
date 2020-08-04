@@ -1,0 +1,4765 @@
+{
+  "products" : [
+    {
+      "uniqueID" : "1",
+      "group" : "A",
+      "medicalID" : "A.1",
+      "timeOfUse" : "na 2 lata",
+      "limitForFunding" : "200",
+      "patientsShares" : "0",
+      "name" : "Protezowa wkładka do buta uzupełniająca stopę - do zwykłego obuwia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "2",
+      "group" : "A",
+      "medicalID" : "A.2",
+      "timeOfUse" : "na 2 lata",
+      "limitForFunding" : "600",
+      "patientsShares" : "0",
+      "name" : "Proteza uzupełniająca stopę",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+    {
+      "uniqueID" : "3",
+      "group" : "A",
+      "medicalID" : "A.3",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "1800",
+      "patientsShares" : "0",
+      "name" : "Proteza ostateczna w obrębie stawu skokowego z kikutem oporowym",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "4",
+      "group" : "B",
+      "medicalID" : "B.4",
+      "timeOfUse" : "przed zaopatrzeniem w protezę ostateczną",
+      "limitForFunding" : "900",
+      "patientsShares" : "0",
+      "name" : "Proteza tymczasowa podudzia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "5",
+      "group" : "B",
+      "medicalID" : "B.5",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "2800",
+      "patientsShares" : "0",
+      "name" : "Proteza ostateczna skorupowa podudzia z tuleją udową i połączeniem w obrębie stawu kolanowego",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "6",
+      "group" : "B",
+      "medicalID" : "B.6",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "4500",
+      "patientsShares" : "0",
+      "name" : "Proteza ostateczna modularna podudzia z tuleją udową i połączeniem w obrębie stawu kolanowego",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "7",
+      "group" : "B",
+      "medicalID" : "B.7",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "1800",
+      "patientsShares" : "0",
+      "name" : "Proteza ostateczna skorupowa podudzia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "8",
+      "group" : "B",
+      "medicalID" : "B.8",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "3500",
+      "patientsShares" : "0",
+      "name" : "Proteza ostateczna modularna podudzia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+    {
+      "uniqueID" : "9",
+      "group" : "B",
+      "medicalID" : "B.9",
+      "timeOfUse" : "w okresie użytkowania protezy",
+      "limitForFunding" : "500",
+      "patientsShares" : "0",
+      "name" : "Wymiana leja w protezie tymczasowej podudzia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "10",
+      "group" : "B",
+      "medicalID" : "B.10",
+      "timeOfUse" : "w okresie użytkowania protezy",
+      "limitForFunding" : "1500",
+      "patientsShares" : "0",
+      "name" : "Wymiana leja w protezie ostatecznej podudzia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "11",
+      "group" : "B",
+      "medicalID" : "B.11",
+      "timeOfUse" : "na 3 lata, u dorosłych przy skróceniu powyżej 9 cm, jeżeli nie można wyrównać obuwiem ortopedycznym",
+      "limitForFunding" : "1800",
+      "patientsShares" : "0",
+      "name" : "Protezowe wyrównanie skrócenia kończyny dolnej w obrębie podudzia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "12",
+      "group" : "C",
+      "medicalID" : "C.12",
+      "timeOfUse" : "przed zaopatrzeniem w protezę ostateczną",
+      "limitForFunding" : "1600",
+      "patientsShares" : "0",
+      "name" : "Proteza tymczasowa w obrębie uda",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "13",
+      "group" : "C",
+      "medicalID" : "C.13",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "3000",
+      "patientsShares" : "0",
+      "name" : "Proteza ostateczna skorupowa w obrębie uda",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "14",
+      "group" : "C",
+      "medicalID" : "C.14",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "5500",
+      "patientsShares" : "0",
+      "name" : "Proteza ostateczna modularna w obrębie uda",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "15",
+      "group" : "C",
+      "medicalID" : "C.15",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "5000",
+      "patientsShares" : "0",
+      "name" : "Protezowe wyrównanie skrócenia kończyny dolnej w obrębie uda",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "16",
+      "group" : "C",
+      "medicalID" : "C.16",
+      "timeOfUse" : "w okresie użytkowania protezy, potwierdzone wskazaniami medycznymi",
+      "limitForFunding" : "500",
+      "patientsShares" : "0",
+      "name" : "Wymiana leja w protezie tymczasowej uda",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "17",
+      "group" : "C",
+      "medicalID" : "C.17",
+      "timeOfUse" : "w okresie użytkowania protezy, potwierdzone wskazaniami medycznymi",
+      "limitForFunding" : "2000",
+      "patientsShares" : "0",
+      "name" : "Wymiana leja w protezie ostatecznej uda",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "18",
+      "group" : "D",
+      "medicalID" : "D.18",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "6000",
+      "patientsShares" : "0",
+      "name" : "Proteza ostateczna skorupowa z koszem biodrowym po wyłuszczeniu w stawie biodrowym lub z krótkim k kutem wymagającym zaprotezowania z koszem biodrowym",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+    {
+      "uniqueID" : "19",
+      "group" : "D",
+      "medicalID" : "D.19",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "7500",
+      "patientsShares" : "0",
+      "name" : "Proteza ostateczna modularna z koszem biodrowym po wyłuszczeniu w stawie biodrowym lub z krótkim k kutem wymagającym zaprotezowania z koszem biodrowym",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "20",
+      "group" : "D",
+      "medicalID" : "D.20",
+      "timeOfUse" : "w okresie użytkowania, potwierdzone wskazaniami medycznymi",
+      "limitForFunding" : "2000",
+      "patientsShares" : "0",
+      "name" : "Wymiana kosza biodrowego po wyłuszczeniu w stawie biodrowym",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "21",
+      "group" : "E",
+      "medicalID" : "E.21",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "800",
+      "patientsShares" : "0",
+      "name" : "Proteza kosmetyczna w obrębie ręki",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+    {
+      "uniqueID" : "22",
+      "group" : "F",
+      "medicalID" : "F.22",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "1200",
+      "patientsShares" : "0",
+      "name" : "Proteza kosmetyczna w obrębie przedramienia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "23",
+      "group" : "F",
+      "medicalID" : "F.23",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "2800",
+      "patientsShares" : "0",
+      "name" : "Proteza robocza z końcówką roboczą w obrębie przedramienia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "24",
+      "group" : "G",
+      "medicalID" : "G.24",
+      "timeOfUse" : " na 3 lata",
+      "limitForFunding" : "2400",
+      "patientsShares" : "0",
+      "name" : "Proteza kosmetyczna w obrębie ramienia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "25",
+      "group" : "G",
+      "medicalID" : "G.25",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "4000",
+      "patientsShares" : "0",
+      "name" : "Proteza robocza z końcówką roboczą w obrębie ramienia",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "26",
+      "group" : "G",
+      "medicalID" : "G.26",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "3000",
+      "patientsShares" : "0",
+      "name" : "Proteza kosmetyczna całej kończyny górnej po wyłuszczeniu w obrębie stawu barkowego",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "27",
+      "group" : "G",
+      "medicalID" : "G.27",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "4600",
+      "patientsShares" : "0",
+      "name" : "Proteza robocza z końcówką roboczą całej kończyny górnej po wyłuszczeniu w obrębie stawu barkowego",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii naczyniowej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "28",
+      "group" : "H",
+      "medicalID" : "H.28",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "400",
+      "patientsShares" : "0",
+      "name" : "Orteza obejmująca goleń i stopę lub ze strzemieniem (typu AFO) (dzieci do ukończenia 18. roku życia)",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+    {
+      "uniqueID" : "29",
+      "group" : "H",
+      "medicalID" : "H.28",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "400",
+      "patientsShares" : "10",
+      "name" : "Orteza obejmująca goleń i stopę lub ze strzemieniem (typu AFO) (dorośli)",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+
+    {
+      "uniqueID" : "30",
+      "group" : "H",
+      "medicalID" : "H.29",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "500",
+      "patientsShares" : "0",
+      "name" : "Orteza krótka korygująca zaburzenia osiowe w płaszczyźnie czołowej (typu DAFO lub GRAFO) (dzieci do ukończenia 18. roku życia)",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "31",
+      "group" : "H",
+      "medicalID" : "H.29",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "500",
+      "patientsShares" : "10",
+      "name" : "Orteza krótka korygująca zaburzenia osiowe w płaszczyźnie czołowej (typu DAFO lub GRAFO) (dorośli)",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+        "Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+    {
+      "uniqueID" : "32",
+      "group" : "H",
+      "medicalID" : "H.30",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "800",
+      "patientsShares" : "0",
+      "name" : "Orteza z ujęciem uda, goleni i stopy (typu KAFO) (dzieci do ukończenia 18. roku życia)",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+        {
+          "uniqueID" : "33",
+          "group" : "H",
+          "medicalID" : "H.30",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "800",
+          "patientsShares" : "10",
+          "name" : "Orteza z ujęciem uda, goleni i stopy (typu KAFO) (dorośli)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+           	"Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+    {
+      "uniqueID" : "34",
+      "group" : "H",
+      "medicalID" : "H.31",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "2500",
+      "patientsShares" : "0",
+      "name" : "Orteza obejmująca obręcz biodrową, uda, golenie i stopy (typu HKAFO) (dzieci do ukończenia 18. roku życia)",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+        {
+          "uniqueID" : "35",
+          "group" : "H",
+          "medicalID" : "H.31",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "2500",
+          "patientsShares" : "10",
+          "name" : "Orteza obejmująca obręcz biodrową, uda, golenie i stopy (typu HKAFO) (dorośli)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+           	"Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+    {
+      "uniqueID" : "36",
+      "group" : "H",
+      "medicalID" : "H.32",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "1000",
+      "patientsShares" : "0",
+      "name" : "Orteza odciążająca kończynę dolną (dzieci do ukończenia 18. roku życia)",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+        {
+          "uniqueID" : "37",
+          "group" : "H",
+          "medicalID" : "H.32",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "1000",
+          "patientsShares" : "10",
+          "name" : "Orteza odciążająca kończynę dolną (dorośli)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+           	"Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+    {
+      "uniqueID" : "38",
+      "group" : "H",
+      "medicalID" : "H.33",
+      "timeOfUse" : "na 3 lata dla dzieci do ukończenia 18. roku życia",
+      "limitForFunding" : "3000",
+      "patientsShares" : "0",
+      "name" : "Orteza reciprokalna z umożliwieniem ruchu w stawach skokowych i kolanowych",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+    {
+      "uniqueID" : "39",
+      "group" : "I",
+      "medicalID" : "I.34",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "280",
+      "patientsShares" : "0",
+      "name" : "Pas biodrowy z szyną lub szynami (dzieci do ukończenia 18. roku życia)",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+        {
+          "uniqueID" : "40",
+          "group" : "I",
+          "medicalID" : "I.34",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "280",
+          "patientsShares" : "10",
+          "name" : "Pas biodrowy z szyną lub szynami (dorośli)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+           	"Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+    {
+      "uniqueID" : "41",
+      "group" : "I",
+      "medicalID" : "I.35",
+      "timeOfUse" : "na 3 lata",
+      "limitForFunding" : "400",
+      "patientsShares" : "0",
+      "name" : "Kosz biodrowy (dzieci do ukończenia 18. roku życia)",
+      "doctor" : [
+        "Lekarz ortopedii i traumatologii",
+        "Lekarz chirurgii ortopedycznej",
+        "Lekarz chirurgii urazowo-ortopedycznej",
+        "Lekarz ortopedii i traumatologii narządu ruchu",
+        "Lekarz neurologii",
+        "Lekarz neurologii dziecięcej",
+        "Lekarz reumatologii",
+       	"Lekarz chirurgii ogólnej",
+        "Lekarz chirurgii dziecięcej",
+        "Lekarz chirurgii onkologicznej",
+        "Lekarz rehabilitacji",
+        "Lekarz rehabilitacji medycznej",
+        "Lekarz rehabilitacji ogólnej",
+        "Lekarz rehabilitacji w chorobach narządu ruchu"
+      ]
+    },
+
+
+        {
+          "uniqueID" : "42",
+          "group" : "I",
+          "medicalID" : "I.35",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "400",
+          "patientsShares" : "10",
+          "name" : "Kosz biodrowy (dorośli)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+           	"Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "43",
+          "group" : "J",
+          "medicalID" : "J.36",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "200",
+          "patientsShares" : "0",
+          "name" : "Orteza stabilizująca staw skokowy (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+     	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "44",
+                  "group" : "J",
+                  "medicalID" : "J.36",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "200",
+                  "patientsShares" : "10",
+                  "name" : "Orteza stabilizująca staw skokowy (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+             	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+
+        {
+          "uniqueID" : "45",
+          "group" : "J",
+          "medicalID" : "J.37",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "300",
+          "patientsShares" : "0",
+          "name" : "Orteza sztywna lub półsztywna z tworzywa sztucznego na goleń i stopę (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+                {
+                  "uniqueID" : "46",
+                  "group" : "J",
+                  "medicalID" : "J.37",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "300",
+                  "patientsShares" : "10",
+                  "name" : "Orteza sztywna lub półsztywna z tworzywa sztucznego na goleń i stopę (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+
+        {
+          "uniqueID" : "47",
+          "group" : "J",
+          "medicalID" : "J.38",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "350",
+          "patientsShares" : "0",
+          "name" : "Orteza stawu kolanowego z ruchomym stawem kolanowym z regulacją kąta zgięcia (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "48",
+                  "group" : "J",
+                  "medicalID" : "J.38",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "350",
+                  "patientsShares" : "10",
+                  "name" : "Orteza stawu kolanowego z ruchomym stawem kolanowym z regulacją kąta zgięcia (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+        {
+          "uniqueID" : "49",
+          "group" : "J",
+          "medicalID" : "J.39",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "700",
+          "patientsShares" : "0",
+          "name" : "Orteza stawu kolanowego obejmująca całą goleń i udo, z regulacją zakresu ruchomości (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "50",
+                  "group" : "J",
+                  "medicalID" : "J.39",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "700",
+                  "patientsShares" : "10",
+                  "name" : "Orteza stawu kolanowego obejmująca całą goleń i udo, z regulacją zakresu ruchomości (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+
+        {
+          "uniqueID" : "51",
+          "group" : "J",
+          "medicalID" : "J.40",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "1450",
+          "patientsShares" : "0",
+          "name" : "Orteza jednostronna lub obustronna unieruchamiająca lub stabilizująca staw biodrowy z regulowanym kątem zgięcia lub odwiedzenia (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "52",
+                  "group" : "J",
+                  "medicalID" : "J.40",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "1450",
+                  "patientsShares" : "10",
+                  "name" : "Orteza jednostronna lub obustronna unieruchamiająca lub stabilizująca staw biodrowy z regulowanym kątem zgięcia lub odwiedzenia (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+
+        {
+          "uniqueID" : "53",
+          "group" : "J",
+          "medicalID" : "J.41",
+          "timeOfUse" : "dla każdego wskazania medycznego dla dzieci do ukończenia 5. roku życia",
+          "limitForFunding" : "50",
+          "patientsShares" : "0",
+          "name" : "Szyna typu Saint-Germain",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "54",
+          "group" : "J",
+          "medicalID" : "J.42",
+          "timeOfUse" : "dla każdego wskazania medycznego dla dzieci do ukończenia 5. roku życia",
+          "limitForFunding" : "200",
+          "patientsShares" : "0",
+          "name" : "Szyna Denis-Browna z obuwiem",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "55",
+          "group" : "J",
+          "medicalID" : "J.43",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "800",
+          "patientsShares" : "0",
+          "name" : "Orteza na całą kończynę dolną z ujęciem stopy z regulacją kąta zgięcia w stawie kolanowym (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "56",
+                  "group" : "J",
+                  "medicalID" : "J.43",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "800",
+                  "patientsShares" : "10",
+                  "name" : "Orteza na całą kończynę dolną z ujęciem stopy z regulacją kąta zgięcia w stawie kolanowym (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+
+        {
+          "uniqueID" : "57",
+          "group" : "J",
+          "medicalID" : "J.44",
+          "timeOfUse" : "dla każdego wskazania medycznego dla dzieci do ukończenia 5. roku życia",
+          "limitForFunding" : "100",
+          "patientsShares" : "0",
+          "name" : "Orteza odwodząca do leczenia rozwojowej dysplazji stawu biodrowego",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "58",
+          "group" : "K",
+          "medicalID" : "K.45",
+          "timeOfUse" : " na 3 lata",
+          "limitForFunding" : "250",
+          "patientsShares" : "0",
+          "name" : "Orteza na rękę i przedramię (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+                {
+                  "uniqueID" : "59",
+                  "group" : "K",
+                  "medicalID" : "K.45",
+                  "timeOfUse" : " na 3 lata",
+                  "limitForFunding" : "250",
+                  "patientsShares" : "10",
+                  "name" : "Orteza na rękę i przedramię (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+
+        {
+          "uniqueID" : "60",
+          "group" : "K",
+          "medicalID" : "K.46",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "400",
+          "patientsShares" : "0",
+          "name" : "Orteza przedramienno-ramienna z ujęciem ręki (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+                {
+                  "uniqueID" : "61",
+                  "group" : "K",
+                  "medicalID" : "K.46",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "400",
+                  "patientsShares" : "10",
+                  "name" : "Orteza przedramienno-ramienna z ujęciem ręki (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+
+
+        {
+          "uniqueID" : "62",
+          "group" : "L",
+          "medicalID" : "L.47",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "160",
+          "patientsShares" : "0",
+          "name" : "Orteza ręki stabilizująca lub korygująca (z wyłączeniem aparatu Stacka i Capenera) (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+
+                {
+                  "uniqueID" : "63",
+                  "group" : "L",
+                  "medicalID" : "L.47",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "160",
+                  "patientsShares" : "10",
+                  "name" : "Orteza ręki stabilizująca lub korygująca (z wyłączeniem aparatu Stacka i Capenera) (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+
+        {
+          "uniqueID" : "64",
+          "group" : "L",
+          "medicalID" : "L.48",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "250",
+          "patientsShares" : "0",
+          "name" : "Orteza na rękę i przedramię (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+                {
+                  "uniqueID" : "65",
+                  "group" : "L",
+                  "medicalID" : "L.48",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "250",
+                  "patientsShares" : "10",
+                  "name" : "Orteza na rękę i przedramię (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+
+        {
+          "uniqueID" : "66",
+          "group" : "L",
+          "medicalID" : "L.49",
+          "timeOfUse" : " na 3 lata",
+          "limitForFunding" : "600",
+          "patientsShares" : "0",
+          "name" : "Orteza stawu łokciowego z regulacją kąta zgięcia z ujęciem ręki lub bez (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "67",
+                  "group" : "L",
+                  "medicalID" : "L.49",
+                  "timeOfUse" : " na 3 lata",
+                  "limitForFunding" : "600",
+                  "patientsShares" : "10",
+                  "name" : "Orteza stawu łokciowego z regulacją kąta zgięcia z ujęciem ręki lub bez (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+        {
+          "uniqueID" : "68",
+          "group" : "L",
+          "medicalID" : "L.50",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "300",
+          "patientsShares" : "0",
+          "name" : "Orteza stawu łokciowego z ujęciem ręki lub bez (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+                {
+                  "uniqueID" : "69",
+                  "group" : "L",
+                  "medicalID" : "L.50",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "300",
+                  "patientsShares" : "10",
+                  "name" : "Orteza stawu łokciowego z ujęciem ręki lub bez (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+
+
+        {
+          "uniqueID" : "70",
+          "group" : "L",
+          "medicalID" : "L.51",
+          "timeOfUse" : " na 3 lata",
+          "limitForFunding" : "250",
+          "patientsShares" : "0",
+          "name" : "Orteza na ramię i bark (z wyłączeniem temblaków i ortez typu 'Dessault') (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "71",
+                  "group" : "L",
+                  "medicalID" : "L.51",
+                  "timeOfUse" : " na 3 lata",
+                  "limitForFunding" : "250",
+                  "patientsShares" : "10",
+                  "name" : "Orteza na ramię i bark (z wyłączeniem temblaków i ortez typu 'Dessault') (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu",
+                    "Lekarz opieki paliatywnej i hospicyjnej"
+                  ]
+                },
+
+
+        {
+          "uniqueID" : "72",
+          "group" : "L",
+          "medicalID" : "L.52",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "150",
+          "patientsShares" : "0",
+          "name" : "Orteza na ramię i bark typu 'Dessault' (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "73",
+                  "group" : "L",
+                  "medicalID" : "L.52",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "150",
+                  "patientsShares" : "10",
+                  "name" : "Orteza na ramię i bark typu 'Dessault' (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu",
+                    "Lekarz opieki paliatywnej i hospicyjnej"
+
+                  ]
+                },
+
+
+
+        {
+          "uniqueID" : "74",
+          "group" : "L",
+          "medicalID" : "L.53",
+          "timeOfUse" : " na 3 lata",
+          "limitForFunding" : "600",
+          "patientsShares" : "0",
+          "name" : "Orteza odwodząca stawu barkowego z regulacją kąta odwiedzenia (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "75",
+                  "group" : "L",
+                  "medicalID" : "L.53",
+                  "timeOfUse" : " na 3 lata",
+                  "limitForFunding" : "600",
+                  "patientsShares" : "10",
+                  "name" : "Orteza odwodząca stawu barkowego z regulacją kąta odwiedzenia (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+
+
+        {
+          "uniqueID" : "76",
+          "group" : "Ł",
+          "medicalID" : "Ł.54",
+          "timeOfUse" : "na 3 lata w przypadku braku możliwości doboru wyrobu seryjnego",
+          "limitForFunding" : "700",
+          "patientsShares" : "0",
+          "name" : "Gorset odciążająco-stabilizujący (z wyłączeniem gorsetu typu Jewetta) (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "77",
+                  "group" : "Ł",
+                  "medicalID" : "Ł.54",
+                  "timeOfUse" : "na 3 lata w przypadku braku możliwości doboru wyrobu seryjnego",
+                  "limitForFunding" : "700",
+                  "patientsShares" : "10",
+                  "name" : "Gorset odciążająco-stabilizujący (z wyłączeniem gorsetu typu Jewetta) (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurochirurgii",
+                    "Lekarz neurochirurgii i neurotraumatologii",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz onkologii klinicznej",
+                    "Lekarz chemioterapii nowotworów",
+                    "Lekarz onkologii i hematologii dziecięcej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+        {
+          "uniqueID" : "78",
+          "group" : "Ł",
+          "medicalID" : "Ł.55",
+          "timeOfUse" : "na 6 miesięcy (oraz domodelowanie gorsetu)",
+          "limitForFunding" : "1600",
+          "patientsShares" : "0",
+          "name" : "Gorset korekcyjny do leczenia skolioz lub kyfoz (dla dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "79",
+          "group" : "Ł",
+          "medicalID" : "Ł.56",
+          "timeOfUse" : "na 3 lata w przypadku braku możliwości doboru wyrobu seryjnego",
+          "limitForFunding" : "400",
+          "patientsShares" : "0",
+          "name" : "Orteza tułowia lędźwiowo-krzyżowa (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "80",
+                  "group" : "Ł",
+                  "medicalID" : "Ł.56",
+                  "timeOfUse" : "na 3 lata w przypadku braku możliwości doboru wyrobu seryjnego",
+                  "limitForFunding" : "400",
+                  "patientsShares" : "10",
+                  "name" : "Orteza tułowia lędźwiowo-krzyżowa (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz onkologii klinicznej",
+                    "Lekarz chemioterapii nowotworów",
+                    "Lekarz onkologii i hematologii dziecięcej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+
+        {
+          "uniqueID" : "81",
+          "group" : "M",
+          "medicalID" : "M.57",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "260",
+          "patientsShares" : "0",
+          "name" : "Gorset stabilizująco-unieruchamiający (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "82",
+                  "group" : "M",
+                  "medicalID" : "M.57",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "260",
+                  "patientsShares" : "10",
+                  "name" : "Gorset stabilizująco-unieruchamiający (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurochirurgii",
+                    "Lekarz neurochirurgii i neurotraumatologii",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+                    "Lekarz onkologii klinicznej",
+                    "Lekarz chemioterapii nowotworów",
+                    "Lekarz onkologii i hematologii dziecięcej",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu",
+                    "Lekarz opieki paliatywnej i hospicyjnej"
+                  ]
+                },
+
+
+
+        {
+          "uniqueID" : "83",
+          "group" : "M",
+          "medicalID" : "M.58",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "100",
+          "patientsShares" : "0",
+          "name" : "Pas stabilizujący odcinek lędźwiowo-krzyżowy lub miednicę (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+          ]
+        },
+
+
+
+                {
+                  "uniqueID" : "84",
+                  "group" : "M",
+                  "medicalID" : "M.58",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "100",
+                  "patientsShares" : "10",
+                  "name" : "Pas stabilizujący odcinek lędźwiowo-krzyżowy lub miednicę (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurochirurgii",
+                    "Lekarz neurochirurgii i neurotraumatologii",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+                    "Lekarz onkologii klinicznej",
+                    "Lekarz chemioterapii nowotworów",
+                    "Lekarz onkologii i hematologii dziecięcej",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu",
+                    "Lekarz opieki paliatywnej i hospicyjnej"
+                  ]
+                },
+
+        {
+          "uniqueID" : "85",
+          "group" : "M",
+          "medicalID" : "M.59",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "400",
+          "patientsShares" : "0",
+          "name" : "Orteza (sznurówka) tułowia sztywna wysoka ze stalkami lub fiszbinami (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "86",
+                  "group" : "M",
+                  "medicalID" : "M.59",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "400",
+                  "patientsShares" : "10",
+                  "name" : "Orteza (sznurówka) tułowia sztywna wysoka ze stalkami lub fiszbinami (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurochirurgii",
+                    "Lekarz neurochirurgii i neurotraumatologii",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+                    "Lekarz onkologii klinicznej",
+                    "Lekarz chemioterapii nowotworów",
+                    "Lekarz onkologii i hematologii dziecięcej",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu",
+                    "Lekarz opieki paliatywnej i hospicyjnej"
+                  ]
+                },
+
+        {
+          "uniqueID" : "87",
+          "group" : "M",
+          "medicalID" : "M.60",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "200",
+          "patientsShares" : "0",
+          "name" : "Orteza (sznurówka) lędźwiowo-krzyżowa ze stalkami lub fiszbinami (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "88",
+                  "group" : "M",
+                  "medicalID" : "M.60",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "200",
+                  "patientsShares" : "10",
+                  "name" : "Orteza (sznurówka) lędźwiowo-krzyżowa ze stalkami lub fiszbinami (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurochirurgii",
+                    "Lekarz neurochirurgii i neurotraumatologii",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+                    "Lekarz onkologii klinicznej",
+                    "Lekarz chemioterapii nowotworów",
+                    "Lekarz onkologii i hematologii dziecięcej",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu",
+                    "Lekarz opieki paliatywnej i hospicyjnej"
+                  ]
+                },
+
+        {
+          "uniqueID" : "89",
+          "group" : "M",
+          "medicalID" : "M.61",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "80",
+          "patientsShares" : "0",
+          "name" : "Kołnierz sztywny (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "90",
+                  "group" : "M",
+                  "medicalID" : "M.61",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "80",
+                  "patientsShares" : "10",
+                  "name" : "Kołnierz sztywny (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurochirurgii",
+                    "Lekarz neurochirurgii i neurotraumatologii",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+                    "Lekarz onkologii klinicznej",
+                    "Lekarz chemioterapii nowotworów",
+                    "Lekarz onkologii i hematologii dziecięcej",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu",
+                    "Lekarz opieki paliatywnej i hospicyjnej"
+                  ]
+                },
+
+        {
+          "uniqueID" : "91",
+          "group" : "M",
+          "medicalID" : "M.62",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "35",
+          "patientsShares" : "0",
+          "name" : "Kołnierz półsztywny (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "92",
+                  "group" : "M",
+                  "medicalID" : "M.62",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "35",
+                  "patientsShares" : "10",
+                  "name" : "Kołnierz półsztywny (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurochirurgii",
+                    "Lekarz neurochirurgii i neurotraumatologii",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+                    "Lekarz onkologii klinicznej",
+                    "Lekarz chemioterapii nowotworów",
+                    "Lekarz onkologii i hematologii dziecięcej",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu",
+                    "Lekarz opieki paliatywnej i hospicyjnej"
+                  ]
+                },
+
+
+        {
+          "uniqueID" : "93",
+          "group" : "M",
+          "medicalID" : "M.63",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "200",
+          "patientsShares" : "0",
+          "name" : "Półgorsetowa orteza szyjna (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "94",
+                  "group" : "M",
+                  "medicalID" : "M.63",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "200",
+                  "patientsShares" : "10",
+                  "name" : "Półgorsetowa orteza szyjna (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurochirurgii",
+                    "Lekarz neurochirurgii i neurotraumatologii",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+                    "Lekarz onkologii klinicznej",
+                    "Lekarz chemioterapii nowotworów",
+                    "Lekarz onkologii i hematologii dziecięcej",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu",
+                    "Lekarz opieki paliatywnej i hospicyjnej"
+                  ]
+                },
+
+        {
+          "uniqueID" : "95",
+          "group" : "N",
+          "medicalID" : "N.64",
+          "timeOfUse" : "na 6 miesięcy",
+          "limitForFunding" : "155",
+          "patientsShares" : "0",
+          "name" : "But na stopę o różnym zniekształceniu (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz diabetologii",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "96",
+                  "group" : "N",
+                  "medicalID" : "N.64",
+                  "timeOfUse" : "na rok",
+                  "limitForFunding" : "155",
+                  "patientsShares" : "30",
+                  "name" : "But na stopę o różnym zniekształceniu (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz diabetologii",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+        {
+          "uniqueID" : "97",
+          "group" : "N",
+          "medicalID" : "N.65",
+          "timeOfUse" : "na 6 miesięcy",
+          "limitForFunding" : "210",
+          "patientsShares" : "0",
+          "name" : "But wyrównujący skrócenie kończyny dolnej (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz diabetologii",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "98",
+                  "group" : "N",
+                  "medicalID" : "N.65",
+                  "timeOfUse" : "na rok",
+                  "limitForFunding" : "210",
+                  "patientsShares" : "30",
+                  "name" : "But wyrównujący skrócenie kończyny dolnej (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz diabetologii",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+        {
+          "uniqueID" : "99",
+          "group" : "N",
+          "medicalID" : "N.66",
+          "timeOfUse" : "na 6 miesięcy",
+          "limitForFunding" : "155",
+          "patientsShares" : "0",
+          "name" : "But przy amputacji w obrębie stopy (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz diabetologii",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "100",
+                  "group" : "N",
+                  "medicalID" : "N.66",
+                  "timeOfUse" : "na rok",
+                  "limitForFunding" : "155",
+                  "patientsShares" : "30",
+                  "name" : "But przy amputacji w obrębie stopy (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz diabetologii",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+        {
+          "uniqueID" : "101",
+          "group" : "N",
+          "medicalID" : "N.67",
+          "timeOfUse" : "na 6 miesięcy",
+          "limitForFunding" : "210",
+          "patientsShares" : "0",
+          "name" : "But do ortezy obejmującej stopę (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz diabetologii",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "102",
+                  "group" : "N",
+                  "medicalID" : "N.67",
+                  "timeOfUse" : "na rok",
+                  "limitForFunding" : "210",
+                  "patientsShares" : "30",
+                  "name" : "But do ortezy obejmującej stopę (dorośli)",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz reumatologii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz diabetologii",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+        {
+          "uniqueID" : "103",
+          "group" : "N",
+          "medicalID" : "N.68",
+          "timeOfUse" : "na 6 miesięcy",
+          "limitForFunding" : "100",
+          "patientsShares" : "0",
+          "name" : "But do pary przy zaopatrzeniu jednoczesnym na chorą stopę (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz diabetologii",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "104",
+          "group" : "N",
+          "medicalID" : "N.68",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "100",
+          "patientsShares" : "30",
+          "name" : "But do pary przy zaopatrzeniu jednoczesnym na chorą stopę (dorośli)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz diabetologii",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "105",
+          "group" : "O",
+          "medicalID" : "O.69",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "400",
+          "patientsShares" : "30",
+          "name" : "Rękaw uciskowy płaskodziany z krytym szwem, bez zawartości bawełny, z uciskiem nie mniejszym niż 20 mmHg",
+          "doctor" : [
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz angiologii",
+            "Lekarz chirurgii naczyniowej",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "106",
+          "group" : "O",
+          "medicalID" : "O.70",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "800",
+          "patientsShares" : "30",
+          "name" : "Nogawica uciskowa płaskodziana z krytym szwem, bez zawartości bawełny, z uciskiem nie mniejszym niż 30 mmHg",
+          "doctor" : [
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz angiologii",
+            "Lekarz chirurgii naczyniowej",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+          ]
+        },
+
+        {
+          "uniqueID" : "107",
+          "group" : "P",
+          "medicalID" : "P.71",
+          "timeOfUse" : "na 6 miesięcy lub rzadziej",
+          "limitForFunding" : "25",
+          "patientsShares" : "0",
+          "name" : "Soczewka okularowa korekcyjna do bliży (sfera do +/- 6,00 dptr i cylinder do +/- 2,00 dptr, w tym soczewka z mocą pryzmatyczną) (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "108",
+          "group" : "P",
+          "medicalID" : "P.72",
+          "timeOfUse" : "na 2 lata",
+          "limitForFunding" : "25",
+          "patientsShares" : "30",
+          "name" : "Soczewka okularowa korekcyjna do dali (sfera do +/- 6,00 dptr i cylinder do +/- 2,00 dptr, w tym soczewka z mocą pryzmatyczną) (dorośli)",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "109",
+          "group" : "P",
+          "medicalID" : "P.73",
+          "timeOfUse" : "na 6 miesięcy lub rzadziej",
+          "limitForFunding" : "50",
+          "patientsShares" : "0",
+          "name" : "Soczewka okularowa korekcyjna do bliży (sfera od +/- 6,25 dptr i cylinder od 0,00 dptr; sfera do +/- 6,00 dptr i cylinder od +/- 2,25 dptr, w tym soczewka z mocą pryzmatyczną) (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "110",
+          "group" : "P",
+          "medicalID" : "P.74",
+          "timeOfUse" : "na 2 lata",
+          "limitForFunding" : "50",
+          "patientsShares" : "30",
+          "name" : "Soczewka okularowa korekcyjna do dali (sfera od +/- 6,25 dptr i cylinder od 0,00 dptr; sfera do +/- 6,00 dptr i cylinder od +/- 2,25 dptr, w tym soczewka z mocą pryzmatyczną) (dorośli)",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "111",
+          "group" : "P",
+          "medicalID" : "P.75",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "500",
+          "patientsShares" : "30",
+          "name" : "Soczewka kontaktowa twarda",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "112",
+          "group" : "P",
+          "medicalID" : "P.76",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "150",
+          "patientsShares" : "30",
+          "name" : "Soczewka kontaktowa miękka",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "113",
+          "group" : "P",
+          "medicalID" : "P.77",
+          "timeOfUse" : "i każdorazowo wg wskazań medycznych",
+          "limitForFunding" : "800",
+          "patientsShares" : "0",
+          "name" : "Epiproteza oka (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "114",
+          "group" : "P",
+          "medicalID" : "P.77",
+          "timeOfUse" : "na 5 lat",
+          "limitForFunding" : "800",
+          "patientsShares" : "0",
+          "name" : "Epiproteza oka (dorośli)",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "115",
+          "group" : "P",
+          "medicalID" : "P.78",
+          "timeOfUse" : "i każdorazowo wg wskazań medycznych",
+          "limitForFunding" : "700",
+          "patientsShares" : "0",
+          "name" : "Proteza oka (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "116",
+          "group" : "P",
+          "medicalID" : "P.78",
+          "timeOfUse" : "na 5 lata",
+          "limitForFunding" : "700",
+          "patientsShares" : "0",
+          "name" : "Proteza oka (dorośli)",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "117",
+          "group" : "P",
+          "medicalID" : "P.79",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "80",
+          "patientsShares" : "0",
+          "name" : "Lupa",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "118",
+          "group" : "P",
+          "medicalID" : "P.80",
+          "timeOfUse" : "na 5 lat",
+          "limitForFunding" : "350",
+          "patientsShares" : "0",
+          "name" : "Monokular",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "119",
+          "group" : "P",
+          "medicalID" : "P.81",
+          "timeOfUse" : "na 5 lat",
+          "limitForFunding" : "350",
+          "patientsShares" : "0",
+          "name" : "Okulary lupowe",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "120",
+          "group" : "P",
+          "medicalID" : "P.82",
+          "timeOfUse" : "na 5 lat",
+          "limitForFunding" : "350",
+          "patientsShares" : "0",
+          "name" : "Okulary lornetkowe do bliży",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "121",
+          "group" : "P",
+          "medicalID" : "P.83",
+          "timeOfUse" : "na 5 lat",
+          "limitForFunding" : "350",
+          "patientsShares" : "0",
+          "name" : "Okulary lornetkowe do dali",
+          "doctor" : [
+            "Lekarz okulistyki"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "122",
+          "group" : "P",
+          "medicalID" : "P.84",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "(za sztukę) 2000",
+          "patientsShares" : "0",
+          "name" : "Aparat słuchowy na przewodnictwo powietrzne przy jednostronnym ubytku słuchu albo dwa aparaty słuchowe na przewodnictwo powietrzne przy obustronnym ubytku słuchu (do 26. roku życia)",
+          "doctor" : [
+            "Lekarz audiologii i foniatrii",
+            "Lekarz audiologii",
+            "Lekarz otolaryngologii",
+            "Lekarz otolaryngologii dziecięcej",
+            "Lekarz otorynolaryngologii",
+            "Lekarz otorynolaryngologii dziecięcej",
+            "Lekarz laryngologii"
+          ]
+        },
+
+        {
+          "uniqueID" : "123",
+          "group" : "P",
+          "medicalID" : "P.84",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "(za sztukę) 1000",
+          "patientsShares" : "30",
+          "name" : "Aparat słuchowy na przewodnictwo powietrzne przy jednostronnym ubytku słuchu albo dwa aparaty słuchowe na przewodnictwo powietrzne przy obustronnym ubytku słuchu (po 26. roku życia)",
+          "doctor" : [
+            "Lekarz audiologii i foniatrii",
+            "Lekarz audiologii",
+            "Lekarz otolaryngologii",
+            "Lekarz otolaryngologii dziecięcej",
+            "Lekarz otorynolaryngologii",
+            "Lekarz otorynolaryngologii dziecięcej",
+            "Lekarz laryngologii"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "124",
+          "group" : "P",
+          "medicalID" : "P.85",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "(za sztukę) 1800",
+          "patientsShares" : "0",
+          "name" : "Aparat słuchowy na przewodnictwo kostne przy jednostronnym ubytku słuchu albo dwa aparaty słuchowe na przewodnictwo kostne przy obustronnym ubytku słuchu, z wyłączeniem aparatów słuchowych mocowanych na stałe (do 26. roku życia)",
+          "doctor" : [
+            "Lekarz audiologii i foniatrii",
+            "Lekarz audiologii",
+            "Lekarz otolaryngologii",
+            "Lekarz otolaryngologii dziecięcej",
+            "Lekarz otorynolaryngologii",
+            "Lekarz otorynolaryngologii dziecięcej",
+            "Lekarz laryngologii"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "125",
+                  "group" : "P",
+                  "medicalID" : "P.85",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "(za sztukę) 1800",
+                  "patientsShares" : "30",
+                  "name" : "Aparat słuchowy na przewodnictwo kostne przy jednostronnym ubytku słuchu albo dwa aparaty słuchowe na przewodnictwo kostne przy obustronnym ubytku słuchu, z wyłączeniem aparatów słuchowych mocowanych na stałe (po 26. roku życia)",
+                  "doctor" : [
+                    "Lekarz audiologii i foniatrii",
+                    "Lekarz audiologii",
+                    "Lekarz otolaryngologii",
+                    "Lekarz otolaryngologii dziecięcej",
+                    "Lekarz otorynolaryngologii",
+                    "Lekarz otorynolaryngologii dziecięcej",
+                    "Lekarz laryngologii"
+                  ]
+                },
+
+        {
+          "uniqueID" : "126",
+          "group" : "P",
+          "medicalID" : "P.86",
+          "timeOfUse" : "i każdorazowo wg wskazań lekarza",
+          "limitForFunding" : "(za sztukę) 60",
+          "patientsShares" : "0",
+          "name" : "Wkładka uszna wykonana indywidualnie (do 26. roku życia)",
+          "doctor" : [
+            "Lekarz audiologii i foniatrii",
+            "Lekarz audiologii",
+            "Lekarz otolaryngologii",
+            "Lekarz otolaryngologii dziecięcej",
+            "Lekarz otorynolaryngologii",
+            "Lekarz otorynolaryngologii dziecięcej",
+            "Lekarz laryngologii"
+          ]
+        },
+
+        {
+          "uniqueID" : "127",
+          "group" : "P",
+          "medicalID" : "P.86",
+          "timeOfUse" : "na 5 lat",
+          "limitForFunding" : "(za sztukę) 50",
+          "patientsShares" : "0",
+          "name" : "Wkładka uszna wykonana indywidualnie (po 26. roku życia)",
+          "doctor" : [
+            "Lekarz audiologii i foniatrii",
+            "Lekarz audiologii",
+            "Lekarz otolaryngologii",
+            "Lekarz otolaryngologii dziecięcej",
+            "Lekarz otorynolaryngologii",
+            "Lekarz otorynolaryngologii dziecięcej",
+            "Lekarz laryngologii"
+          ]
+        },
+
+        {
+          "uniqueID" : "128",
+          "group" : "P",
+          "medicalID" : "P.87",
+          "timeOfUse" : "na 5 lat",
+          "limitForFunding" : "5500",
+          "patientsShares" : "50",
+          "name" : "Systemy wspomagające słyszenie (do 26. roku życia)",
+          "doctor" : [
+            "Lekarz audiologii i foniatrii",
+            "Lekarz audiologii",
+            "Lekarz otolaryngologii",
+            "Lekarz otolaryngologii dziecięcej",
+            "Lekarz otorynolaryngologii",
+            "Lekarz otorynolaryngologii dziecięcej",
+            "Lekarz laryngologii"
+          ]
+        },
+
+        {
+          "uniqueID" : "129",
+          "group" : "P",
+          "medicalID" : "P.88",
+          "timeOfUse" : "na 5 lat",
+          "limitForFunding" : "1600",
+          "patientsShares" : "0",
+          "name" : "Krtań elektroniczna (aparat wspomagający mowę)",
+          "doctor" : [
+            "Lekarz otolaryngologii",
+            "Lekarz laryngologii",
+            "Lekarz otolaryngologii dziecięcej",
+            "Lekarz otorynolaryngologii dziecięcej",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz audiologii i foniatrii",
+            "Lekarz audiologii",
+            "Lekarz foniatrii",
+            "Lekarz otorynolaryngologii"
+          ]
+        },
+
+        {
+          "uniqueID" : "130",
+          "group" : "P",
+          "medicalID" : "P.89",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "150",
+          "patientsShares" : "0",
+          "name" : "Rurka tracheostomijna wraz z zapasowym wkładem",
+          "doctor" : [
+            "Lekarz otolaryngologii",
+            "Lekarz laryngologii",
+            "Lekarz otolaryngologii dziecięcej",
+            "Lekarz otorynolaryngologii dziecięcej",
+            "Lekarz onkologii klinicznej",
+            "Lekarz onkologii i hematologii dziecięcej",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+          ]
+        },
+
+        {
+          "uniqueID" : "131",
+          "group" : "P",
+          "medicalID" : "P.90",
+          "timeOfUse" : "na miesiąc",
+          "limitForFunding" : "(za sztukę) 0,80",
+          "patientsShares" : "0",
+          "name" : "Cewniki jednorazowe do odsysania górnych dróg oddechowych do 180 sztuk",
+          "doctor" : [
+            "Lekarz neurologii",
+            "Lekarz chorób płuc",
+            "Lekarz chorób płuc dzieci",
+            "Lekarz ftyzjatrii",
+            "Lekarz ftyzjatrii dziecięcej",
+            "Lekarz chirurgii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz laryngologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz anestezjologii i intensywnej terapii",
+            "Lekarz anestezjologii",
+            "Lekarz anestezjologii i reanimacji",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "132",
+          "group" : "P",
+          "medicalID" : "P.91",
+          "timeOfUse" : "na miesiąc",
+          "limitForFunding" : "(za sztukę) 30",
+          "patientsShares" : "0",
+          "name" : "Zestawy infuzyjne do osobistej pompy insulinowej 10 sztuk (obejmujące wkłucie, łącznik i dren) (do 26. roku życia)",
+          "doctor" : [
+            "Lekarz diabetologii",
+        		"Lekarz pediatrii",
+        		"Lekarz endokrynologii i diabetologii dziecięcej",
+        		"Lekarz endokrynologii",
+        		"Lekarz perinatologii",
+        		"Lekarz chorób wewnętrznych",
+        		"Lekarz podstawowej opieki zdrowotnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "133",
+          "group" : "P",
+          "medicalID" : "P.91",
+          "timeOfUse" : "na miesiąc",
+          "limitForFunding" : "(za sztukę) 30",
+          "patientsShares" : "30",
+          "name" : "Zestawy infuzyjne do osobistej pompy insulinowej 10 sztuk (obejmujące wkłucie, łącznik i dren) (powyżej 26. roku życia)",
+          "doctor" : [
+            "Lekarz diabetologii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz endokrynologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "134",
+          "group" : "P",
+          "medicalID" : "P.91",
+          "timeOfUse" : "na miesiąc",
+          "limitForFunding" : "(za sztukę) 30",
+          "patientsShares" : "0",
+          "name" : "Zestawy infuzyjne do osobistej pompy insulinowej 10 sztuk (obejmujące wkłucie, łącznik i dren) (kobiety ciężarne)",
+          "doctor" : [
+            "Lekarz diabetologii",
+        		"Lekarz położnictwa i ginekologii",
+        		"Lekarz endokrynologii ginekologicznej i rozrodczości",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "135",
+          "group" : "P",
+          "medicalID" : "P.92",
+          "timeOfUse" : "na 2 lata",
+          "limitForFunding" : "280",
+          "patientsShares" : "0",
+          "name" : "Proteza piersi",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz ginekologii",
+            "Lekarz ginekologii onkologicznej",
+            "Lekarz radioterapii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+
+        {
+          "uniqueID" : "136",
+          "group" : "P",
+          "medicalID" : "P.93",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "250",
+          "patientsShares" : "0",
+          "name" : "Peruka",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz ginekologii onkologicznej",
+            "Lekarz radioterapii onkologicznej",
+            "Lekarz dermatologii i wenerologii",
+            "Lekarz onkologii i hematologii dziecięcej",
+            "Lekarz hematologii",
+            "Lekarz pulmonologii",
+            "Lekarz chorób płuc",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "137",
+          "group" : "P",
+          "medicalID" : "P.94",
+          "timeOfUse" : "na miesiąc",
+          "limitForFunding" : "(za sztukę) 4",
+          "patientsShares" : "30",
+          "name" : "Cewniki zewnętrzne do 30 sztuk",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz urologii",
+            "Lekarz urologii dziecięcej",
+            "Lekarz geriatrii",
+            "Lekarz położnictwa i ginekologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "138",
+          "group" : "P",
+          "medicalID" : "P.95",
+          "timeOfUse" : "na miesiąc",
+          "limitForFunding" : "(za sztukę) 4",
+          "patientsShares" : "30",
+          "name" : "Cewniki urologiczne do 4 sztuk lub w równowartości ich kosztu cewnik silikonowy",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz geriatrii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz urologii",
+            "Lekarz urologii dziecięcej",
+            "Lekarz położnictwa i ginekologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "139",
+          "group" : "P",
+          "medicalID" : "P.96",
+          "timeOfUse" : "na miesiąc",
+          "limitForFunding" : "(za sztukę) 0,80",
+          "patientsShares" : "30",
+          "name" : "Cewniki jednorazowe urologiczne do 180 sztuk miesięcznie lub w równowartości ich kosztu jednorazowe hydrofilowe cewniki urologiczne",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz urologii",
+            "Lekarz urologii dziecięcej",
+            "Lekarz położnictwa i ginekologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "140",
+          "group" : "P",
+          "medicalID" : "P.97",
+          "timeOfUse" : "na miesiąc",
+          "limitForFunding" : "(za sztukę) 6,50",
+          "patientsShares" : "0",
+          "name" : "Worki do zbiórki moczu z odpływem do 12 sztuk",
+          "doctor" : [
+            "Lekarz urologii",
+            "Lekarz urologii dziecięcej",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz położnictwa i ginekologii",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "141",
+          "group" : "P",
+          "medicalID" : "P.98",
+          "timeOfUse" : "na miesiąc",
+          "limitForFunding" : "120",
+          "patientsShares" : "0",
+          "name" : "Worki do zbiórki moczu w ilości do 12 sztuk w przypadku nefrostomii lub inny sprzęt urologiczny",
+          "doctor" : [
+            "Lekarz urologii",
+            "Lekarz urologii dziecięcej",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz nefrologii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "142",
+          "group" : "P",
+          "medicalID" : "P.99",
+          "timeOfUse" : "na miesiąc",
+          "limitForFunding" : "400",
+          "patientsShares" : "0",
+          "name" : "Worki stomijne samoprzylepne do 90 sztuk lub inny sprzęt stomijny - ileostomia",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii klinicznej",
+            "Lekarz onkologii i hematologii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "143",
+                  "group" : "P",
+                  "medicalID" : "P.99",
+                  "timeOfUse" : "na miesiąc",
+                  "limitForFunding" : "300",
+                  "patientsShares" : "0",
+                  "name" : "Worki stomijne samoprzylepne do 90 sztuk lub inny sprzęt stomijny - kolostomia",
+                  "doctor" : [
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz chemioterapii nowotworów",
+                    "Lekarz onkologii klinicznej",
+                    "Lekarz onkologii i hematologii dziecięcej",
+                    "Lekarz podstawowej opieki zdrowotnej",
+                    "Lekarz medycyny rodzinnej",
+                    "Lekarz pediatrii",
+                    "Lekarz chorób wewnętrznych",
+                    "Felczer ubezpieczenia zdrowotnego",
+                    "Lekarz opieki paliatywnej i hospicyjnej",
+                    "Pielęgniarka lub położna"
+                  ]
+                },
+
+
+                        {
+                          "uniqueID" : "144",
+                          "group" : "P",
+                          "medicalID" : "P.99",
+                          "timeOfUse" : "na miesiąc",
+                          "limitForFunding" : "480",
+                          "patientsShares" : "0",
+                          "name" : "Worki stomijne samoprzylepne do 90 sztuk lub inny sprzęt stomijny - urostomia",
+                          "doctor" : [
+                       	    "Lekarz chirurgii ogólnej",
+                            "Lekarz chirurgii dziecięcej",
+                            "Lekarz chirurgii onkologicznej",
+                            "Lekarz chemioterapii nowotworów",
+                            "Lekarz onkologii klinicznej",
+                            "Lekarz onkologii i hematologii dziecięcej",
+                            "Lekarz podstawowej opieki zdrowotnej",
+                            "Lekarz medycyny rodzinnej",
+                            "Lekarz pediatrii",
+                            "Lekarz chorób wewnętrznych",
+                            "Felczer ubezpieczenia zdrowotnego",
+                            "Lekarz urologii",
+                            "Lekarz urologii dzięcej",
+                            "Lekarz opieki paliatywnej i hospicyjnej",
+                            "Pielęgniarka lub położna"
+                          ]
+                        },
+
+                                {
+                                  "uniqueID" : "145",
+                                  "group" : "P",
+                                  "medicalID" : "P.99",
+                                  "timeOfUse" : "na miesiąc",
+                                  "limitForFunding" : "400",
+                                  "patientsShares" : "0",
+                                  "name" : "Worki stomijne samoprzylepne do 90 sztuk lub inny sprzęt stomijny - przetoka ślinowa",
+                                  "doctor" : [
+                               	    "Lekarz chirurgii ogólnej",
+                                    "Lekarz chirurgii dziecięcej",
+                                    "Lekarz chirurgii onkologicznej",
+                                    "Lekarz chemioterapii nowotworów",
+                                    "Lekarz onkologii klinicznej",
+                                    "Lekarz onkologii i hematologii dziecięcej",
+                                    "Lekarz podstawowej opieki zdrowotnej",
+                                    "Lekarz medycyny rodzinnej",
+                                    "Lekarz pediatrii",
+                                    "Lekarz chorób wewnętrznych",
+                                    "Felczer ubezpieczenia zdrowotnego",
+                                    "Lekarz opieki paliatywnej i hospicyjnej",
+                                    "Pielęgniarka lub położna"
+                                  ]
+                                },
+
+        {
+          "uniqueID" : "146",
+          "group" : "P",
+          "medicalID" : "P.100",
+          "timeOfUse" : "na miesiąc",
+          "limitForFunding" : "77",
+          "patientsShares" : "0",
+          "name" : "Pieluchomajtki/pampersy/podkłady lub zamiennik do 90 sztuk miesięcznie (ze wskazań nowotworowych)",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+            "Lekarz geriatrii",
+            "Lekarz ginekologii onkologicznej",
+            "Lekarz położnictwa i ginekologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz urologii",
+            "Lekarz urologii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "147",
+          "group" : "P",
+          "medicalID" : "P.101",
+          "timeOfUse" : "na miesiąc",
+          "limitForFunding" : "90",
+          "patientsShares" : "30",
+          "name" : "Pieluchomajtki/pampersy/podkłady lub zamiennik do 90 sztuk miesięcznie (ze wskazań nienowotworowych)",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz onkologii i hematologii dziecięcej",
+            "Lekarz geriatrii",
+            "Lekarz ginekologii onkologicznej",
+            "Lekarz położnictwa i ginekologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz urologii",
+            "Lekarz urologii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "148",
+          "group" : "P",
+          "medicalID" : "P.102",
+          "timeOfUse" : "na 5 lat",
+          "limitForFunding" : "2100",
+          "patientsShares" : "0",
+          "name" : "Aparat z maską do leczenia obturacyjnego bezdechu sennego (dzieci do ukończenia 18. roku życia)",
+          "doctor" : [
+            "Lekarz chorób płuc",
+            "Lekarz chorób płuc dzieci",
+            "Lekarz ftyzjatrii",
+            "Lekarz ftyzjatrii dziecięcej",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz laryngologii"
+          ]
+        },
+
+        {
+          "uniqueID" : "149",
+          "group" : "P",
+          "medicalID" : "P.102",
+          "timeOfUse" : "na 5 lat",
+          "limitForFunding" : "2100",
+          "patientsShares" : "10",
+          "name" : "Aparat z maską do leczenia obturacyjnego bezdechu sennego (dorośli)",
+          "doctor" : [
+            "Lekarz chorób płuc",
+            "Lekarz chorób płuc dzieci",
+            "Lekarz ftyzjatrii",
+            "Lekarz ftyzjatrii dziecięcej",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz laryngologii"
+          ]
+        },
+
+        {
+          "uniqueID" : "150",
+          "group" : "P",
+          "medicalID" : "P.103",
+          "timeOfUse" : "na 6 miesięcy",
+          "limitForFunding" : "150",
+          "patientsShares" : "0",
+          "name" : "Nebulizator (generator aerozolu) lub głowica do inhalatora membranowego",
+          "doctor" : [
+            "Lekarz chorób płuc",
+            "Lekarz chorób płuc dzieci",
+            "Lekarz ftyzjatrii",
+            "Lekarz ftyzjatrii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "151",
+          "group" : "P",
+          "medicalID" : "P.104",
+          "timeOfUse" : "na 4 lata",
+          "limitForFunding" : "800",
+          "patientsShares" : "0",
+          "name" : "Sprężarka powietrza lub inhalator membranowy",
+          "doctor" : [
+            "Lekarz chorób płuc",
+            "Lekarz chorób płuc dzieci",
+            "Lekarz ftyzjatrii",
+            "Lekarz ftyzjatrii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "152",
+          "group" : "P",
+          "medicalID" : "P.105",
+          "timeOfUse" : "na 2 lata",
+          "limitForFunding" : "200",
+          "patientsShares" : "0",
+          "name" : "Sprzęt do indywidualnej fizjoterapii układu oddechowego - urządzenia do drenażu, wytwarzające podwyższone lub zmienne ciśnienie wydechowe",
+          "doctor" : [
+            "Lekarz chorób płuc",
+            "Lekarz chorób płuc dzieci",
+            "Lekarz ftyzjatrii",
+            "Lekarz ftyzjatrii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "153",
+          "group" : "P",
+          "medicalID" : "P.106",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "220",
+          "patientsShares" : "0",
+          "name" : "Pończocha kikutowa - po pełnej amputacji lub w przypadku wrodzonego braku w obrębie stopy do 12 sztuk",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Fizjoterapeuta",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "154",
+          "group" : "P",
+          "medicalID" : "P.107",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "240",
+          "patientsShares" : "0",
+          "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie podudzia do 12 sztuk",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Fizjoterapeuta",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "155",
+          "group" : "P",
+          "medicalID" : "P.108",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "240",
+          "patientsShares" : "0",
+          "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie uda do 12 sztuk",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Fizjoterapeuta",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "156",
+          "group" : "P",
+          "medicalID" : "P.109",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "360",
+          "patientsShares" : "0",
+          "name" : "Majteczki - po wyłuszczeniu lub w przypadku wrodzonego braku w stawie biodrowym do 12 sztuk",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Fizjoterapeuta",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "157",
+          "group" : "P",
+          "medicalID" : "P.110",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "180",
+          "patientsShares" : "0",
+          "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie przedramienia do 12 sztuk",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Fizjoterapeuta",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "158",
+          "group" : "P",
+          "medicalID" : "P.111",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "120",
+          "patientsShares" : "0",
+          "name" : "Pończocha kikutowa - po amputacji lub w przypadku wrodzonego braku w obrębie ramienia do 12 sztuk",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Fizjoterapeuta",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "159",
+          "group" : "P",
+          "medicalID" : "P.112",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "144",
+          "patientsShares" : "0",
+          "name" : "Pończocha kikutowa - po pełnej amputacji lub w przypadku braku kończyny górnej do 12 sztuk",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Fizjoterapeuta",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+
+
+
+        {
+          "uniqueID" : "160",
+          "group" : "P",
+          "medicalID" : "P.113",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "80",
+          "patientsShares" : "30",
+          "name" : "Pas przepuklinowy pachwinowy jednostronny",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz położnictwa i ginekologii"
+          ]
+        },
+
+        {
+          "uniqueID" : "161",
+          "group" : "P",
+          "medicalID" : "P.114",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "130",
+          "patientsShares" : "0",
+          "name" : "Pas przepuklinowy pachwinowy obustronny",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz położnictwa i ginekologii"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "162",
+          "group" : "P",
+          "medicalID" : "P.115",
+          "timeOfUse" : "na rok",
+          "limitForFunding" : "100",
+          "patientsShares" : "30",
+          "name" : "Pas brzuszny",
+          "doctor" : [
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz położnictwa i ginekologii"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "163",
+          "group" : "P",
+          "medicalID" : "P.116",
+          "timeOfUse" : "na 2 lata",
+          "limitForFunding" : "500",
+          "patientsShares" : "30",
+          "name" : "Poduszka przeciwodleżynowa pneumatyczna",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "164",
+          "group" : "P",
+          "medicalID" : "P.117",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "400",
+          "patientsShares" : "30",
+          "name" : "Materac przeciwodleżynowy (z wyłączeniem materacy piankowych)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "165",
+          "group" : "P",
+          "medicalID" : "P.118",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "30",
+          "patientsShares" : "30",
+          "name" : "Kula łokciowa ze stopniową regulacją",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "166",
+          "group" : "P",
+          "medicalID" : "P.119",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "140",
+          "patientsShares" : "30",
+          "name" : "Kula łokciowa z podparciem na przedramieniu",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "167",
+          "group" : "P",
+          "medicalID" : "P.120",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "40",
+          "patientsShares" : "30",
+          "name" : "Kula pachowa",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "168",
+          "group" : "P",
+          "medicalID" : "P.121",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "75",
+          "patientsShares" : "30",
+          "name" : "Trójnóg albo czwórnóg",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+        {
+          "uniqueID" : "169",
+          "group" : "P",
+          "medicalID" : "P.122",
+          "timeOfUse" : "na 6 miesięcy",
+          "limitForFunding" : "100",
+          "patientsShares" : "0",
+          "name" : "Laska dla niewidomych (biała)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna",
+            "Lekarz okulistyki"
+          ]
+        },
+
+        {
+          "uniqueID" : "170",
+          "group" : "P",
+          "medicalID" : "P.123",
+          "timeOfUse" : "na 5 lat",
+          "limitForFunding" : "240",
+          "patientsShares" : "30",
+          "name" : "Balkonik albo podpórka ułatwiająca chodzenie",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz reumatologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Fizjoterapeuta",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Felczer ubezpieczenia zdrowotnego",
+            "Lekarz opieki paliatywnej i hospicyjnej",
+            "Pielęgniarka lub położna"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "171",
+          "group" : "P",
+          "medicalID" : "P.124",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "600",
+          "patientsShares" : "0",
+          "name" : "Balkonik specjalny dla dzieci z odciążeniem tułowia, umożliwiający przemieszczanie się",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "172",
+          "group" : "P",
+          "medicalID" : "P.125",
+          "timeOfUse" : "na 5 lat",
+          "limitForFunding" : "2000",
+          "patientsShares" : "0",
+          "name" : "Pionizator",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "173",
+          "group" : "P",
+          "medicalID" : "P.126",
+          "timeOfUse" : "na 5 lat",
+          "limitForFunding" : "3200",
+          "patientsShares" : "0",
+          "name" : "Urządzenie multifunkcyjne: funkcja pionizacji, stabilizacji w pozycji siedzącej i leżącej z funkcją transportową",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "174",
+          "group" : "P",
+          "medicalID" : "P.127",
+          "timeOfUse" : "na 5 lat",
+          "limitForFunding" : "600",
+          "patientsShares" : "0",
+          "name" : "Wózek inwalidzki ręczny",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz neurochirurgii",
+            "Lekarz geriatrii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz reumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz opieki paliatywnej i hospicyjnej"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "175",
+          "group" : "P",
+          "medicalID" : "P.128",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "600",
+          "patientsShares" : "0",
+          "name" : "Wózek inwalidzki dziecięcy",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz medycyny rodzinnej",
+            "Lekarz pediatrii",
+            "Lekarz chorób wewnętrznych",
+            "Lekarz neurochirurgii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz reumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "176",
+          "group" : "P",
+          "medicalID" : "P.129",
+          "timeOfUse" : "na 4 lata",
+          "limitForFunding" : "1700",
+          "patientsShares" : "0",
+          "name" : "Wózek inwalidzki dla dorosłych wykonany ze stopów lekkich z systemem szybkiego demontażu kół, składany, dla osób samodzielnie poruszających się na wózku",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz geriatrii",
+       	    "Lekarz chirurgii ogólnej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz chirurgii onkologicznej",
+            "Lekarz neurochirurgii",
+            "Lekarz reumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+                {
+                  "uniqueID" : "177",
+                  "group" : "P",
+                  "medicalID" : "P.129",
+                  "timeOfUse" : "na 3 lata",
+                  "limitForFunding" : "1700",
+                  "patientsShares" : "0",
+                  "name" : "Wózek inwalidzki dla dzieci od rozpoczęcia 3. do ukończenia 18. roku życia wykonany ze stopów lekkich z systemem szybkiego demontażu kół, składany, dla osób samodzielnie poruszających się na wózku",
+                  "doctor" : [
+                    "Lekarz ortopedii i traumatologii",
+                    "Lekarz chirurgii ortopedycznej",
+                    "Lekarz chirurgii urazowo-ortopedycznej",
+                    "Lekarz ortopedii i traumatologii narządu ruchu",
+                    "Lekarz geriatrii",
+               	    "Lekarz chirurgii ogólnej",
+                    "Lekarz chirurgii dziecięcej",
+                    "Lekarz chirurgii onkologicznej",
+                    "Lekarz neurochirurgii",
+                    "Lekarz reumatologii",
+                    "Lekarz neurologii",
+                    "Lekarz neurologii dziecięcej",
+                    "Lekarz rehabilitacji",
+                    "Lekarz rehabilitacji medycznej",
+                    "Lekarz rehabilitacji ogólnej",
+                    "Lekarz rehabilitacji w chorobach narządu ruchu"
+                  ]
+                },
+
+
+        {
+          "uniqueID" : "178",
+          "group" : "P",
+          "medicalID" : "P.130",
+          "timeOfUse" : "na 4 lata",
+          "limitForFunding" : "3000",
+          "patientsShares" : "0",
+          "name" : "Wózek inwalidzki specjalny dla dorosłych (z wyłączeniem wózka inwalidzkiego toaletowego)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz reumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "179",
+          "group" : "P",
+          "medicalID" : "P.131",
+          "timeOfUse" : "na 3 lata",
+          "limitForFunding" : "3000",
+          "patientsShares" : "0",
+          "name" : "Wózek inwalidzki specjalny dziecięcy (z wyłączeniem wózka inwalidzkiego toaletowego)",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurochirurgii",
+            "Lekarz neurochirurgii i neurotraumatologii",
+            "Lekarz onkologii klinicznej",
+            "Lekarz chemioterapii nowotworów",
+            "Lekarz reumatologii",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "180",
+          "group" : "P",
+          "medicalID" : "P.132",
+          "timeOfUse" : "na 2 lata",
+          "limitForFunding" : "700",
+          "patientsShares" : "0",
+          "name" : "Siedzisko ortopedyczne dla dzieci stabilizujące plecy i głowę",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz pediatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+
+        {
+          "uniqueID" : "181",
+          "group" : "P",
+          "medicalID" : "P.133",
+          "timeOfUse" : "na 2 lata",
+          "limitForFunding" : "120",
+          "patientsShares" : "0",
+          "name" : "Pełzak do raczkowania",
+          "doctor" : [
+            "Lekarz ortopedii i traumatologii",
+            "Lekarz chirurgii ortopedycznej",
+            "Lekarz chirurgii urazowo-ortopedycznej",
+            "Lekarz ortopedii i traumatologii narządu ruchu",
+            "Lekarz neurologii",
+            "Lekarz neurologii dziecięcej",
+            "Lekarz chirurgii dziecięcej",
+            "Lekarz pediatrii",
+            "Lekarz neurochirurgii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz rehabilitacji",
+            "Lekarz rehabilitacji medycznej",
+            "Lekarz rehabilitacji ogólnej",
+            "Lekarz rehabilitacji w chorobach narządu ruchu"
+          ]
+        },
+
+        {
+          "uniqueID" : "182",
+          "group" : "P",
+          "medicalID" : "P.134",
+          "timeOfUse" : "na miesiąc",
+          "limitForFunding" : "45",
+          "patientsShares" : "30",
+          "name" : "Zbiornik na insulinę do osobistej pompy insulinowej",
+          "doctor" : [
+            "Lekarz diabetologii",
+            "Lekarz pediatrii",
+            "Lekarz perinatologii",
+            "Lekarz endokrynologii i diabetologii dziecięcej",
+            "Lekarz endokrynologii",
+            "Lekarz podstawowej opieki zdrowotnej",
+            "Lekarz chorób wewnętrznych"
+           ]
+          },
+
+          {
+            "uniqueID" : "183",
+            "group" : "P",
+            "medicalID" : "P.134",
+            "timeOfUse" : "na miesiąc",
+            "limitForFunding" : "45",
+            "patientsShares" : "30",
+            "name" : "Zbiornik na insulinę do osobistej pompy insulinowej - kontynuacja zlecenia",
+            "doctor" : [
+              "Lekarz diabetologii",
+              "Lekarz pediatrii",
+              "Lekarz perinatologii",
+              "Lekarz endokrynologii i diabetologii dziecięcej",
+              "Lekarz endokrynologii",
+              "Lekarz podstawowej opieki zdrowotnej",
+              "Lekarz chorób wewnętrznych",
+              "Pielęgniarka lub położna"
+             ]
+            },
+
+            {
+            "uniqueID" : "184",
+            "group" : "P",
+            "medicalID" : "P.135",
+            "timeOfUse" : "na miesiąc",
+            "limitForFunding" : "600",
+            "patientsShares" : "30",
+            "name" : "Sensor/Elektroda do Systemu Ciągłego Monitorowania Glikemii w czasie rzeczywisty (do 26. roku życia)",
+            "doctor" : [
+              "Lekarz diabetologii",
+              "Lekarz pediatrii",
+              "Lekarz perinatologii",
+              "Lekarz endokrynologii i diabetologii dziecięcej",
+              "Lekarz endokrynologii",
+              "Lekarz podstawowej opieki zdrowotnej",
+              "Lekarz chorób wewnętrznych"
+              ]
+            },
+
+            {
+            "uniqueID" : "185",
+            "group" : "P",
+            "medicalID" : "P.135",
+            "timeOfUse" : "na miesiąc",
+            "limitForFunding" : "600",
+            "patientsShares" : "30",
+            "name" : "Sensor/Elektroda do Systemu Ciągłego Monitorowania Glikemii w czasie rzeczywisty (do 26. roku życia) - kontynuacja zlecenia",
+            "doctor" : [
+              "Lekarz diabetologii",
+              "Lekarz pediatrii",
+              "Lekarz perinatologii",
+              "Lekarz endokrynologii i diabetologii dziecięcej",
+              "Lekarz endokrynologii",
+              "Lekarz podstawowej opieki zdrowotnej",
+              "Lekarz chorób wewnętrznych",
+              "Pielęgniarka lub położna"
+              ]
+            },
+
+            {
+            "uniqueID" : "186",
+            "group" : "P",
+            "medicalID" : "P.136",
+            "timeOfUse" : " na 8 miesięcy",
+            "limitForFunding" : "1000",
+            "patientsShares" : "30",
+            "name" : "Transmiter/Nadajnik do Systemu Ciągłego Monitorowania Glikemii w czasie rzeczywisty (do 26. roku życia)",
+            "doctor" : [
+              "Lekarz diabetologii",
+              "Lekarz endokrynologii i diabetologii dziecięcej"
+              ]
+            },
+
+            {
+            "uniqueID" : "187",
+            "group" : "P",
+            "medicalID" : "P.136",
+            "timeOfUse" : " na 8 miesięcy",
+            "limitForFunding" : "1000",
+            "patientsShares" : "30",
+            "name" : "Transmiter/Nadajnik do Systemu Ciągłego Monitorowania Glikemii w czasie rzeczywisty (do 26. roku życia) - kontynuacja zlecenia",
+            "doctor" : [
+              "Lekarz diabetologii",
+              "Lekarz endokrynologii i diabetologii dziecięcej",
+              "Lekarz pediatrii",
+              "Lekarz chorób wewnętrznych",
+              "Lekarz podstawowej opieki zdrowotnej"
+              ]
+            }
+
+  ]
+}

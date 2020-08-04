@@ -1,7 +1,7 @@
 package com.dominikazb.medicalproducts.engine;
 
+import java.io.File;
 import java.io.IOException;
-import java.net.URL;
 import java.text.Collator;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -26,7 +26,11 @@ public class ReadJSon {
 		ObjectMapper mapper = new ObjectMapper(); 
 		mapper.configure(org.codehaus.jackson.map.DeserializationConfig.Feature.FAIL_ON_UNKNOWN_PROPERTIES, false); //ignore fields that are not formatted properly
 		TypeReference<HashMap<Object,Object>> typeRef = new TypeReference<HashMap<Object,Object>>() {};
-		HashMap<Object, Object> resultsMap = mapper.readValue(new URL("https://api.npoint.io/6d8c090332bb3db7da38"), typeRef);
+//		HashMap<Object, Object> resultsMap = mapper.readValue(new URL("https://api.npoint.io/6d8c090332bb3db7da38"), typeRef); //this was used for reading JSON online
+		File jsonFile = new File("json_data/wyroby_medyczne.json");
+		HashMap<Object, Object> resultsMap = mapper.readValue(jsonFile, typeRef);
+
+		
 		ArrayList<Object> featuresArrayList = (ArrayList<Object>) resultsMap.get("products");
 		
 		for(Object o : featuresArrayList) {
