@@ -32,7 +32,7 @@ public class PrintListOfMedicalProductsServlet extends HttpServlet {
 			session.removeAttribute("inputMedicalProduct");
 			request.getRequestDispatcher("/listOfMedicalProducts.jsp").forward(request, response);
 		} catch (NullPointerException e) {
-			request.getRequestDispatcher("/index.jsp").forward(request, response);
+			response.sendRedirect("/");
 		}
 		
 	}

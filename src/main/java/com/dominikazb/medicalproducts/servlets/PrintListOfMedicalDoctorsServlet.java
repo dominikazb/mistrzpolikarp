@@ -34,7 +34,7 @@ public class PrintListOfMedicalDoctorsServlet extends HttpServlet {
 			session.removeAttribute("inputMedicalDoctor");
 			request.getRequestDispatcher("/listOfMedicalDoctors.jsp").forward(request, response);		
 		} catch(NullPointerException e) {
-			request.getRequestDispatcher("/index.jsp").forward(request, response);
+			response.sendRedirect("/");
 		}
 
 	}
